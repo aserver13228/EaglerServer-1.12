@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: true
+godmode: false
 muted: false
 jailed: false
 ip-address: 127.0.0.1
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1763391984338
+  lastteleport: 1763480963884
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763401146105
-  login: 1763400579635
+  logout: 1763489097050
+  login: 1763488975074
 money: '0'
 last-account-name: ParrotX2
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -206.92144960902144
-  y: 70.77765837520914
-  z: 313.68549411678106
-  yaw: -111.900390625
-  pitch: 35.25006103515625
+  x: -457.1139414690213
+  y: 88.63714834221379
+  z: 774.0972980624936
+  yaw: -39.148681640625
+  pitch: 7.500048637390137
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -178.49816825460826
-  y: 64.0
-  z: 243.66603455044594
-  yaw: -249.749755859375
-  pitch: 36.000003814697266
+  x: -132.6762299514013
+  y: 69.36075
+  z: 318.47184377147494
+  yaw: -55.500282287597656
+  pitch: 36.90000915527344

@@ -1,0 +1,17 @@
+player_name: Mappic
+language: en_US
+setlang: false
+last_location:
+  world: new
+  x: 0.18432540007031095
+  y: 85.0
+  z: 0.8637288421662577
+  pitch: 19.800001
+  yaw: -28.65
+logout_location:
+  world: new
+  x: 0.18432540007031095
+  y: 85.0
+  z: 0.8637288421662577
+  pitch: 12.750003
+  yaw: 211.35002

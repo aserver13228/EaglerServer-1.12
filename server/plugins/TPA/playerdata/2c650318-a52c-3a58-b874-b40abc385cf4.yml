@@ -1,0 +1,17 @@
+player_name: SR8K
+language: en_US
+setlang: false
+last_location:
+  world: new
+  x: 0.6142991927936845
+  y: 85.0
+  z: 1.0248158268845593
+  pitch: 26.849993
+  yaw: 72.59996
+logout_location:
+  world: new
+  x: 0.5785266493888783
+  y: 85.0
+  z: 0.9916070619576987
+  pitch: 48.899994
+  yaw: -9.15004

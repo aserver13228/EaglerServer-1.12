@@ -110,7 +110,7 @@ Chat:
 
 
 # Should we fire some cool fireworks at locations of every player at special events such as the game end?
-Firework: true
+Firework: false
 
 
 # Should blocks behind game signs change their color based on game state?
@@ -167,11 +167,11 @@ Option:
 
 Cycle:
   # Should we make permanent clear weather on all worlds where our arenas are?
-  Weather: false
+  Weather: true
   # Should the time on the world your arenas are modified to stay at the same time?
   Daylight:
-    Enable: false
-    Time: 10000
+    Enable: true
+    Time: 0
 
 
 # How many seconds game should take to start.
@@ -192,10 +192,10 @@ Spectators: true
 Update-Notifier:
   # Should we check for updates on plugin start/after admin join?
   # You REALLY should have this true!
-  Enabled: true
+  Enabled: false
   # Should we inform you when beta version is out?
   # BETA IS NOT ALWAYS AS STABLE AS NORMAL RELEASE!
-  Notify-Beta-Versions: true
+  Notify-Beta-Versions: false
 
 Corpses:
   # Should we override corpses spawn from CorpsesReborn plugin?

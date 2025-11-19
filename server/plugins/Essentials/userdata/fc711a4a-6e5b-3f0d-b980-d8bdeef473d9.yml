@@ -16,9 +16,9 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763140240144
-  login: 1763404805666
-money: '23.39'
+  logout: 1763485844039
+  login: 1763484752500
+money: '27.56'
 last-account-name: voohees
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -385.48458022977854
-  y: 70.0
-  z: 410.12542909961815
-  yaw: -95.099853515625
-  pitch: 11.099982261657715
+  x: 828.7905176663269
+  y: 64.0
+  z: 1548.075759123618
+  yaw: 261.5986328125
+  pitch: 17.549962997436523

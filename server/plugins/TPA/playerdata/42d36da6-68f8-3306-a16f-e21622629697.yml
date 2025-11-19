@@ -1,0 +1,17 @@
+player_name: the_king
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -206.85124133413
+  y: 62.0
+  z: 251.23786468626034
+  pitch: 13.950011
+  yaw: -63.000046
+logout_location:
+  world: um
+  x: -178.64134415876842
+  y: 65.0
+  z: 256.70613286368894
+  pitch: 15.300011
+  yaw: 246.74998

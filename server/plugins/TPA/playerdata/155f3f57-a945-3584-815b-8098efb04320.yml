@@ -2,16 +2,16 @@ player_name: Mapicc_
 language: en_GB
 setlang: false
 last_location:
-  world: portal
-  x: 613.2099555780237
-  y: 9.0625
-  z: -1101.1393347957087
-  pitch: 14.699974
-  yaw: -54.448853
+  world: um
+  x: -33.76174623836494
+  y: 63.90199999809265
+  z: -134.51531397692523
+  pitch: 72.600006
+  yaw: 152.70386
 logout_location:
-  world: portal
-  x: 605.0
-  y: 4.0
-  z: -1057.0
-  pitch: 0.0
-  yaw: -54.448853
+  world: um
+  x: -28.978039301012707
+  y: 64.0
+  z: -135.10335191190188
+  pitch: 33.750057
+  yaw: 16.354736

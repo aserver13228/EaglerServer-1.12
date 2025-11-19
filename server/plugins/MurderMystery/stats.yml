@@ -1,17 +1,24 @@
 data-version: 1
 b8e46504-274d-3847-ac77-ed94dbe8064b:
   playername: Wemmbu
-  next_level_exp: 354
-  contribution_detective: 238
-  level: 1
-  deaths: 3
-  contribution_murderer: 6
-  games_played: 5
-  exp: 50
-  kills: 2
-  wins: 2
+  next_level_exp: 0
+  contribution_detective: 0
+  level: 0
+  deaths: 0
+  contribution_murderer: 0
+  games_played: 0
+  exp: 0
+  kills: 0
+  wins: 0
+  highest_score: 0
 1ac60049-6f05-3e8c-91b8-0ec93922d8db:
   playername: ParrotX2
+  next_level_exp: 354
+  level: 1
+  deaths: 2
+  games_played: 3
+  exp: 30
+  highest_score: 390
 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc:
   playername: Manepear
 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7:
@@ -22,6 +29,10 @@ b8e46504-274d-3847-ac77-ed94dbe8064b:
   playername: _Manepear_
 0a5259b1-2027-3ec5-8cdd-f69064826c82:
   playername: kingrobby102
+  next_level_exp: 354
+  level: 1
+  games_played: 1
+  exp: 10
 6d9d77b6-eac0-369e-90ab-9562b0f35f10:
   playername: ItzRealMe
 8f0653da-eb19-3d19-adad-cbbb9a155655:
@@ -30,26 +41,70 @@ f78efba2-900c-3f56-a7f9-4d092b98536c:
   playername: ABUHARB626_
 d86678db-a54b-3284-9ce7-5bba6bf45426:
   playername: Isiss
+  next_level_exp: 354
+  level: 1
+  deaths: 1
+  games_played: 1
+  exp: 10
 7e4428a8-63f4-377f-8710-bc9faa02dd2a:
   playername: the_milk_man
 2f3f7cb7-0214-3b16-84f0-add57a857d6d:
   playername: Armani
 d8f817ca-3bd8-34a4-9283-eaa8c56ebc75:
   playername: thebesttoucher
+  next_level_exp: 354
+  level: 1
+  deaths: 2
+  games_played: 3
+  exp: 30
+  contribution_detective: 1
+  contribution_murderer: 254
+  kills: 1
+  wins: 1
 cf082672-3126-352f-bb39-02a47a4b8e5e:
   playername: jose
+  next_level_exp: 354
+  level: 1
+  deaths: 1
+  games_played: 1
+  exp: 10
 b716ba34-656a-3370-99c6-f2522d6b2779:
   playername: Nari
 0f4b3723-306b-33f2-96f1-04ac4a432102:
   playername: Yareth_dude
+  next_level_exp: 354
+  level: 1
+  deaths: 1
+  games_played: 2
+  exp: 20
 5737a6e7-7872-3412-9b81-880b447c9081:
   playername: Mapicc
 93cb2c1b-8a8e-3aa7-b46b-093c0af2801f:
   playername: Frankie300s
 3e54b472-4830-3bba-86eb-59acffcbc28d:
   playername: rw4
+  next_level_exp: 354
+  contribution_detective: 27
+  level: 1
+  deaths: 6
+  games_played: 11
+  exp: 110
+  highest_score: 615
+  contribution_murderer: 287
+  wins: 4
+  kills: 2
 0ca41977-44f3-3674-ac5f-9a40345a4808:
   playername: flamefrags
+  next_level_exp: 354
+  contribution_detective: 113
+  level: 1
+  contribution_murderer: 1
+  games_played: 13
+  kills: 17
+  exp: 130
+  wins: 9
+  highest_score: 300
+  deaths: 4
 fc711a4a-6e5b-3f0d-b980-d8bdeef473d9:
   playername: voohees
 f120e45a-eb13-3e72-ada9-c45d4ab4f99c:
@@ -71,15 +126,15 @@ b9f8eb16-3066-3bd2-a0d9-4f6f83cf5275:
 155f3f57-a945-3584-815b-8098efb04320:
   playername: Mapicc_
   next_level_exp: 354
-  contribution_detective: 547
+  contribution_detective: 454
   level: 1
-  contribution_murderer: 1
-  games_played: 5
-  kills: 6
-  exp: 50
-  wins: 4
-  highest_score: 115
-  deaths: 1
+  contribution_murderer: 110
+  games_played: 21
+  kills: 12
+  exp: 210
+  wins: 11
+  highest_score: 330
+  deaths: 10
 a09d9599-c777-3d52-b647-797cdc1dc256:
   playername: Hamzah898933_
 250c44a2-9b36-3434-8bbd-bda0392ea84c:
@@ -116,3 +171,36 @@ de71792d-7c21-3440-9b44-57d151f768b4:
   deaths: 4
   games_played: 4
   exp: 40
+3addac6a-4c7c-3368-ad45-346288798163:
+  playername: manepear____
+201d48e9-dbd1-3215-becb-0db004a48e46:
+  playername: manepear_____
+c0b03573-bc73-30a6-865f-36a6cad37e8a:
+  playername: gio_
+2c650318-a52c-3a58-b874-b40abc385cf4:
+  playername: SR8K
+11a5fa6d-5be8-3826-a30e-bd48266b5415:
+  playername: the_real_OG__
+74bd5fc3-2578-31e1-b477-8e099a587f94:
+  playername: OtakuZackGamer
+42d36da6-68f8-3306-a16f-e21622629697:
+  next_level_exp: 354
+  level: 1
+  deaths: 1
+  games_played: 1
+  exp: 10
+  playername: the_king
+66199d1f-2d13-3fd9-aeec-ffed9e2a6cfb:
+  playername: thebesttouchers
+2c39527c-8600-3d64-bcc0-a3daed34e652:
+  playername: Mappic
+61640042-6fb7-3a32-accc-c8490d4db989:
+  playername: womenbetter
+734fbb45-b1dc-3264-aa7c-8391391dd22c:
+  playername: C4s_Are_4_Kidzz
+a91cd640-181b-3579-9a76-a0779998c54f:
+  playername: mon
+90fe57db-9ef5-33ca-a308-6f0e48dbd918:
+  playername: kingrobby101
+529ccedf-028f-3585-8542-c8f2cc331faa:
+  playername: gio

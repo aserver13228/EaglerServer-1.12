@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1763478473936
+  login: 1763476673921
+money: '0'
+last-account-name: the_king
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -206.85124133413
+  y: 62.0
+  z: 251.23786468626034
+  yaw: -63.00004577636719
+  pitch: 13.950011253356934
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -178.64134415876842
+  y: 65.0
+  z: 256.70613286368894
+  yaw: 246.74998474121094
+  pitch: 15.300010681152344

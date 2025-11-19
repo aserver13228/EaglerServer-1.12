@@ -2,19 +2,19 @@ player_name: Wemmbu
 language: en_US
 setlang: false
 last_location:
-  world: OneBlock
-  x: 92.61512423736677
-  y: 91.0
-  z: 1404.0696971229688
-  pitch: 14.25
-  yaw: -168.00009
+  world: portal
+  x: 604.8013682265218
+  y: 2.0
+  z: -1055.300000011921
+  pitch: -1.9499874
+  yaw: 261.15005
 logout_location:
-  world: um
-  x: -179.39279661014672
-  y: 71.0
-  z: 292.2593885576659
-  pitch: -35.85002
-  yaw: -39.00104
+  world: portal
+  x: 604.8013682265218
+  y: 2.0
+  z: -1055.300000011921
+  pitch: -1.9499874
+  yaw: 261.15005
 default_home: ham
 homes:
   ham:

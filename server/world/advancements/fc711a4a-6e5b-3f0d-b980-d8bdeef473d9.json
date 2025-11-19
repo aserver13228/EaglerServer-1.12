@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-11-18 17:03:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-11-10 18:53:44 +0000"
@@ -318,6 +324,7 @@
       "baked_potato": "2025-11-14 17:08:52 +0000",
       "porkchop": "2025-11-13 18:00:40 +0000",
       "potato": "2025-11-14 17:01:12 +0000",
+      "beetroot": "2025-11-18 17:07:49 +0000",
       "cooked_chicken": "2025-11-14 15:22:19 +0000"
     },
     "done": false
@@ -445,6 +452,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-11-10 18:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-11-18 17:03:54 +0000"
     },
     "done": true
   },
@@ -600,10 +613,13 @@
       "forest_hills": "2025-11-10 19:03:53 +0000",
       "savanna": "2025-11-10 18:54:17 +0000",
       "plains": "2025-11-10 18:52:46 +0000",
+      "jungle_hills": "2025-11-18 16:58:52 +0000",
+      "jungle_edge": "2025-11-18 16:58:57 +0000",
       "mesa_clear_rock": "2025-11-13 17:59:17 +0000",
       "savanna_rock": "2025-11-12 13:31:28 +0000",
       "birch_forest_hills": "2025-11-10 18:49:37 +0000",
       "river": "2025-11-10 18:50:28 +0000",
+      "jungle": "2025-11-18 16:59:18 +0000",
       "desert": "2025-11-10 18:54:34 +0000"
     },
     "done": false
@@ -671,6 +687,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-11-12 13:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-11-18 17:03:54 +0000"
     },
     "done": true
   },

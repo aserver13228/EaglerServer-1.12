@@ -16,9 +16,9 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763128116924
-  login: 1763127913641
-money: '1.88'
+  logout: 1763490332904
+  login: 1763490460869
+money: '80.63'
 last-account-name: Armani
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -228.30000001192093
-  y: 63.0
-  z: -269.5673095085102
-  yaw: 190.0424346923828
-  pitch: 34.649986267089844
+  x: 157.89606450066907
+  y: 76.0
+  z: -477.8787860220876
+  yaw: 124.349853515625
+  pitch: 10.04993724822998

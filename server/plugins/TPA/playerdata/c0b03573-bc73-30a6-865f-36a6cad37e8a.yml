@@ -1,0 +1,17 @@
+player_name: gio_
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 448.39079896243055
+  y: 62.0
+  z: 133.5636169728497
+  pitch: 6.9000506
+  yaw: -272.8491
+logout_location:
+  world: um
+  x: -260.6741991362409
+  y: 67.0
+  z: 238.24969241176748
+  pitch: 34.799973
+  yaw: -5.699941

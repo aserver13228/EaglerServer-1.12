@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-11-18 15:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-10-24 16:48:57 +0000"
@@ -338,6 +344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-11-18 14:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-10-24 16:48:39 +0000",
@@ -345,6 +357,7 @@
       "cooked_beef": "2025-10-30 19:34:29 +0000",
       "chorus_fruit": "2025-11-07 16:17:33 +0000",
       "apple": "2025-11-06 12:52:19 +0000",
+      "rabbit": "2025-11-18 14:37:05 +0000",
       "bread": "2025-11-07 16:16:57 +0000",
       "golden_apple": "2025-11-07 17:12:27 +0000",
       "carrot": "2025-10-28 17:53:54 +0000"
@@ -486,6 +499,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-10-28 12:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-11-18 14:36:50 +0000"
     },
     "done": true
   },
@@ -1105,6 +1124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-11-18 14:36:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-10-24 16:48:57 +0000"
@@ -1562,6 +1587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-11-18 14:13:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-10-27 16:57:15 +0000"
@@ -1571,6 +1602,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-11-05 15:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-11-18 14:13:49 +0000"
     },
     "done": true
   },

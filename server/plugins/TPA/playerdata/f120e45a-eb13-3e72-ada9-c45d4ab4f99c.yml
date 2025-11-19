@@ -3,17 +3,17 @@ language: en_US
 setlang: false
 last_location:
   world: um
-  x: 9446.492622977652
-  y: 69.0
-  z: -7347.280576694239
-  pitch: 4.3499947
-  yaw: -65.459274
-logout_location:
-  world: um
   x: 9563.610489920733
   y: 65.0
   z: -7504.972565379399
   pitch: 42.15001
   yaw: -20.909195
+logout_location:
+  world: um
+  x: 9525.809506455142
+  y: 77.0
+  z: -7524.882099768596
+  pitch: 8.399985
+  yaw: 346.2727
 deny_list:
 - dad2c3d9-143b-36ce-9102-87e5b000be97

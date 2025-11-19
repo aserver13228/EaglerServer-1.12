@@ -1,108 +1,1100 @@
-[00:00:01] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> can u not see my msgs?
-[00:00:05] [Server thread/INFO]: [portal]<Oh it’s Mapicc_ The player✌️👋> yeah
-[00:00:17] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> do /mm join portal
-[00:00:28] [Server thread/INFO]: Wemmbu issued server command: /mm join portal
-[00:00:28] [Server thread/INFO]: [MurderMystery] Saved inventory of Wemmbu
-[00:00:28] [Server thread/INFO]: Mapicc_ issued server command: /mm join portal
-[00:00:28] [Server thread/INFO]: [MurderMystery] Saved inventory of Mapicc_
-[00:01:13] [Server thread/INFO]: Dead[1] OWNER WemmbuTHE ADMIN | OWWWWWW
-[00:01:20] [Server thread/INFO]: [1] Oh it’s Mapicc_ The player✌️👋 | my brother is joining
-[00:01:21] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mapicc_
-[00:01:21] [Server thread/INFO]: [MurderMystery] Loaded inventory of Wemmbu
-[00:01:22] [User Authenticator #2/WARN]: [LuckPerms] LuckPerms already has data for player 'Manepear_' - but this data is stored under a different UUID.
-[00:01:22] [User Authenticator #2/WARN]: [LuckPerms] 'Manepear_' has previously used the unique ids [97b97a69-5a98-370c-8f78-f3f1366ff711] but is now connecting with 'd34ae832-811e-3926-84eb-581483a31cec'
-[00:01:22] [User Authenticator #2/WARN]: [LuckPerms] The UUID the player is connecting with now is NOT Mojang-assigned (type 3). This implies that THIS server is not authenticating correctly, but one (or more) of the other servers/proxies in the network are.
-[00:01:22] [User Authenticator #2/WARN]: [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
-[00:01:22] [User Authenticator #2/WARN]: [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
-[00:01:22] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@412573dc[id=d34ae832-811e-3926-84eb-581483a31cec,name=Manepear_,properties={},legacy=false] (/127.0.0.1:46082): [LoginSecurity] This account is registered under the name ManePear_, please log in as such.
-[00:01:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@412573dc[id=d34ae832-811e-3926-84eb-581483a31cec,name=Manepear_,properties={},legacy=false] (/127.0.0.1:46082) lost connection: [LoginSecurity] This account is registered under the name ManePear_, please log in as such.
-[00:01:35] [Server thread/INFO]: Mapicc_ issued server command: /mm join portal
-[00:01:35] [Server thread/INFO]: [MurderMystery] Saved inventory of Mapicc_
-[00:01:37] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> do the same command /mm join portal
-[00:01:42] [Server thread/INFO]: Wemmbu issued server command: /mm join portal
-[00:01:42] [Server thread/INFO]: [MurderMystery] Saved inventory of Wemmbu
-[00:01:53] [User Authenticator #2/WARN]: [LuckPerms] LuckPerms already has data for player 'manepear' - but this data is stored under a different UUID.
-[00:01:53] [User Authenticator #2/WARN]: [LuckPerms] 'manepear' has previously used the unique ids [48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc] but is now connecting with '3b4fc609-fcce-308d-9539-ef384652fdba'
-[00:01:53] [User Authenticator #2/WARN]: [LuckPerms] The UUID the player is connecting with now is NOT Mojang-assigned (type 3). This implies that THIS server is not authenticating correctly, but one (or more) of the other servers/proxies in the network are.
-[00:01:53] [User Authenticator #2/WARN]: [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
-[00:01:53] [User Authenticator #2/WARN]: [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
-[00:01:53] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@640eb627[id=3b4fc609-fcce-308d-9539-ef384652fdba,name=manepear,properties={},legacy=false] (/127.0.0.1:57232): [LoginSecurity] This account is registered under the name Manepear, please log in as such.
-[00:01:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@640eb627[id=3b4fc609-fcce-308d-9539-ef384652fdba,name=manepear,properties={},legacy=false] (/127.0.0.1:57232) lost connection: [LoginSecurity] This account is registered under the name Manepear, please log in as such.
-[00:02:01] [Server thread/INFO]: [1] OWNER WemmbuTHE ADMIN | wait
-[00:02:04] [User Authenticator #2/INFO]: UUID of player manepear___ is 1244ba2c-088a-34e3-8c8f-b58d3a98ce86
-[00:02:05] [Server thread/INFO]: manepear___[/127.0.0.1:58686] logged in with entity id 2916 at ([world]204.5, 162.0, 167.5)
-[00:02:05] [Server thread/INFO]: manepear___ has made the advancement [Getting an Upgrade]
-[00:02:12] [Server thread/INFO]: [1] OWNER WemmbuTHE ADMIN | u know u can throw ur sword btw
-[00:02:19] [Server thread/INFO]: [1] OWNER WemmbuTHE ADMIN | by right click
-[00:02:19] [Server thread/INFO]: [1] Oh it’s Mapicc_ The player✌️👋 | nice thx
-[00:02:25] [Server thread/INFO]: manepear___ issued server command: /tpa Mapicc_
-[00:02:43] [Server thread/INFO]: Wemmbu issued server command: /
-[00:02:45] [Server thread/INFO]: manepear___ issued server command: /MM JOIN PORTAL
-[00:02:45] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mapicc_
-[00:02:45] [Server thread/INFO]: [MurderMystery] Loaded inventory of Wemmbu
-[00:02:50] [Server thread/INFO]: Wemmbu issued server command: /ms
-[00:02:52] [Server thread/INFO]: Wemmbu issued server command: /gms
-[00:02:55] [Server thread/INFO]: manepear___ issued server command: /MM JOIN portal
-[00:02:55] [Server thread/INFO]: [MurderMystery] Saved inventory of manepear___
-[00:02:58] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> manepear
-[00:03:00] [Server thread/INFO]: Mapicc_ issued server command: /mm join portal
-[00:03:00] [Server thread/INFO]: [MurderMystery] Saved inventory of Mapicc_
-[00:03:01] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> wrong account
-[00:03:06] [Server thread/INFO]: Wemmbu issued server command: /heal
-[00:03:09] [Server thread/INFO]: [1] Oh it’s Mapicc_ The player✌️👋 | hes in
-[00:03:19] [Server thread/INFO]: Wemmbu issued server command: /kick manepear___ WRONG ACCOUNT
-[00:03:19] [Server thread/INFO]: [MurderMystery] Loaded inventory of manepear___
-[00:03:19] [Server thread/INFO]: manepear___ lost connection: AdvancedBan » You got kicked
+[12:42:32] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[12:42:32] [Server thread/INFO]: Loading properties
+[12:42:32] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[12:42:32] [Server thread/INFO]: Default game type: SURVIVAL
+[12:42:32] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[12:42:32] [Server thread/INFO]: Debug logging is disabled
+[12:42:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:42:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:42:33] [Server thread/INFO]: Generating keypair
+[12:42:33] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[12:42:33] [Server thread/INFO]: Using default channel type
+[12:42:34] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:42:35] [Server thread/INFO]: [BedWars] Loaded NMS modules for 1.12.2 in namespaces [spigot]
+[12:42:36] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[12:42:36] [Server thread/INFO]: [MCJukebox] Loading MCJukebox v2.7.0
+[12:42:36] [Server thread/INFO]: [RealMaces] Loading RealMaces v1.0
+[12:42:36] [Server thread/INFO]: [GreatLifeSteal] Loading GreatLifeSteal v2.0-SNAPSHOT
+[12:42:36] [Server thread/INFO]: [MineChatGPT] Loading MineChatGPT v2.7
+[12:42:36] [Server thread/INFO]: [NoteBlockAPI] Loading NoteBlockAPI v1.6.3
+[12:42:36] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.5.1
+[12:42:37] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.1 is now loaded. Registering protocol transformers and injecting...
+[12:42:37] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[12:42:38] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[12:42:38] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[12:42:38] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[12:42:39] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[12:42:39] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.5.1
+[12:42:39] [Server thread/INFO]: [LightAPI] Loading LightAPI v3.5.2
+[12:42:39] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.14.2
+[12:42:39] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.5.0
+[12:42:40] [Server thread/INFO]: [Itemizer] Loading Itemizer v5.05
+[12:42:40] [Server thread/INFO]: [ControlPlayer] Loading ControlPlayer v2.6.1
+[12:42:40] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[12:42:40] [Server thread/INFO]: [TPA] Loading TPA v3.2.6
+[12:42:40] [Server thread/INFO]: [Essentials_WarpGUI] Loading Essentials_WarpGUI v1.6.1
+[12:42:40] [Server thread/INFO]: [VeinMiner] Loading VeinMiner v1.11.3
+[12:42:40] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[12:42:40] [Server thread/INFO]: [EquipOnRightClick] Loading EquipOnRightClick v1.5
+[12:42:40] [Server thread/INFO]: [Oneblock] Loading Oneblock v1.4.4
+[12:42:40] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.4.0
+[12:42:40] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[12:42:40] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.5.3-T20251009215941
+[12:42:40] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[12:42:40] [Server thread/INFO]: [StaffModeX] Loading StaffModeX v1.2.4
+[12:42:40] [Server thread/INFO]: [NoShieldDelay] Loading NoShieldDelay v2.0.2
+[12:42:40] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5.0-b751
+[12:42:40] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[12:42:40] [Server thread/INFO]: [GWarp] Loading GWarp v[2.13.0.2]
+[12:42:40] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.11
+[12:42:40] [Server thread/INFO]: [GriefDefender] Loading GriefDefender v3.1.0
+[12:42:40] [Server thread/INFO]: [MusicBox] Loading MusicBox v2.1.4
+[12:42:40] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v2.5.0-SNAPSHOT-b444
+[12:42:40] [Server thread/INFO]: [MurderMystery] Loading MurderMystery v2.1.5
+[12:42:40] [Server thread/INFO]: [QualityArmory] Loading QualityArmory v2.0.23
+[12:42:40] [Server thread/INFO]: [WirelessRedstone] Loading WirelessRedstone v3.0.5
+[12:42:40] [Server thread/INFO]: [CrazyEnchantments] Loading CrazyEnchantments v1.8.1.0
+[12:42:40] [Server thread/INFO]: [Essentials] Loading Essentials v2.21.2
+[12:42:40] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[12:42:40] [Server thread/INFO]: [Admin-GUI] Loading Admin-GUI v1.9.0
+[12:42:40] [Server thread/INFO]: [SimpleFreeze] Loading SimpleFreeze v3.2.4
+[12:42:40] [Server thread/INFO]: [BedWars] Loading BedWars v0.2.41
+[12:42:40] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.3.0
+[12:42:40] [Server thread/INFO]: [BannerMaker] Loading BannerMaker v1.9.0
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Loading ajLeaderboards v2.10.1
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for jar-relocator
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Checksum matched for jar-relocator
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm-commons
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm-commons
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[12:42:40] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for HikariCP
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for HikariCP
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for slf4j-api
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for slf4j-api
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for h2
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for h2
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okhttp
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okhttp
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okio
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okio
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okio-jvm
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okio-jvm
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-jdk8
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-jdk8
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-common
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-common
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for annotations
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for annotations
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-jdk7
+[12:42:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-jdk7
+[12:42:41] [Server thread/INFO]: [CrazyAuctions] Loading CrazyAuctions v1.2.19
+[12:42:41] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.21.2
+[12:42:41] [Server thread/INFO]: [EconomyShopGUI] Loading EconomyShopGUI v6.15.1
+[12:42:41] [Server thread/INFO]: [TAB] Loading TAB v5.3.2
+[12:42:41] [Server thread/INFO]: [PlayerKits2] Loading PlayerKits2 v1.19.1
+[12:42:41] [Server thread/INFO]: [MTVehicles] Loading MTVehicles v2.5.8
+[12:42:41] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mtv [null]
+[12:42:41] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.21.2
+[12:42:41] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.21.2
+[12:42:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:42:41] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[12:42:41] [Server thread/INFO]:         __    
+[12:42:41] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[12:42:41] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[12:42:41] [Server thread/INFO]: 
+[12:42:41] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[12:42:42] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[12:42:42] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[12:42:43] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[12:42:43] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1909ms)
+[12:42:43] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.4.0
+[12:42:43] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[12:42:43] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[12:42:43] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:42:43] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:42:43] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[12:42:43] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[12:42:43] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.11
+[12:42:43] [Server thread/INFO]: [GriefDefender] Enabling GriefDefender v3.1.0
+[12:42:43] [Server thread/INFO]: [GriefDefender] Loading libraries...
+[12:42:44] [Server thread/INFO]: [GriefDefender] GriefDefender boot start.
+[12:42:44] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+[12:42:44] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[12:42:44] [Server thread/WARN]: 	at com.griefdefender.internal.registry.TileEntityTypeRegistryModule.registerDefaults(TileEntityTypeRegistryModule.java:116)
+[12:42:44] [Server thread/WARN]: 	at com.griefdefender.GriefDefenderPlugin.onEnable(GriefDefenderPlugin.java:812)
+[12:42:44] [Server thread/WARN]: 	at com.griefdefender.GDBootstrap.onEnable(GDBootstrap.java:205)
+[12:42:44] [Server thread/WARN]: 	at com.griefdefender.loader.BukkitLoaderPlugin.onEnable(BukkitLoaderPlugin.java:48)
+[12:42:44] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[12:42:44] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:316)
+[12:42:44] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:42:44] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:395)
+[12:42:44] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:344)
+[12:42:44] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:223)
+[12:42:44] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:616)
+[12:42:44] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:42:44] [Server thread/INFO]: [GriefDefender] Loading configuration...
+[12:42:45] [Server thread/INFO]: [GriefDefender] Loading Flag Definition Presets...
+[12:42:45] [Server thread/INFO]: [GriefDefender] Loading flag definitions from file 'minecraft.yml'...
+[12:42:46] [Server thread/INFO]: [GriefDefender] Detected Vault. Initializing VaultProvider...
+[12:42:46] [Server thread/INFO]: [GriefDefender] [ACF] Enabled Asynchronous Tab Completion Support!
+[12:42:47] [Server thread/INFO]: [GriefDefender] Loaded successfully.
+[12:42:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:42:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:42:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:42:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:42:47] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:42:47] [Server thread/INFO]: Preparing level "world"
+[12:42:47] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:42:47] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:47] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:47] [Server thread/INFO]: Structure Info Saving: true
+[12:42:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:47] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:47] [Server thread/INFO]: View Distance: 4
+[12:42:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:49] [Server thread/INFO]: [GriefDefender] [world] 0 total claims loaded.
+[12:42:49] [Server thread/INFO]: [GriefDefender] Loading schematics for world world...
+[12:42:49] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:42:49] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:49] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:49] [Server thread/INFO]: Structure Info Saving: true
+[12:42:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:49] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:49] [Server thread/INFO]: View Distance: 4
+[12:42:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:49] [Server thread/INFO]: [GriefDefender] [world_nether] 0 total claims loaded.
+[12:42:49] [Server thread/INFO]: [GriefDefender] Loading schematics for world world_nether...
+[12:42:49] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:42:49] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:49] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:49] [Server thread/INFO]: Structure Info Saving: true
+[12:42:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:49] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:49] [Server thread/INFO]: View Distance: 4
+[12:42:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:49] [Server thread/INFO]: [GriefDefender] [world_the_end] 0 total claims loaded.
+[12:42:49] [Server thread/INFO]: [GriefDefender] Loading schematics for world world_the_end...
+[12:42:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5146159088207717555)
+[12:42:50] [Server thread/INFO]: Preparing spawn area: 12%
+[12:42:50] [Server thread/INFO]: Preparing start region for level 1 (Seed: 3413096383872671809)
+[12:42:50] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3413096383872671809)
+[12:42:50] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[12:42:50] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[12:42:50] [Server thread/INFO]: [MCJukebox] Enabling MCJukebox v2.7.0
+[12:42:51] [Server thread/INFO]: [MCJukebox] MCJukebox has been loaded!
+[12:42:51] [Server thread/INFO]: [RealMaces] Enabling RealMaces v1.0
+[12:42:51] [Server thread/INFO]: [RealMaces] RealMacesPlugin enabled!
+[12:42:51] [Server thread/INFO]: [GreatLifeSteal] Enabling GreatLifeSteal v2.0-SNAPSHOT
+[12:42:51] [Server thread/INFO]: [io.github.zrdzn.minecraft.greatlifesteal.GreatLifeStealPlugin] Using v1.12.2 version of the adapter.
+[12:42:51] [Server thread/INFO]: [io.github.zrdzn.minecraft.greatlifesteal.heart.HeartItemStackFactory] Applying 'heart' nbt key to heart item.
+[12:42:51] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_12_R1! Trying to find NMS support
+[12:42:51] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_12_R1' loaded!
+[12:42:51] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'GreatLifeSteal' to create a bStats instance!
+[12:42:51] [Server thread/INFO]: [io.github.zrdzn.minecraft.greatlifesteal.heart.HeartItemStackFactory] Applying 'heart-health-change' nbt key to heart item.
+[12:42:51] [Server thread/INFO]: [io.github.zrdzn.minecraft.greatlifesteal.GreatLifeStealPlugin] Added the new heart item recipe.
+[12:42:51] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: glifesteal [1.0.0]
+[12:42:51] [Server thread/INFO]: [io.github.zrdzn.minecraft.greatlifesteal.GreatLifeStealPlugin] PlaceholderAPI has been found and its expansion was successfully registered.
+[12:42:51] [Server thread/WARN]: [io.github.zrdzn.minecraft.greatlifesteal.update.UpdateNotifier] You are using an outdated version of the plugin!
+[12:42:51] [Server thread/WARN]: [io.github.zrdzn.minecraft.greatlifesteal.update.UpdateNotifier] You can download the latest one here:
+[12:42:51] [Server thread/WARN]: [io.github.zrdzn.minecraft.greatlifesteal.update.UpdateNotifier] https://www.spigotmc.org/resources/greatlifesteal.102206/
+[12:42:51] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[12:42:51] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[12:42:51] [Server thread/INFO]: [io.github.zrdzn.minecraft.greatlifesteal.storage.StorageFactory] Choosing SQLite as a storage provider.
+[12:42:51] [Server thread/INFO]: [MineChatGPT] Enabling MineChatGPT v2.7
+[12:42:51] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.3
+[12:42:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.1
+[12:42:51] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.5.1
+[12:42:51] [Server thread/INFO]: [LightAPI] Enabling LightAPI v3.5.2
+[12:42:51] [Server thread/INFO]: [LightAPI] Loading CraftBukkit implementation for Paper server v1_12_R1.
+[12:42:51] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.14.2
+[12:42:51] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[12:42:51] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[12:42:51] [Server thread/INFO]: [Itemizer] Enabling Itemizer v5.05
+[12:42:51] [Server thread/INFO]: [ControlPlayer] Enabling ControlPlayer v2.6.1
+[12:42:52] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[12:42:52] [EventThread/INFO]: [MCJukebox] Key accepted and connection to MCJukebox established.
+[12:42:52] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:42:52] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:42:52] [Server thread/INFO]: [TPA] Enabling TPA v3.2.6
+[12:42:52] [Server thread/INFO]: [Essentials_WarpGUI] Enabling Essentials_WarpGUI v1.6.1
+[12:42:52] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v1.11.3
+[12:42:52] [Server thread/INFO]: [VeinMiner] Registering events
+[12:42:52] [Server thread/INFO]: [VeinMiner] Registering commands
+[12:42:52] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[12:42:52] [Server thread/INFO]: [VeinMiner] Unknown world found... "WorldName". Ignoring...
+[12:42:52] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[12:42:52] [Server thread/INFO]: [ClearLag] Using version-adapter: LegacyVersionAdapter
+[12:42:52] [Server thread/INFO]: [ClearLag] Loading modules...
+[12:42:52] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[12:42:52] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[12:42:52] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[12:42:52] [Server thread/INFO]: [EquipOnRightClick] Enabling EquipOnRightClick v1.5
+[12:42:52] [Server thread/INFO]: [EquipOnRightClick] v1.5 has been enabled.
+[12:42:52] [Server thread/INFO]: [Oneblock] Enabling Oneblock v1.4.4
+[12:42:52] [Server thread/INFO]: [Oneblock] 
+█▀█ ░░░░ ░░░ █▀▄ ░░░ ░░░ ░░░ ░░░
+█░█ █▄░█ █▀▀ █▄▀ █░░ █▀█ █▀▀ █▄▀
+█▄█ █░▀█ ██▄ █▄▀ █▄▄ █▄█ █▄▄ █░█
 
-Reason » WRONG ACCOUNT
+by MrMarL
+[12:42:52] [Server thread/INFO]: [Oneblock] PlaceholderAPI has been found!
+[12:42:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: OB [1.4.4]
+[12:42:52] [Server thread/INFO]: [Oneblock] legacy
+[12:42:52] [Server thread/INFO]: [Oneblock] Loaded 2 general rewards and 0 level-specific reward sets
+[12:42:52] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[12:42:52] [EventThread/INFO]: [MCJukebox] Predicted time offset: -33ms.
+[12:42:52] [EventThread/INFO]: [MCJukebox] This will be silently updated every 30 seconds.
+[12:42:52] [Server thread/INFO]: -------- World Settings For [new] --------
+[12:42:52] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:52] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:52] [Server thread/INFO]: Structure Info Saving: true
+[12:42:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:52] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:52] [Server thread/INFO]: View Distance: 4
+[12:42:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:52] [Server thread/INFO]: [GriefDefender] [new] 0 total claims loaded.
+[12:42:52] [Server thread/INFO]: [GriefDefender] Loading schematics for world new...
+[12:42:52] [Server thread/INFO]: Preparing start region for level 3 (Seed: 6961511716683689128)
+[12:42:53] [Server thread/INFO]: -------- World Settings For [hi] --------
+[12:42:53] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:53] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:53] [Server thread/INFO]: Structure Info Saving: true
+[12:42:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:53] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:53] [Server thread/INFO]: View Distance: 4
+[12:42:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:53] [Server thread/INFO]: [GriefDefender] [hi] 0 total claims loaded.
+[12:42:53] [Server thread/INFO]: [GriefDefender] Loading schematics for world hi...
+[12:42:53] [Server thread/INFO]: Preparing start region for level 4 (Seed: -5122326692503037000)
+[12:42:53] [Server thread/INFO]: -------- World Settings For [um_the_nether] --------
+[12:42:53] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:53] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:53] [Server thread/INFO]: Structure Info Saving: true
+[12:42:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:53] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:53] [Server thread/INFO]: View Distance: 4
+[12:42:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:53] [Server thread/INFO]: [GriefDefender] [um_the_nether] 0 total claims loaded.
+[12:42:53] [Server thread/INFO]: [GriefDefender] Loading schematics for world um_the_nether...
+[12:42:53] [Server thread/INFO]: Preparing start region for level 5 (Seed: 4722257647979479590)
+[12:42:54] [Server thread/INFO]: -------- World Settings For [smp] --------
+[12:42:54] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:54] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:54] [Server thread/INFO]: Structure Info Saving: true
+[12:42:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:54] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:54] [Server thread/INFO]: View Distance: 4
+[12:42:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:54] [Server thread/INFO]: [GriefDefender] [smp] 0 total claims loaded.
+[12:42:54] [Server thread/INFO]: [GriefDefender] Loading schematics for world smp...
+[12:42:54] [Server thread/INFO]: Preparing start region for level 6 (Seed: 455183159361683197)
+[12:42:54] [Server thread/INFO]: -------- World Settings For [um] --------
+[12:42:54] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:54] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:54] [Server thread/INFO]: Structure Info Saving: true
+[12:42:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:54] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:54] [Server thread/INFO]: View Distance: 4
+[12:42:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:55] [Server thread/INFO]: [GriefDefender] [um] 9 total claims loaded.
+[12:42:55] [Server thread/INFO]: [GriefDefender] Loading schematics for world um...
+[12:42:55] [Server thread/INFO]: Preparing start region for level 7 (Seed: -5719291385754339240)
+[12:42:55] [Server thread/INFO]: -------- World Settings For [portal] --------
+[12:42:55] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:55] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:55] [Server thread/INFO]: Structure Info Saving: true
+[12:42:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:55] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:55] [Server thread/INFO]: View Distance: 4
+[12:42:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:56] [Server thread/INFO]: [GriefDefender] [portal] 0 total claims loaded.
+[12:42:56] [Server thread/INFO]: [GriefDefender] Loading schematics for world portal...
+[12:42:56] [Server thread/INFO]: Preparing start region for level 8 (Seed: 4284108548393612272)
+[12:42:56] [Server thread/INFO]: -------- World Settings For [life] --------
+[12:42:56] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:56] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:56] [Server thread/INFO]: Structure Info Saving: true
+[12:42:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:56] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:56] [Server thread/INFO]: View Distance: 4
+[12:42:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:56] [Server thread/INFO]: [GriefDefender] [life] 0 total claims loaded.
+[12:42:56] [Server thread/INFO]: [GriefDefender] Loading schematics for world life...
+[12:42:56] [Server thread/INFO]: Preparing start region for level 9 (Seed: 6769701699892439131)
+[12:42:56] [Server thread/INFO]: -------- World Settings For [OneBlock] --------
+[12:42:56] [Server thread/INFO]: Mob Spawn Range: 4
+[12:42:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:42:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:42:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:42:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:42:56] [Server thread/INFO]: Random Lighting Updates: false
+[12:42:56] [Server thread/INFO]: Structure Info Saving: true
+[12:42:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:42:56] [Server thread/INFO]: Max TNT Explosions: 100
+[12:42:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:42:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:42:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:42:56] [Server thread/INFO]: View Distance: 4
+[12:42:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:42:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:42:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:42:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:42:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:42:56] [Server thread/INFO]: [GriefDefender] [oneblock] 0 total claims loaded.
+[12:42:56] [Server thread/INFO]: [GriefDefender] Loading schematics for world OneBlock...
+[12:42:56] [Server thread/INFO]: Preparing start region for level 10 (Seed: 4872018898181081023)
+[12:42:56] [Server thread/INFO]: [Multiverse-Core] 11 - World(s) loaded.
+[12:42:56] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[12:42:56] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.5.3-T20251009215941
+[12:42:56] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[12:42:56] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
+[12:42:57] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
+[12:42:57] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Starting...
+[12:42:57] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Start completed.
+[12:42:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: minepacks [2.5.3-T20251009215941]
+[12:42:57] [Server thread/INFO]: [Minepacks] [32mPlaceholderAPI hook was successfully registered![0m
+[12:42:57] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
+[12:42:57] [Server thread/INFO]: [StaffModeX] Enabling StaffModeX v1.2.4
+[12:42:57] [Server thread/INFO]: [StaffModeX] Redis is disabled in the configuration.
+[12:42:57] [Server thread/INFO]: [StaffModeX] No database information provided. Using local configuration.
+[12:42:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: staffmodex [1.2.4]
+[12:42:57] [Server thread/INFO]: [NoShieldDelay] Enabling NoShieldDelay v2.0.2
+[12:42:57] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5.0-b751
+[12:42:57] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5.0-b751 Enabled - By Rigby and fernferret
+[12:42:57] [Server thread/WARN]: [MVPLogging] Failed Parsing World for: netherbk (World Error, World did not exist or was not imported into Multiverse-Core!)
+[12:42:57] [Server thread/WARN]: [MVPLogging] Portal netherbk has an invalid LOCATION!
+[12:42:57] [Server thread/WARN]: [MVPLogging] Portal 'netherbk' not loaded due to invalid location!
+[12:42:57] [Server thread/INFO]: [MVPLogging] 3 - Portals(s) loaded
+[12:42:57] [Server thread/WARN]: [Multiverse-Core] Portal nether has an invalid DESTINATION!
+[12:42:57] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[12:42:57] [Server thread/INFO]: [GWarp] Enabling GWarp v[2.13.0.2]
+[12:42:57] [Server thread/INFO]: [GWarp] The Plugin was successfully enabled.
+[12:42:57] [Server thread/INFO]: [MusicBox] Enabling MusicBox v2.1.4
+[12:42:57] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5.0-SNAPSHOT-b444
+[12:42:57] [Server thread/INFO]: [Multiverse-Inventories 2.5.0-SNAPSHOT-b444] enabled.
+[12:42:57] [Server thread/INFO]: [MurderMystery] Enabling MurderMystery v2.1.5
+[12:42:57] [Server thread/INFO]: [MurderMystery] Connecting to services, please wait! Server may freeze a bit!
+[12:42:58] [Server thread/INFO]: [MurderMystery] Hooked with ServiceRegistry! Initialized services properly!
+[12:42:58] [Server thread/WARN]: [MurderMystery] [Debug] Fetched latest localization file from repository.
+[12:42:58] [Server thread/WARN]: [MurderMystery] [Debug] Loaded locale Default (Default ID: default) by Internal Plugin
+[12:42:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: murdermystery [2.0.0]
+[12:42:59] [Server thread/INFO]: [MurderMystery] -_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_-
+[12:42:59] [Server thread/INFO]: [MurderMystery] 
+[12:42:59] [Server thread/INFO]: [MurderMystery] Versions: 
+[12:42:59] [Server thread/INFO]: [MurderMystery] Plugin: 2.1.5 | Server: git-Paper-1620 (MC: 1.12.2) | Detected: v1_12 | Software: Paper | Java: 21.0.7
+[12:42:59] [Server thread/INFO]: [MurderMystery] 
+[12:42:59] [Server thread/INFO]: [MurderMystery] This plugin was created by Plugily Projects as part of an open source project ( https://donate.plugily.xyz )
+[12:42:59] [Server thread/INFO]: [MurderMystery] 
+[12:42:59] [Server thread/INFO]: [MurderMystery][SUPPORT] If you have any problems, you can always contact us on our Discord server! ( https://discord.plugily.xyz )
+[12:42:59] [Server thread/INFO]: [MurderMystery][SUPPORT] You can also check out our wiki at https://wiki.plugily.xyz
+[12:42:59] [Server thread/INFO]: [MurderMystery] 
+[12:42:59] [Server thread/INFO]: [MurderMystery]                               The plugin got fully enabled! Enjoy the plugin ;)
+[12:42:59] [Server thread/INFO]: [MurderMystery] -_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_-
+[12:42:59] [Server thread/INFO]: Arena portal instance successfully started!
+[12:42:59] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.23
+[12:42:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_12_R1! Trying to find NMS support
+[12:42:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_12_R1' loaded!
+[12:42:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
+[12:42:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: qualityarmory [2.0.23]
+[12:42:59] [Server thread/INFO]: [QualityArmory] Found PlaceholderAPI. Loaded support
+[12:42:59] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[12:42:59] [Server thread/INFO]: [QualityArmory] -Loaded 8 Misc.
+[12:42:59] [Server thread/INFO]: [QualityArmory] -Loaded 64 Gun types.
+[12:42:59] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[12:42:59] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[12:42:59] [Server thread/INFO]: [QualityArmory] -Loaded 2 Attachment types.
+[12:42:59] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[12:42:59] [Server thread/INFO]: [WirelessRedstone] Enabling WirelessRedstone v3.0.5
+[12:43:00] [Server thread/INFO]: [WirelessRedstone] Plugin is now loaded
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v1.8.1.0
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Loading the Signs.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Signs.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml
+[12:43:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml
+[12:43:00] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_12_R1! Trying to find NMS support
+[12:43:00] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_12_R1' loaded!
+[12:43:00] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[12:43:00] [Server thread/INFO]: Crazy Enchantment Hooks
+[12:43:00] [Server thread/INFO]: VAULT: Enabled
+[12:43:00] [Server thread/INFO]: WORLD_EDIT: Enabled
+[12:43:00] [Thread-20/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package me.badbones69.crazyenchantments.plugin.lib.de.tr7zw.changeme.nbtapi' seems to be outdated!
+[12:43:00] [Thread-20/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.11.1' Newest Version: 2.15.3'
+[12:43:00] [Thread-20/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[12:43:01] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
+[12:43:02] [Server thread/WARN]: [Essentials] Version mismatch! Please update Essentials_WarpGUI to the same version.
+[12:43:02] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[12:43:02] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[12:43:02] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[12:43:02] [Server thread/INFO]: [Essentials] No provider found for SignDataProvider, but it is nullable
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Reflection Persistent Data Container Provider as the provider for PersistentDataProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected 1.9-1.12.2 Spawn Egg Provider as the provider for SpawnEggProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Legacy Banner Meta Provider as the provider for BannerDataProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+[12:43:02] [Server thread/INFO]: [Essentials] No provider found for ContainerProvider, but it is nullable
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[12:43:02] [Server thread/INFO]: [Essentials] No provider found for SerializationProvider, but it is nullable
+[12:43:02] [Server thread/INFO]: [Essentials] No provider found for TickCountProvider, but it is nullable
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[12:43:02] [Server thread/INFO]: [Essentials] No provider found for BiomeKeyProvider, but it is nullable
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Reflection Server State Provider as the provider for ServerStateProvider
+[12:43:02] [Server thread/INFO]: [Essentials] No provider found for MaterialTagProvider, but it is nullable
+[12:43:02] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Selected Fixed Height World Info Provider as the provider for WorldInfoProvider
+[12:43:02] [Server thread/INFO]: [Essentials] Loaded 853 items from items.csv.
+[12:43:02] [Server thread/INFO]: [Essentials] Using locale en
+[12:43:02] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:43:03] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[12:43:03] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[12:43:03] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[12:43:03] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[12:43:03] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[12:43:03] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[12:43:03] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[12:43:03] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[12:43:03] [Server thread/INFO]: [Admin-GUI] Enabling Admin-GUI v1.9.0
+[12:43:03] [Server thread/INFO]: [SimpleFreeze] Enabling SimpleFreeze v3.2.4
+[12:43:03] [Server thread/INFO]: [SimpleFreeze] Vault found, offline freezing enabled
+[12:43:03] [Server thread/INFO]: [BedWars] Enabling BedWars v0.2.41
+[12:43:03] [Server thread/INFO]: [BedWars] Successfully loaded messages for BedWars! Language: English
+[12:43:03] [Server thread/INFO]: [BedWars] Loading statistics from YAML-File ...
+[12:43:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: bedwars [0.2.41]
+[12:43:03] [Server thread/INFO]: =====================  by ScreamingSandals <Misat11, Iamceph, Pronze, ZlataOvce>
+[12:43:03] [Server thread/INFO]: + Screaming BedWars +  Version: 0.2.41
+[12:43:03] [Server thread/INFO]: =====================  STABLE VERSION
+[12:43:03] [Server thread/INFO]: [BW] Found Vault
+[12:43:03] [Server thread/INFO]: [BW] World bw was not found, but we found Multiverse-Core, so we will try to load this world.
+[12:43:03] [Server thread/INFO]: [BW] Arena bw can't be loaded, because world bw is missing!
+[12:43:03] [Server thread/INFO]: Everything is loaded! If you like our work, consider visiting our Patreon! <3
+[12:43:03] [Server thread/INFO]: https://www.patreon.com/screamingsandals
+[12:43:03] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.3.0
+[12:43:03] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[12:43:04] [Server thread/INFO]: [hsqldb.db.HSQLDB9A802A399F.ENGINE] checkpointClose start
+[12:43:04] [Server thread/INFO]: [hsqldb.db.HSQLDB9A802A399F.ENGINE] checkpointClose synched
+[12:43:04] [Server thread/INFO]: [hsqldb.db.HSQLDB9A802A399F.ENGINE] checkpointClose script done
+[12:43:04] [Server thread/INFO]: [hsqldb.db.HSQLDB9A802A399F.ENGINE] checkpointClose end
+[12:43:04] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[12:43:04] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[12:43:04] [Server thread/INFO]: AdvancedBan >> Failed to register command warn
+[12:43:04] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.3.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[12:43:04] [Server thread/INFO]: [BannerMaker] Enabling BannerMaker v1.9.0
+[12:43:04] [Server thread/INFO]: [BannerMaker] Language: en
+[12:43:04] [Server thread/INFO]: [BannerMaker] Vault dependency found! Enable economy supported
+[12:43:04] [Server thread/INFO]: [ajLeaderboards] Enabling ajLeaderboards v2.10.1
+[12:43:04] [Server thread/INFO]: [ajLeaderboards] Using H2 flatfile for board cache. (h2)
+[12:43:05] [Server thread/INFO]: [ajLeaderboards] Loaded 0 boards
+[12:43:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ajlb [2.10.1]
+[12:43:05] [Server thread/INFO]: [ajLeaderboards] PAPI placeholders successfully registered!
+[12:43:05] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.10.1 by ajgeiss0702 enabled!
+[12:43:05] [Server thread/INFO]: [CrazyAuctions] Enabling CrazyAuctions v1.2.19
+[12:43:05] [Server thread/INFO]: Loading the config.yml
+[12:43:05] [Server thread/INFO]: Successfully loaded config.yml
+[12:43:05] [Server thread/INFO]: Loading the Data.yml
+[12:43:05] [Server thread/INFO]: Successfully loaded Data.yml
+[12:43:05] [Server thread/INFO]: Loading the Messages.yml
+[12:43:05] [Server thread/INFO]: Successfully loaded Messages.yml
+[12:43:05] [Server thread/INFO]: Loading the Test-File.yml
+[12:43:05] [Server thread/INFO]: Successfully loaded Test-File.yml
+[12:43:05] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.2
+[12:43:05] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.15.1
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 section configs from /sections/
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 shop configs from /shops/
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 1 economy provider(s) for all 14 shop sections.
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using minecraft version 1.12.2...
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Spawner provider set to AUTO in config
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [DEBUG]: This item material is not supported in this minecraft version.
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [WARN]: Item path in config.yml: spawner-break-tools.3
+[12:43:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.1.0]
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Debug mode is enabled.
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Loading all items...
+[12:43:05] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Initialized - Took 600ms to complete
+[12:43:05] [Server thread/INFO]: [TAB] Enabling TAB v5.3.2
+[12:43:06] [Server thread/INFO]: [TAB] Enabled in 199ms
+[12:43:06] [Server thread/INFO]: [PlayerKits2] Enabling PlayerKits2 v1.19.1
+[12:43:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playerkits [1.19.1]
+[12:43:06] [Server thread/INFO]: [PlayerKits²] Has been enabled! Version: 1.19.1
+[12:43:06] [Server thread/INFO]: [PlayerKits²] Thanks for using my plugin!   ~Ajneb97
+[12:43:06] [Server thread/INFO]: There is a new version available. (1.20.1)
+[12:43:06] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/playerkits-2
+[12:43:06] [Server thread/INFO]: [MTVehicles] Enabling MTVehicles v2.5.8
+[12:43:06] [Server thread/INFO]: [MTVehicles] Plugin has been loaded!
+[12:43:06] [Server thread/INFO]: [MTVehicles] --------------------------
+[12:43:06] [Server thread/INFO]: [MTVehicles] Welcome by MTVehicles v2.5.8!
+[12:43:06] [Server thread/INFO]: [MTVehicles] Thanks for using our plugin.
+[12:43:06] [Server thread/INFO]: [MTVehicles] --------------------------
+[12:43:06] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.21.2
+[12:43:06] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[12:43:06] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[12:43:06] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.2
+[12:43:06] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[12:43:07] [pool-25-thread-1/INFO]: [ajLeaderboards] You are up to date! (2.10.1)
+[12:43:07] [Server thread/INFO]: Done (19.514s)! For help, type "help" or "?"
+[12:43:07] [Server thread/INFO]: Timings Reset
+[12:43:07] [Craft Scheduler Thread - 5/INFO]: [Essentials] Fetching version information...
+[12:43:07] [Server thread/INFO]: [GriefDefender] Loading Global Snapshot Data...
+[12:43:07] [Craft Scheduler Thread - 9/INFO]: 
 
-[00:03:19] [Server thread/INFO]: manepear___ left the game
-[00:03:19] [Server thread/WARN]: handleDisconnection() called twice
-[00:03:30] [User Authenticator #3/INFO]: UUID of player manepear___ is 1244ba2c-088a-34e3-8c8f-b58d3a98ce86
-[00:03:30] [Server thread/INFO]: manepear___[/127.0.0.1:38962] logged in with entity id 3121 at ([portal]605.0, 4.0, -1057.0)
-[00:03:31] [Server thread/INFO]: Wemmbu issued server command: /
-[00:03:48] [Server thread/INFO]: [1] Oh it’s Mapicc_ The player✌️👋 | that manepear he lost his password for his main somehow
-[00:03:49] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> manepear___ wrong account
-[00:03:52] [Server thread/INFO]: [portal]<Oh it’s manepear___ The player✌️👋> i lsot my main
-[00:03:56] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> hw
-[00:04:01] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> oh yeah
-[00:04:01] [Server thread/INFO]: [portal]<Oh it’s manepear___ The player✌️👋> my pass
-[00:04:10] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> what is the name of acocunt
-[00:04:24] [Server thread/INFO]: [portal]<Oh it’s manepear___ The player✌️👋> _Manepear
-[00:04:33] [Server thread/INFO]: [portal]<Oh it’s manepear___ The player✌️👋> _Manepear_
-[00:04:45] [Server thread/INFO]: Mapicc_ issued server command: /back
-[00:04:47] [Server thread/INFO]: manepear___ issued server command: /MM JOIN portal
-[00:04:47] [Server thread/INFO]: [MurderMystery] Saved inventory of manepear___
-[00:04:50] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mapicc_
-[00:05:21] [Server thread/INFO]: Wemmbu issued server command: /heal
-[00:05:31] [Server thread/INFO]: Mapicc_ was slain by Wemmbu
-[00:05:38] [Server thread/INFO]: Wemmbu issued server command: /tpall
-[00:05:38] [Server thread/INFO]: Wemmbu
-[00:05:38] [Server thread/INFO]: Wemmbu
-[00:05:53] [Server thread/INFO]: Mapicc_ issued server command: /mm join portal
-[00:05:53] [Server thread/INFO]: [MurderMystery] Saved inventory of Mapicc_
-[00:05:53] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> NO FIGHTING
-[00:06:04] [Server thread/INFO]: [1] Oh it’s Mapicc_ The player✌️👋 | join wembu
-[00:06:06] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> which account maneear
-[00:06:28] [Server thread/INFO]: manepear___ issued server command: /MM JOIN portal
-[00:06:34] [Server thread/INFO]: manepear___ issued server command: /
-[00:06:36] [Server thread/INFO]: [MurderMystery] Loaded inventory of manepear___
-[00:06:38] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> manepear which account
-[00:06:42] [Server thread/INFO]: Wemmbu issued server command: /staff
-[00:06:50] [Server thread/INFO]: [portal]<Oh it’s manepear___ The player✌️👋> both
-[00:06:51] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mapicc_
-[00:07:35] [Server thread/INFO]: manepear___ was slain by Mapicc_
-[00:07:37] [Server thread/ERROR]: Could not pass event PlayerChangedWorldEvent to Multiverse-Inventories v2.5.0-SNAPSHOT-b444
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:72) ~[patched_1.12.2.jar:git-Paper-1620]
+[]===========[Enabling AdminGUI]===========[]
+|
+| Information:
+|
+|   Name: AdminGUI
+|   Developer: Black1_TV
+|   Version: 1.9.0 (FREE)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[12:43:07] [Server thread/INFO]: [GriefDefender] Loading Admin Claim Group Data...
+[12:43:07] [Server thread/INFO]: [GriefDefender] Checking for compatible economy plugin...
+[12:43:07] [Server thread/INFO]: [GriefDefender] Found economy plugin 'EssentialsX Economy'. GriefDefender economy integration is now enabled.
+[12:43:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: griefdefender [0.1]
+[12:43:07] [Server thread/INFO]: [GriefDefender] PlaceholderAPI provider enabled!
+[12:43:07] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2 (340)
+[12:43:07] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we will prioritize issues with legacy Minecraft versions less. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[12:43:07] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.5.6-b49)!
+[12:43:07] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[12:43:08] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.11.7) is available at:
+[12:43:08] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[12:43:08] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[12:43:08] [Craft Scheduler Thread - 10/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[12:43:08] [Craft Scheduler Thread - 7/INFO]: [TPA] Plugin loaded! Version: 3.2.6
+[12:43:08] [Craft Scheduler Thread - 4/INFO]: [Oneblock] Waiting for the initialization of the world
+[12:43:08] [Craft Scheduler Thread - 4/INFO]: [Oneblock] Trying to initialize the world again...
+[12:43:09] [Craft Scheduler Thread - 23/WARN]: [ControlPlayer] You're using an outdated version of this plugin!
+[12:43:09] [Craft Scheduler Thread - 23/WARN]: [ControlPlayer] Please update it on: https://www.rayzs.de/products/controlplayer/page
+[12:43:09] [Server thread/INFO]: -------< LightAPI-fork 3.5.2 >-------
+[12:43:09] [Server thread/INFO]: You are running the latest version!
+[12:43:12] [Craft Scheduler Thread - 26/INFO]: [Oneblock] The initialization of the world was successful!
+[12:43:13] [Craft Scheduler Thread - 26/INFO]: [Oneblock] Loaded 2 general rewards and 0 level-specific reward sets
+[12:48:53] [User Authenticator #1/INFO]: UUID of player hola_o_0s is de71792d-7c21-3440-9b44-57d151f768b4
+[12:48:54] [Server thread/INFO]: hola_o_0s[/127.0.0.1:48614] logged in with entity id 167 at ([um]-19.101233359736632, 64.0, 686.6253497721889)
+[12:49:49] [User Authenticator #1/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[12:49:50] [Server thread/INFO]: Wemmbu[/127.0.0.1:48912] logged in with entity id 240 at ([um]-196.29293213019054, 64.0, 243.36098475240564)
+[12:49:57] [Server thread/INFO]: Wemmbu issued server command: /l ui7nxjm
+[12:50:03] [Server thread/INFO]: Wemmbu issued server command: /l ui7nxjym
+[12:50:05] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> who r u
+[12:50:12] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> owner
+[12:50:12] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> ???
+[12:50:16] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> oh cool
+[12:50:16] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> who r u
+[12:50:30] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> am
+[12:50:32] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> am
+[12:50:36] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> moloww
+[12:50:43] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> or maelon
+[12:50:47] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> bc i mog you
+[12:51:06] [Server thread/INFO]: Wemmbu issued server command: /time night
+[12:51:13] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> huh r you adam
+[12:51:17] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> adom
+[12:51:19] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> ?
+[12:51:50] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> 1v1
+[12:51:59] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> hamzah
+[12:52:01] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> oh
+[12:52:05] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> 1v1
+[12:52:16] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> johny johny
+[12:52:23] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> 1v1 omg hello
+[12:52:25] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> 1v1
+[12:52:43] [User Authenticator #2/INFO]: UUID of player ItzRealMe is 6d9d77b6-eac0-369e-90ab-9562b0f35f10
+[12:52:43] [Server thread/INFO]: ItzRealMe[/127.0.0.1:57968] logged in with entity id 472 at ([um]290.13914674540683, 66.0, 2085.88500778749)
+[12:52:47] [Server thread/INFO]: ItzRealMe issued server command: /l zwr3e68s
+[12:52:48] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> im busy i need to write smt
+[12:52:52] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> k
+[12:53:15] [Server thread/INFO]: Wemmbu issued server command: /nickname hola_o_0s John Valdes
+[12:53:21] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> where r u w
+[12:53:30] [Server thread/INFO]: Wemmbu issued server command: /nick hola_o_0s John valdez
+[12:53:41] [Server thread/INFO]: Wemmbu issued server command: /nick hola_o_0s John valdas
+[12:53:48] [Server thread/INFO]: hola_o_0s issued server command: /
+[12:53:53] [Server thread/INFO]: Wemmbu issued server command: /nickname Wemmbu dejdeie
+[12:53:57] [Server thread/INFO]: hola_o_0s issued server command: /help
+[12:53:57] [Server thread/INFO]: [Essentials] hola_o_0s was denied access to command.
+[12:54:06] [Server thread/INFO]: Wemmbu issued server command: /nickname Wemmbu Wemmbu
+[12:54:08] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> hi
+[12:54:19] [Server thread/INFO]: Wemmbu issued server command: /nick hola_o_0s John valdaaas
+[12:54:27] [Server thread/INFO]: Wemmbu issued server command: /nick hola_o_0s off
+[12:54:36] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> hola
+[12:54:38] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> hola
+[12:54:43] [User Authenticator #3/INFO]: UUID of player jose is cf082672-3126-352f-bb39-02a47a4b8e5e
+[12:54:43] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jose's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[12:54:43] [Server thread/INFO]: jose[/127.0.0.1:50816] logged in with entity id 747 at ([portal]602.1468023487332, 3.0, -1056.1921408713702)
+[12:54:44] [Server thread/INFO]: ItzRealMe lost connection: Timed out
+[12:54:44] [Server thread/INFO]: ItzRealMe left the game
+[12:54:44] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> ...
+[12:55:03] [Server thread/INFO]: Wemmbu issued server command: /nickname hola_o_0s John veldddas
+[12:55:06] [Server thread/INFO]: Wemmbu issued server command: /
+[12:55:14] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> ur john valdas right?
+[12:55:17] [User Authenticator #3/INFO]: UUID of player ItzRealMe is 6d9d77b6-eac0-369e-90ab-9562b0f35f10
+[12:55:17] [Server thread/INFO]: ItzRealMe[/127.0.0.1:51794] logged in with entity id 799 at ([um]282.0701994972316, 66.0, 2094.691118085739)
+[12:55:18] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> npo
+[12:55:22] [Server thread/INFO]: ItzRealMe issued server command: /l zwr3e68s
+[12:55:25] [User Authenticator #3/INFO]: UUID of player cris00 is 4136aea5-ee37-34c9-934d-698807690984
+[12:55:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player cris00's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[12:55:25] [Server thread/INFO]: cris00[/127.0.0.1:44836] logged in with entity id 919 at ([um]-458.11669358755745, 88.0, 778.7118934514531)
+[12:55:28] [Server thread/INFO]: ItzRealMe issued server command: /spawn
+[12:55:29] [Server thread/INFO]: cris00 issued server command: /l 1234567890
+[12:55:31] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> im not gonna ban u lol
+[12:55:33] [Craft Scheduler Thread - 58/INFO]: spawn_name
+[12:55:33] [Craft Scheduler Thread - 58/INFO]: Spawn
+[12:55:33] [Craft Scheduler Thread - 62/INFO]: Spawn
+[12:55:36] [Server thread/INFO]: [portal]<Oh it’sjoseThe player✌️👋> get me outtttttttttttttttttttttttttttttttttttttttt offfffffffffffffffffffff the mm plssssssssssssssss
+[12:55:41] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> wtf is this thing
+[12:55:43] [Server thread/INFO]: Wemmbu issued server command: /tp jose Wemmbu
+[12:55:55] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> its a masterpice
+[12:56:00] [Server thread/INFO]: hola_o_0s issued server command: /tp
+[12:56:00] [Server thread/INFO]: [Essentials] hola_o_0s was denied access to command.
+[12:56:05] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> how do i tp
+[12:56:06] [Server thread/INFO]: hola_o_0s issued server command: /
+[12:56:06] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> also ADAM
+[12:56:08] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> ?
+[12:56:16] [Server thread/INFO]: jose lost connection: Disconnected
+[12:56:16] [Server thread/INFO]: jose left the game
+[12:56:19] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> WHO IS ADAM
+[12:56:27] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> what
+[12:56:38] [User Authenticator #4/INFO]: UUID of player jose is cf082672-3126-352f-bb39-02a47a4b8e5e
+[12:56:38] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jose's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[12:56:38] [Server thread/INFO]: jose[/127.0.0.1:45722] logged in with entity id 1143 at ([um]-197.00214043905666, 64.0, 243.83463752890015)
+[12:56:41] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> what are you talking about
+[12:57:03] [Server thread/INFO]: Wemmbu issued server command: /gmc
+[12:57:05] [Server thread/INFO]: cris00 lost connection: Disconnected
+[12:57:05] [Server thread/INFO]: cris00 left the game
+[12:57:19] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> he is lagging
+[12:57:25] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> look at his ping
+[12:57:35] [Server thread/INFO]: jose lost connection: Disconnected
+[12:57:35] [Server thread/INFO]: jose left the game
+[12:58:10] [User Authenticator #5/INFO]: UUID of player jose is cf082672-3126-352f-bb39-02a47a4b8e5e
+[12:58:10] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jose's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[12:58:10] [Server thread/INFO]: jose[/127.0.0.1:37246] logged in with entity id 1244 at ([um]-197.00214043905666, 64.41499099849125, 243.83463752890015)
+[12:58:37] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> he is cooked
+[12:58:54] [Server thread/INFO]: Wemmbu lost connection: Internal Exception: java.net.SocketException: Connection reset
+[12:58:54] [Server thread/INFO]: Wemmbu left the game
+[12:59:04] [User Authenticator #5/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[12:59:04] [Server thread/INFO]: Wemmbu[/127.0.0.1:34978] logged in with entity id 1457 at ([um]-198.30328410936036, 64.0, 244.60371520424115)
+[12:59:04] [Server thread/INFO]: ItzRealMe issued server command: /tpa hola_o_0s
+[12:59:21] [Server thread/INFO]: Wemmbu issued server command: /l ui7nxjm
+[12:59:24] [Server thread/INFO]: Wemmbu issued server command: /l ui7nxjym
+[12:59:40] [Server thread/INFO]: Wemmbu issued server command: /
+[12:59:43] [Server thread/INFO]: jose lost connection: Disconnected
+[12:59:43] [Server thread/INFO]: jose left the game
+[12:59:54] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> oh
+[13:00:03] [Server thread/INFO]: ItzRealMe issued server command: /tpa hola_o_0s
+[13:00:07] [Server thread/INFO]: hola_o_0s issued server command: /tpaccept
+[13:00:08] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> tp me
+[13:00:11] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> nmv
+[13:00:12] [Craft Scheduler Thread - 70/INFO]: hola_o_0s
+[13:00:12] [Craft Scheduler Thread - 72/INFO]: hola_o_0s
+[13:00:13] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> nmv
+[13:01:24] [Server thread/INFO]: [Server] hola
+[13:01:46] [Server thread/INFO]: [Server] can i save the server really fast?
+[13:01:50] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[13:01:50] [Server thread/INFO]: There are 3 out of maximum 60 players online.
+[13:01:50] [Server thread/INFO]: Admins: OWNER WemmbuTHE ADMIN
+[13:01:50] [Server thread/INFO]: The player: Oh it’s hola_o_0s The player✌️👋, Oh it’s ItzRealMe The player✌️👋
+[13:01:51] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> no
+[13:02:03] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> yeah
+[13:02:09] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> hello
+[13:02:21] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> ill murder you
+[13:02:26] [Server thread/INFO]: [Server] in less then 3 hours it will turn off and lose ur data
+[13:02:28] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> getout of my sight
+[13:02:37] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> oh relly
+[13:02:45] [Server thread/INFO]: [Server] yea really
+[13:02:45] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> bruh
+[13:02:55] [Server thread/INFO]: [Server] its fast
+[13:03:21] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> tp me
+[13:03:36] [User Authenticator #6/INFO]: UUID of player jose is cf082672-3126-352f-bb39-02a47a4b8e5e
+[13:03:36] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jose's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:03:36] [Server thread/INFO]: jose[/127.0.0.1:35710] logged in with entity id 2001 at ([um]-197.06500023801368, 64.0, 243.6061396276961)
+[13:03:48] [Server thread/INFO]: ItzRealMe issued server command: /spawn
+[13:03:53] [Craft Scheduler Thread - 70/INFO]: spawn_name
+[13:03:53] [Craft Scheduler Thread - 70/INFO]: Spawn
+[13:03:53] [Craft Scheduler Thread - 81/INFO]: Spawn
+[13:04:02] [User Authenticator #6/INFO]: UUID of player cris00 is 4136aea5-ee37-34c9-934d-698807690984
+[13:04:02] [TAB Processing Thread/INFO]: [TAB] [WARN] Player cris00's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:04:02] [Server thread/INFO]: cris00[/127.0.0.1:48386] logged in with entity id 2036 at ([um]-457.0407698959152, 88.0, 776.803552129476)
+[13:04:07] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[13:04:07] [Server thread/INFO]: There are 5 out of maximum 60 players online.
+[13:04:07] [Server thread/INFO]: Admins: OWNER WemmbuTHE ADMIN
+[13:04:07] [Server thread/INFO]: The player: Oh it’s hola_o_0s The player✌️👋, Oh it’s ItzRealMe The player✌️👋, Oh it’scris00The player✌️👋, Oh it’sjoseThe player✌️👋
+[13:04:12] [Server thread/INFO]: cris00 issued server command: /l 1234567890
+[13:04:21] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> hamzah
+[13:04:54] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> HAMZAH
+[13:05:00] [Server thread/INFO]: Wemmbu lost connection: Timed out
+[13:05:00] [Server thread/INFO]: Wemmbu left the game
+[13:05:09] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> broooooooooooo
+[13:05:10] [User Authenticator #7/INFO]: UUID of player thebesttoucher is d8f817ca-3bd8-34a4-9283-eaa8c56ebc75
+[13:05:10] [Server thread/INFO]: thebesttoucher[/127.0.0.1:33096] logged in with entity id 2351 at ([um]-207.38930544928527, 62.0, 251.670042413042)
+[13:05:10] [Craft Scheduler Thread - 77/ERROR]: [io.github.zrdzn.minecraft.greatlifesteal.elimination.revive.ReviveRestoreHealthListener] An error occurred while finding an elimination by player's unique id.
+io.github.zrdzn.minecraft.greatlifesteal.elimination.EliminationException: An error occurred while finding an elimination by player uuid.
+	at io.github.zrdzn.minecraft.greatlifesteal.elimination.infra.SqlEliminationRepository.findEliminationByPlayerUuid(SqlEliminationRepository.java:77) ~[?:?]
+	at io.github.zrdzn.minecraft.greatlifesteal.elimination.infra.SqliteEliminationRepository.findEliminationByPlayerUuid(SqliteEliminationRepository.java:5) ~[?:?]
+	at io.github.zrdzn.minecraft.greatlifesteal.elimination.EliminationFacade.findEliminationByPlayerUuid(EliminationFacade.java:40) ~[?:?]
+	at io.github.zrdzn.minecraft.greatlifesteal.elimination.revive.ReviveRestoreHealthListener.lambda$restorePlayerHealth$2(ReviveRestoreHealthListener.java:49) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) ~[patched_1.12.2.jar:git-Paper-1620]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.sql.SQLException: Error parsing time stamp
+	at org.sqlite.jdbc3.JDBC3ResultSet.getTimestamp(JDBC3ResultSet.java:532) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.sqlite.jdbc3.JDBC3ResultSet.getTimestamp(JDBC3ResultSet.java:585) ~[patched_1.12.2.jar:git-Paper-1620]
+	at com.zaxxer.hikari.pool.HikariProxyResultSet.getTimestamp(HikariProxyResultSet.java) ~[?:?]
+	at io.github.zrdzn.minecraft.greatlifesteal.elimination.infra.SqlEliminationRepository.findEliminationByPlayerUuid(SqlEliminationRepository.java:67) ~[?:?]
+	... 9 more
+Caused by: java.text.ParseException: Unparseable date: "2025-11-07 13:59:46" does not match (\p{Nd}++)\Q-\E(\p{Nd}++)\Q-\E(\p{Nd}++)\Q \E(\p{Nd}++)\Q:\E(\p{Nd}++)\Q:\E(\p{Nd}++)\Q.\E(\p{Nd}++)
+	at org.sqlite.date.FastDateParser.parse(FastDateParser.java:299) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.sqlite.date.FastDateFormat.parse(FastDateFormat.java:490) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.sqlite.jdbc3.JDBC3ResultSet.getTimestamp(JDBC3ResultSet.java:529) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.sqlite.jdbc3.JDBC3ResultSet.getTimestamp(JDBC3ResultSet.java:585) ~[patched_1.12.2.jar:git-Paper-1620]
+	at com.zaxxer.hikari.pool.HikariProxyResultSet.getTimestamp(HikariProxyResultSet.java) ~[?:?]
+	at io.github.zrdzn.minecraft.greatlifesteal.elimination.infra.SqlEliminationRepository.findEliminationByPlayerUuid(SqlEliminationRepository.java:67) ~[?:?]
+	... 9 more
+[13:05:14] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> lmaoo
+[13:06:04] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> he is lagging
+[13:06:10] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> look at his ping
+[13:06:16] [Server thread/INFO]: [um]<Oh it’s thebesttoucher The player✌️👋> i got full prot 4 mending and unbreaking 3
+[13:06:24] [Server thread/INFO]: thebesttoucher issued server command: /warp idk
+[13:06:24] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> me too
+[13:06:28] [Server thread/INFO]: jose lost connection: Disconnected
+[13:06:29] [Server thread/INFO]: jose left the game
+[13:06:29] [Craft Scheduler Thread - 89/INFO]: idk
+[13:06:29] [Craft Scheduler Thread - 90/INFO]: idk
+[13:06:36] [Server thread/INFO]: [um]<Oh it’s thebesttoucher The player✌️👋> i lowkey need gaps
+[13:06:37] [User Authenticator #8/INFO]: UUID of player jose is cf082672-3126-352f-bb39-02a47a4b8e5e
+[13:06:37] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jose's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:06:37] [Server thread/INFO]: jose[/127.0.0.1:37492] logged in with entity id 3093 at ([um]-195.05175403154107, 64.0, 240.30000001192093)
+[13:06:40] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> me to
+[13:06:45] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> no i need food
+[13:07:11] [Server thread/INFO]: cris00 issued server command: /sellall
+[13:07:23] [Server thread/INFO]: cris00 issued server command: /sellall hand
+[13:07:23] [Server thread/INFO]: Shop >> cris00 sold 19 x Carrot Item(Farming.page1.items.4) for $23.75 with the sell all command.
+[13:07:30] [Server thread/INFO]: cris00 issued server command: /shop
+[13:07:51] [Server thread/INFO]: cris00 issued server command: /sellall crrot
+[13:08:03] [Server thread/INFO]: cris00 issued server command: /sellall carrot
+[13:08:03] [Server thread/INFO]: Shop >> cris00 sold 64 x Carrot Item(Farming.page1.items.4) for $80.00 with the sell all command.
+[13:08:08] [Server thread/INFO]: cris00 issued server command: /shop
+[13:08:15] [Server thread/INFO]: Shop >> cris00 bought 1 x Lava Bucket(Miscellaneous.page1.items.9) for $69.62 with the buy screen.
+[13:09:27] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> hello
+[13:09:40] [Server thread/INFO]: cris00 issued server command: /home mainbase
+[13:09:45] [Craft Scheduler Thread - 93/INFO]: mainbase
+[13:09:45] [Craft Scheduler Thread - 94/INFO]: mainbase
+[13:10:53] [User Authenticator #9/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[13:10:53] [Server thread/INFO]: Wemmbu[/127.0.0.1:43990] logged in with entity id 4346 at ([um]-200.39744309363863, 67.0, 260.86006558884117)
+[13:10:58] [Server thread/INFO]: Wemmbu issued server command: /l ui7nxjym
+[13:10:59] [Server thread/INFO]: [um]<Oh it’s thebesttoucher The player✌️👋> hamzah
+[13:11:01] [Server thread/INFO]: cris00 lost connection: Timed out
+[13:11:01] [Server thread/INFO]: cris00 left the game
+[13:11:07] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> ?
+[13:11:36] [Server thread/INFO]: [um]<Oh it’s thebesttoucher The player✌️👋> can u made the /abandon command work for all players and not just mods
+[13:11:58] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> ik
+[13:11:58] [User Authenticator #10/INFO]: UUID of player cris00 is 4136aea5-ee37-34c9-934d-698807690984
+[13:11:59] [TAB Processing Thread/INFO]: [TAB] [WARN] Player cris00's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:11:59] [Server thread/INFO]: cris00[/127.0.0.1:48412] logged in with entity id 4547 at ([um]-459.30000001192093, 118.0, 778.3000000119209)
+[13:12:03] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> hello
+[13:12:05] [Server thread/INFO]: cris00 issued server command: /l 1234567890
+[13:12:06] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> its just its blocked on chromebook
+[13:12:09] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> luckperms
+[13:12:15] [Server thread/INFO]: Wemmbu issued server command: /
+[13:12:16] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> what
+[13:12:22] [User Authenticator #10/INFO]: UUID of player rw4 is 3e54b472-4830-3bba-86eb-59acffcbc28d
+[13:12:22] [Server thread/INFO]: rw4[/127.0.0.1:50120] logged in with entity id 4900 at ([um]-43.065079757982566, 61.0, -130.9127264468445)
+[13:12:30] [Server thread/INFO]: Wemmbu issued server command: /gms
+[13:12:53] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_12_R1! Trying to find NMS support
+[13:12:53] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_12_R1' loaded!
+[13:12:53] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'MTVehicles' to create a bStats instance!
+[13:13:20] [Server thread/INFO]: cris00 lost connection: Timed out
+[13:13:20] [Server thread/INFO]: cris00 left the game
+[13:13:27] [User Authenticator #11/INFO]: UUID of player Mapicc_ is 155f3f57-a945-3584-815b-8098efb04320
+[13:13:27] [Server thread/INFO]: Mapicc_[/127.0.0.1:51050] logged in with entity id 5219 at ([um]62.644942202120326, 64.81719639973706, 230.34551746246495)
+[13:13:32] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> YOOO
+[13:13:33] [Server thread/INFO]: jose lost connection: Disconnected
+[13:13:33] [Server thread/INFO]: jose left the game
+[13:13:38] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> treyvaughn
+[13:13:39] [Server thread/INFO]: ItzRealMe lost connection: Disconnected
+[13:13:39] [Server thread/INFO]: ItzRealMe left the game
+[13:13:46] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> mapicc me sub to you bro
+[13:13:48] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to StaffModeX v1.2.4
+java.lang.NoSuchFieldError: Class org.bukkit.Material does not have member field 'org.bukkit.Material FARMLAND'
+	at com.arkflame.staffmodex.listeners.PlayerTrampleFarmlandListener.onPlayerTrampleFarmland(PlayerTrampleFarmlandListener.java:30) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor235.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70) ~[patched_1.12.2.jar:git-Paper-1620]
 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.12.2.jar:git-Paper-1620]
 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.12.2.jar:git-Paper-1620]
 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) ~[patched_1.12.2.jar:git-Paper-1620]
-	at net.minecraft.server.v1_12_R1.PlayerList.moveToWorld(PlayerList.java:753) ~[patched_1.12.2.jar:git-Paper-1620]
-	at net.minecraft.server.v1_12_R1.PlayerList.moveToWorld(PlayerList.java:616) ~[patched_1.12.2.jar:git-Paper-1620]
-	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1764) ~[patched_1.12.2.jar:git-Paper-1620]
-	at net.minecraft.server.v1_12_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[patched_1.12.2.jar:git-Paper-1620]
-	at net.minecraft.server.v1_12_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:236) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:203) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockSoil.fallOn(BlockSoil.java:58) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.a(Entity.java:1086) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.a(EntityLiving.java:197) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityPlayer.a(EntityPlayer.java:803) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:743) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.12.2.jar:git-Paper-1620]
 	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:14) ~[patched_1.12.2.jar:git-Paper-1620]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
@@ -112,225 +1104,573 @@ org.bukkit.event.EventException: null
 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalArgumentException: Health must be between 0 and 18.0, but was 20.0. (attribute base value: 18.0, player: manepear___)
-	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:100) ~[patched_1.12.2.jar:git-Paper-1620]
-	at com.onarandombox.multiverseinventories.share.Sharables$5.updatePlayer(Sharables.java:174) ~[?:?]
-	at com.onarandombox.multiverseinventories.ShareHandler.updatePlayer(ShareHandler.java:139) ~[?:?]
-	at com.onarandombox.multiverseinventories.ShareHandler.completeSharing(ShareHandler.java:88) ~[?:?]
-	at com.onarandombox.multiverseinventories.ShareHandler.handleSharing(ShareHandler.java:59) ~[?:?]
-	at com.onarandombox.multiverseinventories.InventoriesListener.playerChangedWorld(InventoriesListener.java:209) ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor267.execute(Unknown Source) ~[?:?]
+[13:13:52] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> what happened
+[13:13:54] [Server thread/INFO]: Mapicc_ issued server command: /tpa rw4
+[13:14:00] [Server thread/INFO]: rw4 issued server command: /tpaccept
+[13:14:01] [User Authenticator #11/INFO]: UUID of player cris00 is 4136aea5-ee37-34c9-934d-698807690984
+[13:14:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player cris00's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:14:01] [Server thread/INFO]: cris00[/127.0.0.1:40516] logged in with entity id 5488 at ([um]-467.1653389001795, 126.0, 782.8639264600948)
+[13:14:05] [Craft Scheduler Thread - 98/INFO]: rw4
+[13:14:05] [Craft Scheduler Thread - 105/INFO]: rw4
+[13:14:05] [Server thread/INFO]: cris00 issued server command: /l 1234567890
+[13:14:10] [Server thread/INFO]: cris00 issued server command: /back
+[13:14:15] [Craft Scheduler Thread - 105/INFO]: Last Location
+[13:14:15] [Craft Scheduler Thread - 105/INFO]: Last Location
+[13:14:23] [Server thread/INFO]: cris00 fell from a high place
+[13:14:28] [Server thread/INFO]: cris00 issued server command: /back
+[13:14:31] [Server thread/INFO]: rw4 lost connection: Disconnected
+[13:14:31] [Server thread/INFO]: rw4 left the game
+[13:14:35] [Server thread/INFO]: Mapicc_ issued server command: /w rw4 cover up the base bud
+[13:14:36] [Server thread/INFO]: cris00 issued server command: /back
+[13:14:39] [Server thread/INFO]: cris00 issued server command: /back
+[13:14:43] [Server thread/INFO]: cris00 issued server command: /back
+[13:14:45] [Server thread/INFO]: cris00 issued server command: /back
+[13:14:50] [Craft Scheduler Thread - 96/INFO]: Last Location
+[13:14:51] [Craft Scheduler Thread - 105/INFO]: Last Location
+[13:15:01] [User Authenticator #12/INFO]: UUID of player rw4 is 3e54b472-4830-3bba-86eb-59acffcbc28d
+[13:15:02] [Server thread/INFO]: rw4[/127.0.0.1:36422] logged in with entity id 5858 at ([um]-33.76174623836494, 64.0, -134.51531397692523)
+[13:15:03] [Server thread/INFO]: Wemmbu issued server command: /tpa Mapicc_
+[13:15:13] [Server thread/INFO]: hola_o_0s issued server command: /
+[13:15:16] [Server thread/INFO]: Wemmbu issued server command: /tpa hola_o_0s
+[13:15:17] [Server thread/INFO]: hola_o_0s issued server command: /help
+[13:15:17] [Server thread/INFO]: [Essentials] hola_o_0s was denied access to command.
+[13:15:23] [Server thread/INFO]: hola_o_0s issued server command: /tpaccept
+[13:15:23] [Server thread/INFO]: hola_o_0s
+[13:15:28] [Server thread/INFO]: cris00 issued server command: /home mainbase
+[13:15:33] [Craft Scheduler Thread - 108/INFO]: mainbase
+[13:15:33] [Craft Scheduler Thread - 107/INFO]: mainbase
+[13:15:40] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> im in treyshawns class
+[13:15:45] [Server thread/INFO]: [um]<Oh it’s Mapicc_ The player✌️👋> sure
+[13:15:49] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> wdym?
+[13:15:58] [Server thread/INFO]: rw4 issued server command: /shop
+[13:15:59] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> jhold on
+[13:16:01] [Server thread/INFO]: Mapicc_ issued server command: /tpaccept
+[13:16:17] [Server thread/INFO]: Wemmbu issued server command: /enchant mending
+[13:16:20] [Server thread/INFO]: Wemmbu issued server command: /
+[13:16:21] [Server thread/INFO]: Wemmbu issued server command: /
+[13:16:21] [Server thread/INFO]: Wemmbu issued server command: /
+[13:16:21] [Server thread/INFO]: [um]<Oh it’s Mapicc_ The player✌️👋> gt get to work bud
+[13:16:21] [Server thread/INFO]: Wemmbu issued server command: /
+[13:16:22] [Server thread/INFO]: Wemmbu issued server command: /
+[13:16:23] [Server thread/INFO]: Wemmbu issued server command: //
+[13:16:24] [Server thread/INFO]: Wemmbu issued server command: /
+[13:16:25] [Server thread/INFO]: Wemmbu issued server command: //
+[13:16:26] [Server thread/INFO]: Wemmbu issued server command: /
+[13:16:26] [Server thread/INFO]: [um]<Oh it’s Mapicc_ The player✌️👋> see ya
+[13:16:26] [Server thread/INFO]: Wemmbu issued server command: /
+[13:16:28] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> teach was beond me
+[13:16:40] [Server thread/INFO]: Shop >> rw4 bought 1 x Piston Sticky Base(Redstone.page1.items.19) for $40.84 with the buy screen.
+[13:16:40] [Server thread/INFO]: Shop >> rw4 bought 1 x Piston Sticky Base(Redstone.page1.items.19) for $40.84 with the buy screen.
+[13:16:40] [Server thread/INFO]: Mapicc_ issued server command: /w rw4 fix the entrance
+[13:16:41] [Server thread/INFO]: Shop >> rw4 bought 1 x Piston Sticky Base(Redstone.page1.items.19) for $40.84 with the buy screen.
+[13:16:44] [Server thread/INFO]: Mapicc_ lost connection: Disconnected
+[13:16:44] [Server thread/INFO]: Mapicc_ left the game
+[13:16:44] [Server thread/INFO]: Shop >> rw4 bought 1 x Piston Sticky Base(Redstone.page1.items.19) for $40.84 with the buy screen.
+[13:16:45] [Server thread/INFO]: Shop >> rw4 bought 1 x Piston Sticky Base(Redstone.page1.items.19) for $40.84 with the buy screen.
+[13:16:45] [Server thread/INFO]: Shop >> rw4 bought 1 x Piston Sticky Base(Redstone.page1.items.19) for $40.84 with the buy screen.
+[13:16:47] [Server thread/INFO]: cris00 lost connection: Timed out
+[13:16:47] [Server thread/INFO]: cris00 left the game
+[13:17:02] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> stop psl
+[13:17:20] [User Authenticator #13/INFO]: UUID of player cris00 is 4136aea5-ee37-34c9-934d-698807690984
+[13:17:20] [TAB Processing Thread/INFO]: [TAB] [WARN] Player cris00's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:17:20] [Server thread/INFO]: cris00[/127.0.0.1:36302] logged in with entity id 6369 at ([um]-453.0856329630763, 126.0, 787.2969356021499)
+[13:17:23] [Server thread/INFO]: cris00 issued server command: /l 1234567890
+[13:17:44] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to StaffModeX v1.2.4
+java.lang.NoSuchFieldError: Class org.bukkit.Material does not have member field 'org.bukkit.Material FARMLAND'
+	at com.arkflame.staffmodex.listeners.PlayerTrampleFarmlandListener.onPlayerTrampleFarmland(PlayerTrampleFarmlandListener.java:30) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor235.execute(Unknown Source) ~[?:?]
 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70) ~[patched_1.12.2.jar:git-Paper-1620]
-	... 17 more
-[00:07:37] [Server thread/WARN]: [Multiverse-Inventories] Task #1670 for Multiverse-Inventories v2.5.0-SNAPSHOT-b444 generated an exception
-java.lang.IllegalArgumentException: Health must be between 0 and 18.0, but was 20.0. (attribute base value: 18.0, player: manepear___)
-	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:100) ~[patched_1.12.2.jar:git-Paper-1620]
-	at com.onarandombox.multiverseinventories.share.Sharables$5.updatePlayer(Sharables.java:174) ~[?:?]
-	at com.onarandombox.multiverseinventories.ShareHandler.updatePlayer(ShareHandler.java:139) ~[?:?]
-	at com.onarandombox.multiverseinventories.ShareHandler.completeSharing(ShareHandler.java:88) ~[?:?]
-	at com.onarandombox.multiverseinventories.ShareHandler.handleSharing(ShareHandler.java:59) ~[?:?]
-	at com.onarandombox.multiverseinventories.InventoriesListener.verifyCorrectWorld(InventoriesListener.java:166) ~[?:?]
-	at com.onarandombox.multiverseinventories.InventoriesListener.access$100(InventoriesListener.java:37) ~[?:?]
-	at com.onarandombox.multiverseinventories.InventoriesListener$1.run(InventoriesListener.java:282) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:236) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:203) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateBinary.e(BlockPressurePlateBinary.java:75) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:96) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:89) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.checkBlockCollisions(Entity.java:1015) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.move(Entity.java:596) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.a(EntityLiving.java:1886) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.a(EntityHuman.java:1454) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.n(EntityLiving.java:2196) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.n(EntityHuman.java:356) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.B_(EntityLiving.java:2024) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.B_(EntityHuman.java:146) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityPlayer.playerTick(EntityPlayer.java:343) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.e(PlayerConnection.java:145) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:273) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:150) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:948) ~[patched_1.12.2.jar:git-Paper-1620]
 	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[00:07:40] [Server thread/INFO]: Wemmbu issued server command: /staff
-[00:07:41] [Server thread/INFO]: manepear___ issued server command: /back
-[00:07:46] [Craft Scheduler Thread - 77/INFO]: Last Location
-[00:07:46] [Craft Scheduler Thread - 76/INFO]: Last Location
-[00:07:49] [Server thread/INFO]: [portal]<Oh it’s Mapicc_ The player✌️👋> ready
-[00:07:59] [Server thread/INFO]: Mapicc_ was slain by manepear___
-[00:08:00] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> stop
-[00:08:04] [Server thread/INFO]: [portal]<Oh it’s manepear___ The player✌️👋> mb
-[00:08:14] [Server thread/INFO]: Mapicc_ issued server command: /back
-[00:08:19] [Craft Scheduler Thread - 77/INFO]: Last Location
-[00:08:19] [Craft Scheduler Thread - 77/INFO]: Last Location
-[00:08:20] [Server thread/INFO]: manepear___ issued server command: /kit
-[00:08:20] [Server thread/INFO]: Wemmbu issued server command: /tpall
-[00:08:20] [Server thread/INFO]: Wemmbu
-[00:08:20] [Server thread/INFO]: Wemmbu
-[00:08:23] [Server thread/INFO]: manepear___ issued server command: /kit
-[00:08:24] [Server thread/INFO]: [PlayerKits²] Sound Name: BLOCK_NOTE_BLOCK_PLING is not valid. Change it in the config!
-[00:08:25] [Server thread/INFO]: [PlayerKits²] Sound Name: BLOCK_NOTE_BLOCK_PLING is not valid. Change it in the config!
-[00:08:26] [Server thread/INFO]: manepear___ has made the advancement [Isn't It Iron Pick]
-[00:08:27] [Server thread/INFO]: Mapicc_ issued server command: /span
-[00:08:33] [Server thread/INFO]: Mapicc_ issued server command: /spawn
-[00:08:41] [Server thread/INFO]: Mapicc_ issued server command: /spawn
-[00:08:51] [Server thread/INFO]: Mapicc_ was slain by manepear___
-[00:09:01] [Server thread/INFO]: [portal]<Oh it’s manepear___ The player✌️👋> sry
-[00:09:12] [Server thread/INFO]: Mapicc_ issued server command: /mm join portal
-[00:09:12] [Server thread/INFO]: [MurderMystery] Saved inventory of Mapicc_
-[00:09:16] [Server thread/INFO]: Mapicc_ issued server command: /back
-[00:09:33] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mapicc_
-[00:09:59] [Server thread/INFO]: manepear___ issued server command: /gls withdraw 1
-[00:10:01] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /resetkit firework
-[00:10:01] [Server thread/INFO]: Command Help: /resetkit
-[00:10:01] [Server thread/INFO]: Description: Resets the cooldown on the specified kit.
-[00:10:01] [Server thread/INFO]: Usage(s);
-[00:10:01] [Server thread/INFO]: /resetkit <kit> [player] - Resets the cooldown of the specified kit for you or another player if specified
-[00:10:22] [Server thread/INFO]: Wemmbu issued server command: /clear manepear___
-[00:10:23] [Server thread/INFO]: [portal]<Oh it’s Mapicc_ The player✌️👋> ready now
-[00:10:25] [Server thread/INFO]: Wemmbu issued server command: /clear Mapicc_
-[00:10:34] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> ok
-[00:10:38] [Server thread/INFO]: [portal]<Oh it’s Mapicc_ The player✌️👋> now
-[00:10:42] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> everyone do /mm join portal
-[00:10:46] [Server thread/INFO]: Wemmbu issued server command: /mm join portal
-[00:10:46] [Server thread/INFO]: [MurderMystery] Saved inventory of Wemmbu
-[00:10:47] [Server thread/INFO]: Mapicc_ issued server command: /mm join portal
-[00:10:47] [Server thread/INFO]: [MurderMystery] Saved inventory of Mapicc_
-[00:10:47] [Server thread/INFO]: manepear___ issued server command: /MM JOIN portal
-[00:10:47] [Server thread/INFO]: [MurderMystery] Saved inventory of manepear___
-[00:10:54] [Server thread/INFO]: manepear___ issued server command: /start
-[00:11:33] [Server thread/INFO]: [1] Oh it’s Mapicc_ The player✌️👋 | gg
-[00:11:34] [Server thread/INFO]: [MurderMystery] Loaded inventory of Wemmbu
-[00:11:43] [Server thread/INFO]: [MurderMystery] Loaded inventory of manepear___
-[00:11:43] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mapicc_
-[00:11:52] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> this game is fun with people
-[00:11:58] [Server thread/INFO]: [portal]<Oh it’s Mapicc_ The player✌️👋> i can tell
-[00:12:01] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> but we too ltl
-[00:12:08] [Server thread/INFO]: [portal]<Oh it’s Mapicc_ The player✌️👋> yeah agian
-[00:12:13] [Server thread/INFO]: Mapicc_ issued server command: /mm join portal
-[00:12:13] [Server thread/INFO]: [MurderMystery] Saved inventory of Mapicc_
-[00:12:19] [Server thread/INFO]: manepear___ issued server command: /MM JOIN portal
-[00:12:19] [Server thread/INFO]: [MurderMystery] Saved inventory of manepear___
-[00:12:38] [Server thread/INFO]: [1] Oh it’s Mapicc_ The player✌️👋 | join wembu
-[00:12:43] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> ok evey one do /ob join BUT CLICK BED TO LEAVE MURDER MYSTERY FIRST
-[00:12:54] [Server thread/INFO]: Wemmbu issued server command: /ob join
-[00:13:11] [Server thread/INFO]: [OneBlock]<OWNER WemmbuTHE ADMIN> hello?
-[00:13:12] [Server thread/INFO]: Wemmbu issued server command: /
-[00:13:40] [Server thread/INFO]: Wemmbu issued server command: /ob leave
-[00:13:46] [Server thread/INFO]: Wemmbu issued server command: /mv tp Wemmbu
-[00:13:58] [Server thread/INFO]: Wemmbu issued server command: /mv tp portsl
-[00:14:02] [Server thread/INFO]: Wemmbu issued server command: /mv tp portal
-[00:14:08] [Server thread/INFO]: Wemmbu issued server command: /
-[00:14:11] [Server thread/INFO]: Wemmbu issued server command: /tp Wemmbu
-[00:14:12] [Server thread/INFO]: Wemmbu issued server command: /
-[00:14:18] [Server thread/INFO]: Wemmbu issued server command: /mm join portal
-[00:14:22] [Server thread/INFO]: Wemmbu issued server command: /mm
-[00:14:35] [Server thread/INFO]: [MurderMystery] Loaded inventory of manepear___
-[00:14:35] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mapicc_
-[00:14:39] [Server thread/INFO]: manepear___ issued server command: /`
-[00:14:45] [Server thread/INFO]: manepear___ issued server command: /MM JOIN portal
-[00:14:45] [Server thread/INFO]: [MurderMystery] Saved inventory of manepear___
-[00:14:45] [Server thread/INFO]: Mapicc_ issued server command: /mm join portal
-[00:14:45] [Server thread/INFO]: [MurderMystery] Saved inventory of Mapicc_
-[00:14:46] [Server thread/INFO]: Wemmbu issued server command: /mm randomjoin
-[00:14:46] [Server thread/INFO]: [MurderMystery] Saved inventory of Wemmbu
-[00:14:49] [Server thread/INFO]: Mapicc_ issued server command: /start
-[00:16:43] [Server thread/INFO]: Dead[1] Oh it’s manepear___ The player✌️👋 | yo
-[00:17:07] [Server thread/INFO]: Mapicc_ lost connection: Disconnected
-[00:17:07] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mapicc_
-[00:17:07] [Server thread/INFO]: Mapicc_ left the game
-[00:17:14] [Server thread/INFO]: [MurderMystery] Loaded inventory of manepear___
-[00:17:14] [Server thread/INFO]: [MurderMystery] Loaded inventory of Wemmbu
-[00:17:18] [Server thread/INFO]: manepear___ issued server command: /MM
-[00:17:26] [Server thread/INFO]: manepear___ issued server command: /MM JOIN portal
-[00:17:26] [Server thread/INFO]: [MurderMystery] Saved inventory of manepear___
-[00:17:33] [Server thread/INFO]: Wemmbu issued server command: /mm join portal
-[00:17:33] [Server thread/INFO]: [MurderMystery] Saved inventory of Wemmbu
-[00:18:55] [Server thread/INFO]: [1] OWNER WemmbuTHE ADMIN | im so gud
-[00:18:58] [Server thread/INFO]: [1] OWNER WemmbuTHE ADMIN | lol
-[00:19:01] [Server thread/INFO]: manepear___ issued server command: /how
-[00:19:04] [Server thread/INFO]: [MurderMystery] Loaded inventory of manepear___
-[00:19:04] [Server thread/INFO]: [MurderMystery] Loaded inventory of Wemmbu
-[00:19:09] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> wait
-[00:19:12] [Server thread/INFO]: manepear___ issued server command: /MM JOIN
-[00:19:15] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> dont join
-[00:19:19] [Server thread/INFO]: [portal]<Oh it’s manepear___ The player✌️👋> ok
-[00:19:24] [Server thread/INFO]: [portal]<OWNER WemmbuTHE ADMIN> Do /ob join
-[00:19:27] [Server thread/INFO]: Wemmbu issued server command: /
-[00:19:30] [Server thread/INFO]: manepear___ issued server command: /ob join
-[00:19:31] [Server thread/INFO]: Wemmbu issued server command: /ob join
-[00:19:41] [Server thread/INFO]: [OneBlock]<OWNER WemmbuTHE ADMIN> did u do?
-[00:19:45] [Server thread/INFO]: [OneBlock]<Oh it’s manepear___ The player✌️👋> yea
-[00:19:50] [Server thread/INFO]: [OneBlock]<OWNER WemmbuTHE ADMIN> were u
-[00:19:53] [Server thread/INFO]: Wemmbu issued server command: /tp manepear___
-[00:20:12] [Server thread/INFO]: Wemmbu issued server command: /ob join
-[00:20:26] [Server thread/INFO]: Wemmbu issued server command: /ob invite manepear___
-[00:20:32] [Server thread/INFO]: Wemmbu issued server command: /
-[00:20:41] [Server thread/INFO]: [OneBlock]<OWNER WemmbuTHE ADMIN> this is my island
-[00:20:46] [Server thread/INFO]: [OneBlock]<Oh it’s manepear___ The player✌️👋> poor
-[00:21:03] [Server thread/INFO]: [OneBlock]<Oh it’s manepear___ The player✌️👋> how do i get back to mine
-[00:21:04] [Server thread/INFO]: Wemmbu issued server command: /ob join
-[00:21:11] [Server thread/INFO]: [OneBlock]<OWNER WemmbuTHE ADMIN> same way u got hre
-[00:21:17] [Server thread/INFO]: [OneBlock]<Oh it’s manepear___ The player✌️👋> how
-[00:21:22] [Server thread/INFO]: manepear___ issued server command: /ob join
-[00:21:23] [Server thread/INFO]: Wemmbu issued server command: /mv tp um
-[00:21:29] [Server thread/INFO]: manepear___ issued server command: /ob join
-[00:21:30] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> do /ob join
-[00:21:36] [Server thread/INFO]: manepear___ issued server command: /lobby
-[00:21:40] [Server thread/INFO]: manepear___ issued server command: /lobby
-[00:21:49] [Server thread/INFO]: manepear___ fell out of the world
-[00:22:09] [Server thread/INFO]: [OneBlock]<Oh it’s manepear___ The player✌️👋> i cant break my blocks
-[00:22:28] [Server thread/INFO]: manepear___ issued server command: /ob join
-[00:22:34] [Server thread/INFO]: manepear___ lost connection: Disconnected
-[00:22:34] [Server thread/INFO]: manepear___ left the game
-[00:22:36] [User Authenticator #4/INFO]: UUID of player manepear___ is 1244ba2c-088a-34e3-8c8f-b58d3a98ce86
-[00:22:36] [Server thread/INFO]: manepear___[/127.0.0.1:56172] logged in with entity id 3418 at ([OneBlock]92.5, 91.0, 1403.5)
-[00:22:48] [Server thread/INFO]: manepear___ issued server command: /spawn
-[00:22:53] [Craft Scheduler Thread - 91/INFO]: spawn_name
-[00:22:53] [Craft Scheduler Thread - 91/INFO]: Spawn
-[00:22:53] [Craft Scheduler Thread - 94/INFO]: Spawn
-[00:22:58] [Server thread/INFO]: manepear___ issued server command: /ob join
-[00:23:31] [Server thread/INFO]: manepear___ fell out of the world
-[00:23:39] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> bk
-[00:23:45] [Server thread/INFO]: [OneBlock]<Oh it’s manepear___ The player✌️👋> ?
-[00:23:59] [Server thread/INFO]: Wemmbu issued server command: /ob leave
-[00:24:07] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> i think u do /ob leave
-[00:24:15] [Server thread/INFO]: manepear___ issued server command: /ob leave
-[00:24:23] [Server thread/INFO]: manepear___ issued server command: /ob leave
-[00:24:47] [Server thread/INFO]: [OneBlock]<Oh it’s manepear___ The player✌️👋> it says "Sorry, but the position was not set
-[00:24:56] [Server thread/INFO]: manepear___ issued server command: /spawn
-[00:24:57] [Server thread/INFO]: manepear___ fell out of the world
-[00:25:13] [Server thread/INFO]: manepear___ issued server command: /MM JOIN portal
-[00:25:13] [Server thread/INFO]: [MurderMystery] Saved inventory of manepear___
-[00:25:18] [Server thread/INFO]: manepear___ issued server command: /ob join
-[00:25:23] [Server thread/INFO]: manepear___ issued server command: /mm leave
-[00:25:23] [Server thread/INFO]: [MurderMystery] Loaded inventory of manepear___
-[00:25:30] [Server thread/INFO]: manepear___ issued server command: /ob join
-[00:26:06] [Server thread/INFO]: manepear___ issued server command: /bk
-[00:26:16] [Server thread/INFO]: manepear___ issued server command: /back
-[00:26:16] [Server thread/INFO]: manepear___ fell out of the world
-[00:26:47] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> weird
-[00:26:49] [Server thread/INFO]: Wemmbu issued server command: /tpall
-[00:26:49] [Server thread/INFO]: Wemmbu
-[00:27:37] [Server thread/INFO]: manepear___ was shot by Skeleton
-[00:28:11] [Server thread/INFO]: Wemmbu lost connection: Disconnected
-[00:28:11] [Server thread/INFO]: Wemmbu left the game
-[00:28:23] [Server thread/INFO]: manepear___ has made the advancement [Monster Hunter]
-[00:28:32] [Server thread/INFO]: manepear___ issued server command: /sellall hand
-[00:28:32] [Server thread/INFO]: Shop >> manepear___ sold 2 x Bone(Mobs.page1.items.4) for $3.00 with the sell all command.
-[00:28:34] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /broadcast brb
-[00:28:35] [Server thread/INFO]: manepear___ issued server command: /shop
-[00:28:38] [Server thread/INFO]: Stopping the server
-[00:28:38] [Server thread/INFO]: Stopping server
-[00:28:38] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.2
-[00:28:38] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.21.2
-[00:28:38] [Server thread/INFO]: [MTVehicles] Disabling MTVehicles v2.5.8
-[00:28:38] [Server thread/INFO]: [PlayerKits2] Disabling PlayerKits2 v1.19.1
-[00:28:38] [Server thread/INFO]: [PlayerKits²] Has been disabled! Version: 1.19.1
-[00:28:38] [Server thread/INFO]: [TAB] Disabling TAB v5.3.2
-[00:28:38] [Server thread/INFO]: [TAB] Disabled in 2ms
-[00:28:38] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.15.1
-[00:28:38] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.2
-[00:28:38] [Server thread/INFO]: [CrazyAuctions] Disabling CrazyAuctions v1.2.19
-[00:28:38] [Server thread/INFO]: [ajLeaderboards] Disabling ajLeaderboards v2.10.1
-[00:28:38] [pool-38-thread-1/INFO]: [ajLeaderboards] Shutting down cache method..
-[00:28:38] [pool-38-thread-1/INFO]: [ajLeaderboards] Cache method shut down
-[00:28:38] [Server thread/INFO]: [ajLeaderboards] Killing remaining workers
-[00:28:38] [Server thread/INFO]: [ajLeaderboards] Remaining workers killed
-[00:28:38] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.10.1 disabled.
-[00:28:38] [Server thread/INFO]: [BannerMaker] Disabling BannerMaker v1.9.0
-[00:28:38] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.3.0
-[00:28:38] [Server thread/INFO]: [hsqldb.db.HSQLDB9A802A399F.ENGINE] Database closed
-[00:28:38] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
-[00:28:38] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
-[00:28:38] [Server thread/INFO]: 
+[13:17:46] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to StaffModeX v1.2.4
+java.lang.NoSuchFieldError: Class org.bukkit.Material does not have member field 'org.bukkit.Material FARMLAND'
+	at com.arkflame.staffmodex.listeners.PlayerTrampleFarmlandListener.onPlayerTrampleFarmland(PlayerTrampleFarmlandListener.java:30) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor235.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70) ~[patched_1.12.2.jar:git-Paper-1620]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:236) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:203) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateBinary.e(BlockPressurePlateBinary.java:75) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:96) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:89) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.checkBlockCollisions(Entity.java:1015) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.move(Entity.java:596) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.a(EntityLiving.java:1886) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.a(EntityHuman.java:1454) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.n(EntityLiving.java:2196) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.n(EntityHuman.java:356) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.B_(EntityLiving.java:2024) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.B_(EntityHuman.java:146) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityPlayer.playerTick(EntityPlayer.java:343) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.e(PlayerConnection.java:145) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:273) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:150) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:948) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:17:48] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to StaffModeX v1.2.4
+java.lang.NoSuchFieldError: Class org.bukkit.Material does not have member field 'org.bukkit.Material FARMLAND'
+	at com.arkflame.staffmodex.listeners.PlayerTrampleFarmlandListener.onPlayerTrampleFarmland(PlayerTrampleFarmlandListener.java:30) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor235.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70) ~[patched_1.12.2.jar:git-Paper-1620]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:236) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:203) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateBinary.e(BlockPressurePlateBinary.java:75) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:96) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:89) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.checkBlockCollisions(Entity.java:1015) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.move(Entity.java:596) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.a(EntityLiving.java:1886) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.a(EntityHuman.java:1454) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.n(EntityLiving.java:2196) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.n(EntityHuman.java:356) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.B_(EntityLiving.java:2024) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.B_(EntityHuman.java:146) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityPlayer.playerTick(EntityPlayer.java:343) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.e(PlayerConnection.java:145) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:273) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:150) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:948) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:17:52] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to StaffModeX v1.2.4
+java.lang.NoSuchFieldError: Class org.bukkit.Material does not have member field 'org.bukkit.Material FARMLAND'
+	at com.arkflame.staffmodex.listeners.PlayerTrampleFarmlandListener.onPlayerTrampleFarmland(PlayerTrampleFarmlandListener.java:30) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor235.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70) ~[patched_1.12.2.jar:git-Paper-1620]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:236) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:203) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateBinary.e(BlockPressurePlateBinary.java:75) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:96) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:89) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.checkBlockCollisions(Entity.java:1015) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.move(Entity.java:596) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.a(EntityLiving.java:1886) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.a(EntityHuman.java:1454) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.n(EntityLiving.java:2196) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.n(EntityHuman.java:356) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.B_(EntityLiving.java:2024) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.B_(EntityHuman.java:146) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityPlayer.playerTick(EntityPlayer.java:343) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.e(PlayerConnection.java:145) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:273) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:150) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:948) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:17:55] [Server thread/INFO]: cris00 issued server command: /back
+[13:18:00] [Craft Scheduler Thread - 116/INFO]: Last Location
+[13:18:00] [Craft Scheduler Thread - 110/INFO]: Last Location
+[13:18:02] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> brb
+[13:18:04] [Server thread/INFO]: cris00 fell from a high place
+[13:18:09] [Server thread/INFO]: cris00 issued server command: /back
+[13:18:12] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to StaffModeX v1.2.4
+java.lang.NoSuchFieldError: Class org.bukkit.Material does not have member field 'org.bukkit.Material FARMLAND'
+	at com.arkflame.staffmodex.listeners.PlayerTrampleFarmlandListener.onPlayerTrampleFarmland(PlayerTrampleFarmlandListener.java:30) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor235.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70) ~[patched_1.12.2.jar:git-Paper-1620]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:236) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:203) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateBinary.e(BlockPressurePlateBinary.java:75) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:96) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:89) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.checkBlockCollisions(Entity.java:1015) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.Entity.move(Entity.java:596) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.a(EntityLiving.java:1886) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.a(EntityHuman.java:1454) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.n(EntityLiving.java:2196) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.n(EntityHuman.java:356) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityLiving.B_(EntityLiving.java:2024) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityHuman.B_(EntityHuman.java:146) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.EntityPlayer.playerTick(EntityPlayer.java:343) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.e(PlayerConnection.java:145) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:273) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:150) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:948) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:18:28] [Server thread/INFO]: thebesttoucher issued server command: /shop
+[13:18:47] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> are tyring to kiilll
+[13:18:48] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> me
+[13:18:50] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> ??
+[13:18:51] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> no
+[13:18:57] [Server thread/INFO]: cris00 issued server command: /back
+[13:19:02] [Craft Scheduler Thread - 113/INFO]: Last Location
+[13:19:02] [Craft Scheduler Thread - 99/INFO]: Last Location
+[13:19:05] [Server thread/INFO]: Wemmbu issued server command: /tp cris00
+[13:19:16] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> cris
+[13:19:19] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> i cant use
+[13:19:30] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> yeah cuz it says its adams /-/
+[13:19:37] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> ye
+[13:19:44] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> i need my glass
+[13:19:53] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> hey wembu treyshawn wants me to ask you if you can add someone
+[13:19:56] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> how much
+[13:20:14] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> oh ya ya
+[13:20:20] [Server thread/INFO]: cris00 issued server command: /home main base
+[13:20:26] [Server thread/INFO]: cris00 issued server command: /home mainbase
+[13:20:31] [Craft Scheduler Thread - 99/INFO]: mainbase
+[13:20:31] [Craft Scheduler Thread - 99/INFO]: mainbase
+[13:20:44] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> oh yeah everyone LISTEN
+[13:20:51] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> IMPORTENT news
+[13:20:52] [Server thread/INFO]: Shop >> thebesttoucher sold 221 x Bone(Mobs.page1.items.4) for $331.50 with the sell screen.
+[13:20:56] [Server thread/INFO]: Shop >> thebesttoucher sold 143 x Arrow(Mobs.page1.items.1) for $81.50 with the sell screen.
+[13:20:58] [User Authenticator #14/INFO]: UUID of player manepear_____ is 201d48e9-dbd1-3215-becb-0db004a48e46
+[13:20:58] [Server thread/INFO]: manepear_____[/127.0.0.1:45118] logged in with entity id 7916 at ([um]-23.211545636938464, 64.0, -131.77970839730156)
+[13:20:58] [Server thread/INFO]: cris00 fell from a high place
+[13:21:06] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> EVERYONE LISTEN
+[13:21:08] [Server thread/INFO]: cris00 issued server command: /back
+[13:21:08] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> SO
+[13:21:12] [Server thread/INFO]: thebesttoucher issued server command: /home
+[13:21:13] [User Authenticator #14/INFO]: UUID of player jose is cf082672-3126-352f-bb39-02a47a4b8e5e
+[13:21:13] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jose's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:21:13] [Server thread/INFO]: jose[/127.0.0.1:56326] logged in with entity id 8120 at ([um]-188.10612996191517, 64.0, 250.63373080258603)
+[13:21:13] [Craft Scheduler Thread - 122/INFO]: Last Location
+[13:21:13] [Craft Scheduler Thread - 123/INFO]: Last Location
+[13:21:15] [Server thread/INFO]: [um]<Oh it’s manepear_____ The player✌️👋> ?
+[13:21:17] [Craft Scheduler Thread - 122/INFO]: default
+[13:21:17] [Craft Scheduler Thread - 110/INFO]: default
+[13:21:22] [Server thread/INFO]: cris00 issued server command: /home mainbase
+[13:21:28] [Server thread/INFO]: jose lost connection: Disconnected
+[13:21:28] [Server thread/INFO]: jose left the game
+[13:21:30] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> me and adam aare makeing DEMON SLAYER in MINECWAFT
+[13:21:35] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> WHAT
+[13:21:39] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> ya i know
+[13:21:42] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> AND
+[13:21:50] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> he already told me
+[13:21:51] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> there is gonna be a temple
+[13:21:52] [User Authenticator #14/INFO]: UUID of player jose is cf082672-3126-352f-bb39-02a47a4b8e5e
+[13:21:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jose's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:21:52] [Server thread/INFO]: jose[/127.0.0.1:55636] logged in with entity id 8347 at ([um]-188.10612996191517, 64.0, 250.63373080258603)
+[13:22:01] [Server thread/INFO]: cris00 issued server command: /home mainbase
+[13:22:03] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> to choose ur abilitys
+[13:22:06] [Craft Scheduler Thread - 127/INFO]: mainbase
+[13:22:06] [Craft Scheduler Thread - 125/INFO]: mainbase
+[13:22:06] [Server thread/INFO]: jose lost connection: Disconnected
+[13:22:06] [Server thread/INFO]: jose left the game
+[13:22:09] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> at the temple
+[13:22:20] [User Authenticator #14/INFO]: UUID of player jose is cf082672-3126-352f-bb39-02a47a4b8e5e
+[13:22:20] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jose's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:22:20] [Server thread/INFO]: jose[/127.0.0.1:48342] logged in with entity id 8484 at ([um]-188.10612996191517, 64.0, 250.63373080258603)
+[13:22:32] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> ur abilitys get stronger as u lvl up by killing enemys or smt
+[13:22:34] [Server thread/INFO]: jose lost connection: Disconnected
+[13:22:34] [Server thread/INFO]: jose left the game
+[13:22:40] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> THATS SO COOL
+[13:22:49] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> ikr
+[13:22:49] [User Authenticator #14/INFO]: UUID of player ItzRealMe is 6d9d77b6-eac0-369e-90ab-9562b0f35f10
+[13:22:50] [Server thread/INFO]: ItzRealMe[/127.0.0.1:56742] logged in with entity id 8627 at ([um]-177.30000001192093, 65.0, 252.85771896549574)
+[13:22:51] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> these are the abiltys SUN
+[13:22:54] [Server thread/INFO]: ItzRealMe issued server command: /l zwr3e68s
+[13:22:55] [User Authenticator #14/INFO]: UUID of player jose is cf082672-3126-352f-bb39-02a47a4b8e5e
+[13:22:55] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jose's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:22:55] [Server thread/INFO]: jose[/127.0.0.1:56754] logged in with entity id 8684 at ([um]-188.10612996191517, 64.0, 250.63373080258603)
+[13:22:56] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> FLAME
+[13:22:59] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> WATER
+[13:23:01] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> SOUND
+[13:23:06] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> give me food and stuffffffffffff plsssssss
+[13:23:06] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> INSECT
+[13:23:11] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> mane turn off your cords
+[13:23:11] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> THUNDER
+[13:23:17] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> im getting insect
+[13:23:19] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> hamzah
+[13:23:20] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> i sowwy
+[13:23:21] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> i love bugs
+[13:23:26] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> BEAST
+[13:23:29] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> STONE
+[13:23:33] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> what
+[13:23:38] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> MOON
+[13:23:43] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> give me moon
+[13:23:44] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> WIND
+[13:23:46] [Server thread/INFO]: [um]<Oh it’sjoseThe player✌️👋> help pls
+[13:23:46] [Server thread/INFO]: [um]<Oh it’sjoseThe player✌️👋> help pls
+[13:23:46] [Server thread/INFO]: [um]<Oh it’sjoseThe player✌️👋> help pls
+[13:23:47] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> SERPENT
+[13:23:49] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> LOVE
+[13:23:51] [Server thread/INFO]: [um]<Oh it’s manepear_____ The player✌️👋> i want Sun
+[13:23:56] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> sun easily
+[13:24:06] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> I want moon
+[13:24:09] [Server thread/INFO]: [um]<Oh it’sjoseThe player✌️👋> help me plsssssssssssss
+[13:24:10] [Server thread/INFO]: thebesttoucher issued server command: /shop
+[13:24:16] [Server thread/INFO]: Shop >> thebesttoucher sold 58 x Wool(Blocks.page3.items.115) for $426.29 with the sell screen.
+[13:24:21] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> FUCK YOU RAFAEL ITS JAYDEN C IM TAKING MOON
+[13:24:29] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> LOL
+[13:24:29] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> bruh
+[13:24:29] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> lol
+[13:24:34] [Server thread/INFO]: Shop >> thebesttoucher bought 1 x Enchanted Book(Enchanting.page1.items.29) for $441.00 with the buy screen.
+[13:24:35] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> tp me to world
+[13:24:37] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> then give me stone
+[13:24:38] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> idk
+[13:24:38] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> tht wasnt me lol
+[13:24:39] [Server thread/INFO]: thebesttoucher issued server command: /shop
+[13:24:48] [Server thread/INFO]: jose lost connection: Disconnected
+[13:24:49] [Server thread/INFO]: jose left the game
+[13:24:51] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> then still give me moon
+[13:25:18] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> OK BUT GUYS IT WONT BE AS STRONG AS OTHER
+[13:25:19] [Server thread/INFO]: rw4 issued server command: /shop
+[13:25:26] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> wym
+[13:25:36] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> LIKE
+[13:25:42] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> what is the stongest one
+[13:25:47] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> SOME WILL BE BALENCED
+[13:25:55] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> SOME ARE STRONGER
+[13:26:02] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> ok
+[13:26:06] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> still give me moon
+[13:26:10] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> so not as balenced as anime
+[13:26:17] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> idfc give me the bugs
+[13:26:17] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> ok
+[13:26:21] [Server thread/INFO]: thebesttoucher issued server command: /shop
+[13:26:21] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> i like moon
+[13:26:26] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> ?
+[13:26:26] [Server thread/INFO]: Shop >> thebesttoucher sold 37 x Wool(Blocks.page3.items.115) for $271.95 with the sell screen.
+[13:26:27] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> ttttttttttppppppppppppppppppp meeeeeeeeeeeeeeeeeeee
+[13:26:28] [Server thread/INFO]: [um]<Oh it’s manepear_____ The player✌️👋> Sun
+[13:26:30] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> so i want moon
+[13:26:33] [Server thread/INFO]: Shop >> thebesttoucher bought 1 x Enchanted Book(Enchanting.page1.items.29) for $441.00 with the buy screen.
+[13:26:34] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> sun moon
+[13:26:40] [Server thread/INFO]: thebesttoucher issued server command: /warp idk
+[13:26:41] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> no one wnts thunder yay
+[13:26:43] [Server thread/INFO]: cris00 fell from a high place
+[13:26:45] [Craft Scheduler Thread - 130/INFO]: idk
+[13:26:45] [Craft Scheduler Thread - 123/INFO]: idk
+[13:26:51] [Server thread/INFO]: cris00 issued server command: /home mainbase
+[13:26:55] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> CRIS I SAW THT THATS SAD
+[13:26:56] [Craft Scheduler Thread - 122/INFO]: mainbase
+[13:26:56] [Craft Scheduler Thread - 123/INFO]: mainbase
+[13:27:09] [Server thread/INFO]: ItzRealMe issued server command: /tpa cris00
+[13:27:23] [Server thread/INFO]: hola_o_0s issued server command: /tp
+[13:27:23] [Server thread/INFO]: [Essentials] hola_o_0s was denied access to command.
+[13:27:37] [Server thread/INFO]: rw4 lost connection: Timed out
+[13:27:37] [Server thread/INFO]: rw4 left the game
+[13:27:40] [Server thread/INFO]: hola_o_0s issued server command: /tp
+[13:27:40] [Server thread/INFO]: [Essentials] hola_o_0s was denied access to command.
+[13:27:47] [Server thread/INFO]: cris00 issued server command: /back
+[13:27:48] [Server thread/INFO]: Wemmbu issued server command: /sellall GUNPOWDER
+[13:27:48] [Server thread/INFO]: Shop >> Wemmbu sold 19 x Sulphur(Mobs.page1.items.8) for $73.72 with the sell all command.
+[13:27:53] [Server thread/INFO]: cris00 issued server command: /back
+[13:27:57] [Server thread/INFO]: cris00 issued server command: /tpdeny
+[13:27:57] [Server thread/INFO]: manepear_____ issued server command: /shop
+[13:28:01] [Server thread/INFO]: cris00 issued server command: /back
+[13:28:06] [Craft Scheduler Thread - 134/INFO]: Last Location
+[13:28:06] [Craft Scheduler Thread - 134/INFO]: Last Location
+[13:28:08] [Server thread/INFO]: Wemmbu issued server command: /
+[13:28:16] [Server thread/INFO]: Shop >> manepear_____ sold 6 x Wool(Blocks.page3.items.115) for $44.09 with the sell screen.
+[13:28:21] [Server thread/INFO]: Shop >> manepear_____ sold 12 x Wool(Blocks.page3.items.101) for $88.19 with the sell screen.
+[13:28:28] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> sir glass please
+[13:28:33] [User Authenticator #15/INFO]: UUID of player rw4 is 3e54b472-4830-3bba-86eb-59acffcbc28d
+[13:28:33] [Server thread/INFO]: rw4[/127.0.0.1:40590] logged in with entity id 11443 at ([um]-33.30000001192093, 64.0, -136.822923379295)
+[13:28:37] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> when will i get moon
+[13:28:48] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> idk MAYBE TOMAROW
+[13:28:51] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> ok
+[13:28:54] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> we jst started today
+[13:29:08] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> we have to make it from scratch
+[13:29:24] [Server thread/INFO]: cris00 issued server command: /home mainbase
+[13:29:29] [Craft Scheduler Thread - 138/INFO]: mainbase
+[13:29:29] [Craft Scheduler Thread - 135/INFO]: mainbase
+[13:29:43] [Server thread/INFO]: [um]<Oh it’s thebesttoucher The player✌️👋> whats going on
+[13:29:46] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> IS ANYONE GOING TO NEW BRITAIN PUBLIC LIBARY TODAY
+[13:29:49] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> you have to give me gaps because you were testing the mace on my yesterday and i used like 40
+[13:29:57] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> on me
+[13:29:59] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> me to
+[13:30:02] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> ye
+[13:30:08] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> not you
+[13:30:11] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> bur
+[13:30:13] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> bru
+[13:30:14] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> grrrrrrrrr
+[13:30:15] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> you would get one shot
+[13:30:23] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> Lol
+[13:30:29] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> fight me first
+[13:30:43] [Server thread/INFO]: ItzRealMe issued server command: /shop
+[13:30:49] [Server thread/INFO]: rw4 issued server command: /shop
+[13:30:51] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> Bruh
+[13:30:52] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> ye bc no help me need help in math claes i dont know how to this bru help me in math
+[13:30:59] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> i only have 4 gaps
+[13:31:02] [Server thread/INFO]: Shop >> rw4 bought 1 x Piston Base(Redstone.page1.items.18) for $33.90 with the buy screen.
+[13:31:02] [Server thread/INFO]: Shop >> rw4 bought 1 x Piston Base(Redstone.page1.items.18) for $33.90 with the buy screen.
+[13:31:04] [Server thread/WARN]: hola_o_0s moved wrongly!
+[13:31:09] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> so get moreer ree
+[13:31:24] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> you cant spell
+[13:31:25] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> who r u
+[13:31:28] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> and hello
+[13:31:37] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> hello
+[13:31:38] [Server thread/INFO]: ItzRealMe issued server command: /tpa cris00
+[13:31:48] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> who are you
+[13:31:48] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> hello
+[13:31:53] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> whi r u
+[13:31:56] [Server thread/INFO]: rw4 issued server command: /shop
+[13:31:59] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> who
+[13:32:01] [Server thread/INFO]: Shop >> rw4 bought 1 x Observer(Redstone.page1.items.10) for $50.04 with the buy screen.
+[13:32:01] [Server thread/INFO]: Shop >> rw4 bought 1 x Observer(Redstone.page1.items.10) for $50.04 with the buy screen.
+[13:32:01] [Server thread/INFO]: Shop >> rw4 bought 1 x Observer(Redstone.page1.items.10) for $50.04 with the buy screen.
+[13:32:02] [Server thread/INFO]: Shop >> rw4 bought 1 x Observer(Redstone.page1.items.10) for $50.04 with the buy screen.
+[13:32:02] [Server thread/INFO]: Shop >> rw4 bought 1 x Observer(Redstone.page1.items.10) for $50.04 with the buy screen.
+[13:32:02] [Server thread/INFO]: Shop >> rw4 bought 1 x Observer(Redstone.page1.items.10) for $50.04 with the buy screen.
+[13:32:03] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> bruh
+[13:32:03] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> you
+[13:32:04] [Server thread/INFO]: Shop >> rw4 bought 1 x Observer(Redstone.page1.items.10) for $50.04 with the buy screen.
+[13:32:04] [Server thread/INFO]: Shop >> rw4 bought 1 x Observer(Redstone.page1.items.10) for $50.04 with the buy screen.
+[13:32:07] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> no you
+[13:32:08] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> me
+[13:32:11] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> yes
+[13:32:13] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> raf
+[13:32:17] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> he is John valdazz
+[13:32:18] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> c
+[13:32:19] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> oooooo ya sorry
+[13:32:26] [Server thread/INFO]: ItzRealMe issued server command: /tpa cris00
+[13:32:28] [Server thread/INFO]: cris00 issued server command: /tpaccept
+[13:32:33] [Craft Scheduler Thread - 140/INFO]: cris00
+[13:32:33] [Craft Scheduler Thread - 140/INFO]: cris00
+[13:32:50] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> bro
+[13:32:51] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> im almost done
+[13:32:55] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> ok
+[13:33:01] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> its big
+[13:33:14] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> hamzah
+[13:33:14] [Server thread/INFO]: [um]<Oh it’s manepear_____ The player✌️👋> what are doing here
+[13:33:20] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> i find you
+[13:33:22] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> idk
+[13:33:25] [Server thread/INFO]: [um]<Oh it’s manepear_____ The player✌️👋> oh
+[13:33:25] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> k me leave
+[13:33:29] [Server thread/INFO]: [um]<Oh it’s manepear_____ The player✌️👋> ok
+[13:33:30] [Server thread/INFO]: ItzRealMe issued server command: /shop
+[13:34:10] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> bro i cant biuld in my own base
+[13:34:22] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> why
+[13:34:40] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> adam made me an auto smelter
+[13:34:47] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> and he clamed the land
+[13:34:52] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> ok
+[13:34:54] [Server thread/INFO]: [um]<Oh it’scris00The player✌️👋> so now i cant biuld
+[13:35:02] [Server thread/WARN]: Wemmbu was kicked due to keepalive timeout!
+[13:35:02] [Server thread/INFO]: Wemmbu lost connection: Timed out
+[13:35:02] [Server thread/INFO]: Wemmbu left the game
+[13:35:02] [Server thread/WARN]: handleDisconnection() called twice
+[13:35:06] [Server thread/INFO]: cris00 fell from a high place
+[13:35:11] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> tell him to remove it
+[13:35:16] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> the claim
+[13:35:36] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> tell him during lunch
+[13:35:49] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> hello do you see me
+[13:35:50] [Server thread/INFO]: cris00 lost connection: Timed out
+[13:35:50] [Server thread/INFO]: cris00 left the game
+[13:35:51] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> bruh
+[13:35:55] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> yes
+[13:35:57] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> oh
+[13:36:04] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> bye
+[13:36:07] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> who are you rw4
+[13:36:16] [User Authenticator #16/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[13:36:17] [Server thread/INFO]: Wemmbu[/127.0.0.1:46652] logged in with entity id 13562 at ([um]-460.0684388363554, 88.0, 774.4404978528855)
+[13:36:17] [Server thread/INFO]: [um]<Oh it’s rw4 The player✌️👋> i am Alex
+[13:36:20] [User Authenticator #16/INFO]: UUID of player cris00 is 4136aea5-ee37-34c9-934d-698807690984
+[13:36:20] [TAB Processing Thread/INFO]: [TAB] [WARN] Player cris00's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:36:20] [Server thread/INFO]: cris00[/127.0.0.1:32788] logged in with entity id 13613 at ([um]-204.11541099561578, 62.0, 250.7564041656818)
+[13:36:22] [Server thread/INFO]: Wemmbu issued server command: /l ui7nxjym
+[13:36:27] [Server thread/INFO]: cris00 issued server command: /l 1234567890
+[13:36:31] [Server thread/INFO]: cris00 issued server command: /back
+[13:36:32] [Server thread/INFO]: [um]<Oh it’s ItzRealMe The player✌️👋> ok
+[13:36:41] [Server thread/INFO]: cris00 issued server command: /home mainbase
+[13:36:46] [Craft Scheduler Thread - 154/INFO]: mainbase
+[13:36:46] [Craft Scheduler Thread - 155/INFO]: mainbase
+[13:37:33] [Server thread/INFO]: Wemmbu issued server command: /broadcast EVERYONE DO /mm join portal FOR DIAMANDS
+[13:37:40] [Server thread/INFO]: [um]<OWNER WemmbuTHE ADMIN> JOIN
+[13:37:40] [Server thread/INFO]: hola_o_0s tried to swim in lava
+[13:37:45] [Server thread/INFO]: Wemmbu issued server command: /mm join portal
+[13:37:45] [Server thread/INFO]: [MurderMystery] Saved inventory of Wemmbu
+[13:38:18] [Server thread/INFO]: [MurderMystery] Loaded inventory of Wemmbu
+[13:38:53] [Server thread/INFO]: cris00 lost connection: Disconnected
+[13:38:53] [Server thread/INFO]: cris00 left the game
+[13:39:00] [Server thread/INFO]: manepear_____ walked into a cactus whilst trying to escape Husk
+[13:39:03] [User Authenticator #17/INFO]: UUID of player cris00 is 4136aea5-ee37-34c9-934d-698807690984
+[13:39:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player cris00's group (the-player) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[13:39:03] [Server thread/INFO]: cris00[/127.0.0.1:59502] logged in with entity id 14244 at ([um]-471.69999998807907, 130.0, 766.3000000119209)
+[13:39:08] [Server thread/INFO]: cris00 issued server command: /l 1234567890
+[13:39:12] [Server thread/INFO]: cris00 issued server command: /mm join
+[13:39:29] [Server thread/INFO]: cris00 issued server command: /mm join FOR DIMAONDS
+[13:39:41] [Server thread/INFO]: ItzRealMe lost connection: Disconnected
+[13:39:41] [Server thread/INFO]: ItzRealMe left the game
+[13:40:05] [Server thread/INFO]: Wemmbu lost connection: Disconnected
+[13:40:05] [Server thread/INFO]: Wemmbu left the game
+[13:40:16] [Server thread/INFO]: cris00 fell from a high place
+[13:40:26] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[13:40:26] [Server thread/INFO]: There are 5 out of maximum 60 players online.
+[13:40:26] [Server thread/INFO]: The player: Oh it’s hola_o_0s The player✌️👋, Oh it’s manepear_____ The player✌️👋, Oh it’s rw4 The player✌️👋, Oh it’s thebesttoucher The player✌️👋, Oh it’scris00The player✌️👋
+[13:40:27] [Server thread/INFO]: cris00 issued server command: /home mainbase
+[13:40:32] [Craft Scheduler Thread - 164/INFO]: mainbase
+[13:40:32] [Craft Scheduler Thread - 162/INFO]: mainbase
+[13:40:36] [Server thread/INFO]: hola_o_0s issued server command: /back
+[13:40:37] [Server thread/INFO]: rw4 issued server command: /shop
+[13:41:00] [Server thread/INFO]: cris00 lost connection: Disconnected
+[13:41:00] [Server thread/INFO]: cris00 left the game
+[13:41:34] [Server thread/INFO]: rw4 issued server command: /shop
+[13:41:36] [Server thread/INFO]: [Server] GUYS I NEED TO SAVE THE SERVER REALLY FAST JOIN BK IT GOING TO TAKE LIKE 1  MIN
+[13:41:38] [Server thread/INFO]: Shop >> rw4 bought 1 x Note Block(Redstone.page1.items.9) for $14.78 with the buy screen.
+[13:41:45] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> no
+[13:41:45] [User Authenticator #18/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[13:41:45] [Server thread/INFO]: Wemmbu[/127.0.0.1:59912] logged in with entity id 16088 at ([portal]604.8013682265218, 2.0, -1055.300000011921)
+[13:41:49] [Server thread/INFO]: Wemmbu issued server command: /l ui7nxjym
+[13:41:50] [Server thread/INFO]: Wemmbu issued server command: /heal
+[13:41:52] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> who sael thta
+[13:42:02] [Server thread/INFO]: [Server] stoping the server really fast
+[13:42:06] [Server thread/INFO]: [um]<Oh it’s hola_o_0s The player✌️👋> k
+[13:42:07] [Server thread/INFO]: Stopping the server
+[13:42:07] [Server thread/INFO]: Stopping server
+[13:42:07] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.2
+[13:42:07] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.21.2
+[13:42:07] [Server thread/INFO]: [MTVehicles] Disabling MTVehicles v2.5.8
+[13:42:08] [Server thread/INFO]: [PlayerKits2] Disabling PlayerKits2 v1.19.1
+[13:42:08] [Server thread/INFO]: [PlayerKits²] Has been disabled! Version: 1.19.1
+[13:42:08] [Server thread/INFO]: [TAB] Disabling TAB v5.3.2
+[13:42:08] [Server thread/INFO]: [TAB] Disabled in 6ms
+[13:42:08] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.15.1
+[13:42:08] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.2
+[13:42:08] [Server thread/INFO]: [CrazyAuctions] Disabling CrazyAuctions v1.2.19
+[13:42:08] [Server thread/INFO]: [ajLeaderboards] Disabling ajLeaderboards v2.10.1
+[13:42:08] [pool-38-thread-1/INFO]: [ajLeaderboards] Shutting down cache method..
+[13:42:08] [pool-38-thread-1/INFO]: [ajLeaderboards] Cache method shut down
+[13:42:08] [Server thread/INFO]: [ajLeaderboards] Killing remaining workers
+[13:42:08] [Server thread/INFO]: [ajLeaderboards] Remaining workers killed
+[13:42:08] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.10.1 disabled.
+[13:42:08] [Server thread/INFO]: [BannerMaker] Disabling BannerMaker v1.9.0
+[13:42:08] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.3.0
+[13:42:08] [Server thread/INFO]: [hsqldb.db.HSQLDB9A802A399F.ENGINE] Database closed
+[13:42:08] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[13:42:08] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[13:42:08] [Server thread/INFO]: 
  
 []=====[Disabling AdvancedBan]=====[]
 | Information:
@@ -344,12 +1684,12 @@ java.lang.IllegalArgumentException: Health must be between 0 and 18.0, but was 2
 | Twitter: @LeokoGar
 []================================[]
  
-[00:28:38] [Server thread/INFO]: [BedWars] Disabling BedWars v0.2.41
-[00:28:38] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion bedwars
-[00:28:38] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin BedWars was disabled.
-[00:28:38] [Server thread/INFO]: [SimpleFreeze] Disabling SimpleFreeze v3.2.4
-[00:28:38] [Server thread/INFO]: [Admin-GUI] Disabling Admin-GUI v1.9.0
-[00:28:38] [Server thread/INFO]: 
+[13:42:08] [Server thread/INFO]: [BedWars] Disabling BedWars v0.2.41
+[13:42:08] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion bedwars
+[13:42:08] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin BedWars was disabled.
+[13:42:08] [Server thread/INFO]: [SimpleFreeze] Disabling SimpleFreeze v3.2.4
+[13:42:08] [Server thread/INFO]: [Admin-GUI] Disabling Admin-GUI v1.9.0
+[13:42:08] [Server thread/INFO]: 
 
 []===========[Disabling AdminGUI]===========[]
 |
@@ -372,78 +1712,86 @@ java.lang.IllegalArgumentException: Health must be between 0 and 18.0, but was 2
 |
 []=========================================[]
 
-[00:28:38] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
-[00:28:38] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[00:28:38] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[00:28:38] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
-[00:28:38] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
-[00:28:38] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v1.8.1.0
-[00:28:38] [Server thread/INFO]: [WirelessRedstone] Disabling WirelessRedstone v3.0.5
-[00:28:38] [Server thread/INFO]: [WirelessRedstone] Successfully closed SQLite sqLite.getConnection().
-[00:28:38] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.23
-[00:28:38] [Server thread/INFO]: [MurderMystery] Disabling MurderMystery v2.1.5
-[00:28:38] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5.0-SNAPSHOT-b444
-[00:28:38] [Server thread/INFO]: [MusicBox] Disabling MusicBox v2.1.4
-[00:28:38] [Server thread/INFO]: [GriefDefender] Disabling GriefDefender v3.1.0
-[00:28:38] [Server thread/INFO]: [GriefDefender] Disabling GriefDefender...
-[00:28:38] [Server thread/INFO]: [GriefDefender] Saving claim data...
-[00:28:38] [Server thread/INFO]: [GriefDefender] Save complete.
-[00:28:38] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.11
-[00:28:38] [Server thread/INFO]: [GWarp] Disabling GWarp v[2.13.0.2]
-[00:28:38] [Server thread/INFO]: [GWarp] The Plugin was successfully disabled.
-[00:28:38] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
-[00:28:38] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5.0-b751
-[00:28:38] [Server thread/INFO]: [NoShieldDelay] Disabling NoShieldDelay v2.0.2
-[00:28:38] [Server thread/INFO]: [StaffModeX] Disabling StaffModeX v1.2.4
-[00:28:38] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.5.3-T20251009215941
-[00:28:38] [Server thread/INFO]: [Minepacks] [32mPlaceholderAPI hook was successfully unregistered![0m
-[00:28:39] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Shutdown initiated...
-[00:28:39] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Shutdown completed.
-[00:28:39] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
-[00:28:39] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
-[00:28:39] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.4.0
-[00:28:39] [Server thread/INFO]: [Oneblock] Disabling Oneblock v1.4.4
-[00:28:39] [Server thread/INFO]: [EquipOnRightClick] Disabling EquipOnRightClick v1.5
-[00:28:39] [Server thread/INFO]: [EquipOnRightClick] v1.5 has been disabled.
-[00:28:39] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[00:28:39] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[00:28:39] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v1.11.3
-[00:28:39] [Server thread/INFO]: [VeinMiner] Clearing localized data
-[00:28:39] [Server thread/INFO]: [Essentials_WarpGUI] Disabling Essentials_WarpGUI v1.6.1
-[00:28:39] [Server thread/INFO]: [TPA] Disabling TPA v3.2.6
-[00:28:39] [Server thread/INFO]: [TPA] Plugin unloaded!
-[00:28:39] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9;caf0ad9
-[00:28:39] [Server thread/INFO]: [ControlPlayer] Disabling ControlPlayer v2.6.1
-[00:28:39] [Server thread/INFO]: [Itemizer] Disabling Itemizer v5.05
-[00:28:39] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
-[00:28:39] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[00:28:39] [Server thread/INFO]: [LuckPerms] Closing storage...
-[00:28:39] [Server thread/INFO]: [LuckPerms] Goodbye!
-[00:28:39] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.14.2
-[00:28:39] [Server thread/INFO]: [LightAPI] Disabling LightAPI v3.5.2
-[00:28:39] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.5.1
-[00:28:39] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.1
-[00:28:39] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
-[00:28:39] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[00:28:39] [Server thread/INFO]: [NoteBlockAPI] Disabling NoteBlockAPI v1.6.3
-[00:28:39] [Server thread/INFO]: [MineChatGPT] Disabling MineChatGPT v2.7
-[00:28:39] [Server thread/INFO]: [GreatLifeSteal] Disabling GreatLifeSteal v2.0-SNAPSHOT
-[00:28:39] [Server thread/INFO]: [RealMaces] Disabling RealMaces v1.0
-[00:28:39] [Server thread/INFO]: [RealMaces] RealMacesPlugin disabled!
-[00:28:39] [Server thread/INFO]: [MCJukebox] Disabling MCJukebox v2.7.0
-[00:28:39] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[00:28:39] [Server thread/INFO]: Saving players
-[00:28:39] [Server thread/INFO]: manepear___ lost connection: Server closed nigas:/ for some good reason?:/
-[00:28:39] [Server thread/INFO]: manepear___ left the game
-[00:28:39] [Server thread/INFO]: Saving worlds
-[00:28:39] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[00:28:39] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[00:28:40] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
-[00:28:40] [Server thread/INFO]: Saving chunks for level 'hi'/overworld
-[00:28:40] [Server thread/INFO]: Saving chunks for level 'new'/overworld
-[00:28:40] [Server thread/INFO]: Saving chunks for level 'um_the_nether'/the_nether
-[00:28:40] [Server thread/INFO]: Saving chunks for level 'smp'/overworld
-[00:28:40] [Server thread/INFO]: Saving chunks for level 'um'/overworld
-[00:28:40] [Server thread/INFO]: Saving chunks for level 'portal'/overworld
-[00:28:40] [Server thread/INFO]: Saving chunks for level 'life'/overworld
-[00:28:40] [Server thread/INFO]: Saving chunks for level 'OneBlock'/overworld
+[13:42:08] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[13:42:08] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[13:42:08] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[13:42:08] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
+[13:42:08] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[13:42:08] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v1.8.1.0
+[13:42:08] [Server thread/INFO]: [WirelessRedstone] Disabling WirelessRedstone v3.0.5
+[13:42:08] [Server thread/INFO]: [WirelessRedstone] Successfully closed SQLite sqLite.getConnection().
+[13:42:08] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.23
+[13:42:08] [Server thread/INFO]: [MurderMystery] Disabling MurderMystery v2.1.5
+[13:42:08] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5.0-SNAPSHOT-b444
+[13:42:08] [Server thread/INFO]: [MusicBox] Disabling MusicBox v2.1.4
+[13:42:08] [Server thread/INFO]: [GriefDefender] Disabling GriefDefender v3.1.0
+[13:42:08] [Server thread/INFO]: [GriefDefender] Disabling GriefDefender...
+[13:42:08] [Server thread/INFO]: [GriefDefender] Saving claim data...
+[13:42:08] [Server thread/INFO]: [GriefDefender] Save complete.
+[13:42:08] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.11
+[13:42:08] [Server thread/INFO]: [GWarp] Disabling GWarp v[2.13.0.2]
+[13:42:08] [Server thread/INFO]: [GWarp] The Plugin was successfully disabled.
+[13:42:08] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[13:42:08] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5.0-b751
+[13:42:08] [Server thread/INFO]: [NoShieldDelay] Disabling NoShieldDelay v2.0.2
+[13:42:08] [Server thread/INFO]: [StaffModeX] Disabling StaffModeX v1.2.4
+[13:42:08] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.5.3-T20251009215941
+[13:42:08] [Server thread/INFO]: [Minepacks] [32mPlaceholderAPI hook was successfully unregistered![0m
+[13:42:09] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Shutdown initiated...
+[13:42:09] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Shutdown completed.
+[13:42:09] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
+[13:42:09] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
+[13:42:09] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.4.0
+[13:42:09] [Server thread/INFO]: [Oneblock] Disabling Oneblock v1.4.4
+[13:42:09] [Server thread/INFO]: [EquipOnRightClick] Disabling EquipOnRightClick v1.5
+[13:42:09] [Server thread/INFO]: [EquipOnRightClick] v1.5 has been disabled.
+[13:42:09] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[13:42:09] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[13:42:09] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v1.11.3
+[13:42:09] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[13:42:09] [Server thread/INFO]: [Essentials_WarpGUI] Disabling Essentials_WarpGUI v1.6.1
+[13:42:09] [Server thread/INFO]: [TPA] Disabling TPA v3.2.6
+[13:42:09] [Server thread/INFO]: [TPA] Plugin unloaded!
+[13:42:09] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9;caf0ad9
+[13:42:09] [Server thread/INFO]: [ControlPlayer] Disabling ControlPlayer v2.6.1
+[13:42:09] [Server thread/INFO]: [Itemizer] Disabling Itemizer v5.05
+[13:42:09] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[13:42:09] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[13:42:09] [Server thread/INFO]: [LuckPerms] Closing storage...
+[13:42:09] [Server thread/INFO]: [LuckPerms] Goodbye!
+[13:42:09] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.14.2
+[13:42:09] [Server thread/INFO]: [LightAPI] Disabling LightAPI v3.5.2
+[13:42:09] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.5.1
+[13:42:09] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.1
+[13:42:09] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[13:42:09] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[13:42:09] [Server thread/INFO]: [NoteBlockAPI] Disabling NoteBlockAPI v1.6.3
+[13:42:09] [Server thread/INFO]: [MineChatGPT] Disabling MineChatGPT v2.7
+[13:42:09] [Server thread/INFO]: [GreatLifeSteal] Disabling GreatLifeSteal v2.0-SNAPSHOT
+[13:42:09] [Server thread/INFO]: [RealMaces] Disabling RealMaces v1.0
+[13:42:09] [Server thread/INFO]: [RealMaces] RealMacesPlugin disabled!
+[13:42:09] [Server thread/INFO]: [MCJukebox] Disabling MCJukebox v2.7.0
+[13:42:09] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[13:42:09] [Server thread/INFO]: Saving players
+[13:42:09] [Server thread/INFO]: thebesttoucher lost connection: Server closed nigas:/ for some good reason?:/
+[13:42:09] [Server thread/INFO]: thebesttoucher left the game
+[13:42:09] [Server thread/INFO]: manepear_____ lost connection: Server closed nigas:/ for some good reason?:/
+[13:42:09] [Server thread/INFO]: manepear_____ left the game
+[13:42:09] [Server thread/INFO]: rw4 lost connection: Server closed nigas:/ for some good reason?:/
+[13:42:09] [Server thread/INFO]: rw4 left the game
+[13:42:09] [Server thread/INFO]: hola_o_0s lost connection: Server closed nigas:/ for some good reason?:/
+[13:42:09] [Server thread/INFO]: hola_o_0s left the game
+[13:42:09] [Server thread/INFO]: Wemmbu lost connection: Server closed nigas:/ for some good reason?:/
+[13:42:09] [Server thread/INFO]: Wemmbu left the game
+[13:42:10] [Server thread/INFO]: Saving worlds
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'new'/overworld
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'hi'/overworld
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'um_the_nether'/the_nether
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'smp'/overworld
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'um'/overworld
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'portal'/overworld
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'life'/overworld
+[13:42:10] [Server thread/INFO]: Saving chunks for level 'OneBlock'/overworld

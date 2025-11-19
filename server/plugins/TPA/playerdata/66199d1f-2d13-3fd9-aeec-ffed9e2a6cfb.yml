@@ -1,0 +1,17 @@
+player_name: thebesttouchers
+language: en_US
+setlang: false
+last_location:
+  world: new
+  x: 0.3062838176796324
+  y: 85.0
+  z: 0.06884999863362894
+  pitch: 22.350004
+  yaw: 8.700003
+logout_location:
+  world: new
+  x: 0.3062838176796324
+  y: 85.0
+  z: 0.06884999863362895
+  pitch: 22.350004
+  yaw: 8.700003

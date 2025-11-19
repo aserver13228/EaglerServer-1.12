@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1763559728147
+  login: 1763558458370
+money: '375.039999999999944'
+last-account-name: manepear_____
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -26.689913815427996
+  y: 64.0
+  z: -139.76249998807907
+  yaw: 187.5009765625
+  pitch: 43.49999237060547
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -26.689913815427996
+  y: 64.0
+  z: -139.76249998807907
+  yaw: 187.5009765625
+  pitch: 43.49999237060547

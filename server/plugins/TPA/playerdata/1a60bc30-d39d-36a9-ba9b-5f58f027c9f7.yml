@@ -3,18 +3,18 @@ language: en_US
 setlang: false
 last_location:
   world: um
-  x: -1236.8541234745562
-  y: 69.0
-  z: 758.7553280005003
-  pitch: 26.400007
-  yaw: -30.149364
+  x: -141.5079182730404
+  y: 72.0
+  z: 306.6477697337596
+  pitch: 58.950005
+  yaw: 358.9499
 logout_location:
   world: um
-  x: -175.69999998807907
-  y: 63.0
-  z: -49.69999998807908
-  pitch: 18.899973
-  yaw: 254.99951
+  x: -200.02277884929737
+  y: 64.0
+  z: 252.40975718141655
+  pitch: 22.950058
+  yaw: -256.65115
 default_home: spider
 homes:
   base:

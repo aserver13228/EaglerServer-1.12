@@ -16,9 +16,9 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763405776433
-  login: 1763406070159
-money: '0.26999999999996'
+  logout: 1763559581612
+  login: 1763558570037
+money: '18.18999999999996'
 last-account-name: ItzRealMe
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -25.25759717659021
-  y: 62.0
-  z: 686.3000000119209
-  yaw: 322.793701171875
-  pitch: -7.209517955780029
+  x: -447.30000001192093
+  y: 130.0
+  z: 771.8137838215101
+  yaw: -302.69708251953125
+  pitch: -20.54998207092285

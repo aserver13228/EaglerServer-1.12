@@ -5,6 +5,6 @@ kits:
     one_time: true
     bought: false
   food:
-    cooldown: 1763142672048
+    cooldown: 1763492702593
     one_time: false
     bought: false
