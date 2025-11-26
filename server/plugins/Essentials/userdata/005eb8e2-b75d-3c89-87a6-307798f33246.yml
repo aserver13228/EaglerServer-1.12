@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1764001993698
+  login: 1764001966212
+money: '0'
+last-account-name: icetofight
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 350.175666841778
+  y: 81.0
+  z: 1021.6999999880791
+  yaw: 63.2989501953125
+  pitch: 27.750043869018555
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 350.175666841778
+  y: 81.0
+  z: 1021.6999999880791
+  yaw: 63.2989501953125
+  pitch: 27.750043869018555

@@ -1,0 +1,17 @@
+player_name: kira_
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -175.98075213267296
+  y: 67.1212968405392
+  z: 275.6077025532707
+  pitch: 12.4500475
+  yaw: 111.599396
+logout_location:
+  world: um
+  x: -153.7003328626926
+  y: 69.0
+  z: 307.2210934221076
+  pitch: 5.8499722
+  yaw: -7.3483887

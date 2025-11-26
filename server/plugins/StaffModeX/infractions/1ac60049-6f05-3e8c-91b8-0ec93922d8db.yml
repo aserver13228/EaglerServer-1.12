@@ -1,0 +1,7 @@
+warnings:
+  780317ec-9622-4657-bb4b-9d9388526fe8:
+    timestamp: '2025-11-19 15:38:02'
+    reporter_uuid: b8e46504-274d-3847-ac77-ed94dbe8064b
+    reason: ADMA
+    accused_uuid: 1ac60049-6f05-3e8c-91b8-0ec93922d8db
+    type: WARNING

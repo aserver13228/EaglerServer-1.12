@@ -1,0 +1,17 @@
+player_name: Pedro
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -29.4317048695831
+  y: 64.0
+  z: 471.7470584534923
+  pitch: -0.14993079
+  yaw: 349.04993
+logout_location:
+  world: um
+  x: -29.4317048695831
+  y: 64.0
+  z: 471.7470584534923
+  pitch: -0.14993079
+  yaw: 349.04993

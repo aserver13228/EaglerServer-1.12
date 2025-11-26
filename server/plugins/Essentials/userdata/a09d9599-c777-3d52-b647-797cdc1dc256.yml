@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763153511620
-  login: 1763153507133
+  logout: 1764093546655
+  login: 1764093542109
 money: '10.5900000000006098'
 last-account-name: Hamzah898933_
 logoutlocation:
@@ -26,8 +26,8 @@ logoutlocation:
   x: 9302.096571485083
   y: 64.0
   z: -7300.237413828393
-  yaw: -113.6024398803711
-  pitch: 25.499967575073242
+  yaw: -122.60234069824219
+  pitch: 8.999969482421875
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um

@@ -1,0 +1,17 @@
+player_name: kenziel_
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -123.31369227474286
+  y: 89.0
+  z: 233.5763694967357
+  pitch: 21.899952
+  yaw: 181.04916
+logout_location:
+  world: um
+  x: -123.31369227474286
+  y: 89.0
+  z: 233.5763694967357
+  pitch: 21.299953
+  yaw: 180.74918

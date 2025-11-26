@@ -1,0 +1,17 @@
+player_name: Pedropedrorom_er
+language: en_US
+setlang: false
+last_location:
+  world: new
+  x: 0.5
+  y: 85.0
+  z: 0.5
+  pitch: -1.6499989
+  yaw: -6.3000007
+logout_location:
+  world: new
+  x: 0.5
+  y: 85.0
+  z: 0.5
+  pitch: -1.6499989
+  yaw: -6.3000007

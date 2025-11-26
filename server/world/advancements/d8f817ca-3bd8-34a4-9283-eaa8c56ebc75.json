@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-11-24 18:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-11-05 14:09:39 +0000"
@@ -134,6 +140,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-11-07 18:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-11-24 17:39:09 +0000"
     },
     "done": true
   },
@@ -347,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-11-20 15:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-11-06 19:34:35 +0000"
@@ -397,6 +415,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-11-20 15:50:24 +0000",
       "chicken": "2025-11-11 03:13:08 +0000",
       "cooked_mutton": "2025-11-19 13:23:53 +0000",
       "cooked_beef": "2025-11-05 14:56:29 +0000",
@@ -443,6 +462,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-11-07 13:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-11-21 17:31:21 +0000"
     },
     "done": true
   },
@@ -608,6 +633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2025-11-19 18:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-11-05 18:10:14 +0000",
@@ -636,6 +667,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-11-05 16:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-11-20 15:27:58 +0000"
     },
     "done": true
   },
@@ -819,6 +856,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-11-20 14:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-11-20 15:22:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-11-07 16:54:41 +0000"
@@ -901,11 +950,13 @@
     "criteria": {
       "zombie_pigman": "2025-11-13 12:51:01 +0000",
       "zombie_villager": "2025-11-13 01:08:46 +0000",
+      "slime": "2025-11-24 17:26:52 +0000",
       "skeleton": "2025-11-05 15:01:20 +0000",
       "husk": "2025-11-05 15:01:29 +0000",
       "zombie": "2025-11-05 14:14:56 +0000",
       "witch": "2025-11-05 15:05:25 +0000",
       "spider": "2025-11-05 14:22:26 +0000",
+      "ghast": "2025-11-20 15:26:27 +0000",
       "creeper": "2025-11-05 17:34:18 +0000",
       "enderman": "2025-11-05 15:21:17 +0000"
     },
@@ -983,6 +1034,12 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-11-20 15:26:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-11-14 13:00:31 +0000"
@@ -1019,6 +1076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-11-20 12:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-11-07 16:54:41 +0000"
@@ -1049,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-11-19 18:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2025-11-06 18:34:39 +0000"
@@ -1064,6 +1133,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-11-10 17:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-11-20 15:53:19 +0000"
     },
     "done": true
   },
@@ -1157,6 +1232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-11-19 16:58:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-11-05 22:59:47 +0000"
@@ -1196,6 +1277,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-11-06 18:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-11-20 14:17:39 +0000"
     },
     "done": true
   },
@@ -1265,6 +1352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-11-21 17:31:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-11-06 15:30:03 +0000"
@@ -1280,6 +1373,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-11-05 14:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-11-19 16:58:18 +0000"
     },
     "done": true
   },
@@ -1349,6 +1448,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-11-20 14:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-11-21 17:31:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-11-05 14:22:26 +0000"
@@ -1412,6 +1523,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-11-06 18:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-11-24 17:27:18 +0000"
     },
     "done": true
   },
@@ -1545,6 +1662,7 @@
       "mesa_clear_rock": "2025-11-07 03:19:49 +0000",
       "savanna_rock": "2025-11-05 16:37:18 +0000",
       "taiga": "2025-11-13 12:43:21 +0000",
+      "birch_forest_hills": "2025-11-19 18:07:19 +0000",
       "ocean": "2025-11-05 15:49:03 +0000",
       "river": "2025-11-05 15:39:49 +0000",
       "jungle": "2025-11-06 19:37:25 +0000",
@@ -1579,6 +1697,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-11-05 16:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-11-19 16:58:18 +0000"
     },
     "done": true
   },
@@ -1690,6 +1814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-11-24 17:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-11-06 19:34:35 +0000"
@@ -1717,6 +1847,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-11-07 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-11-24 17:39:09 +0000"
     },
     "done": true
   },
@@ -1885,6 +2021,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-10 14:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2025-11-24 17:27:18 +0000"
     },
     "done": true
   },

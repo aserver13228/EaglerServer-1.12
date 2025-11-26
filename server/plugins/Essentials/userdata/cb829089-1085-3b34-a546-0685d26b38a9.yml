@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1764093683192
+  login: 1764093257612
+money: '0'
+last-account-name: Creeper180
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -130.39424178238107
+  y: 70.0
+  z: 293.0359807497256
+  yaw: 283.4989013671875
+  pitch: 25.350032806396484
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -188.80011913265676
+  y: 65.0
+  z: 262.3178278998848
+  yaw: 77.40008544921875
+  pitch: 12.750036239624023

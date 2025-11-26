@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1764089885631
+  login: 1764089368358
+money: '555.62'
+last-account-name: kira_
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -175.98075213267296
+  y: 67.1212968405392
+  z: 275.6077025532707
+  yaw: 111.59939575195312
+  pitch: 12.450047492980957
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -153.7003328626926
+  y: 69.0
+  z: 307.2210934221076
+  yaw: -7.348388671875
+  pitch: 5.849972248077393

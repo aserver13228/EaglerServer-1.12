@@ -1,0 +1,17 @@
+player_name: Jetergetbucket
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -195.30000001192093
+  y: 64.0
+  z: 257.69999998807907
+  pitch: 34.950024
+  yaw: 138.29996
+logout_location:
+  world: um
+  x: -204.11541099561578
+  y: 62.0
+  z: 250.7564041656818
+  pitch: 4.950008
+  yaw: 7.0499606

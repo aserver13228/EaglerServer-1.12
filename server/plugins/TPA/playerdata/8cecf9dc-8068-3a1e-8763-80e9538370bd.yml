@@ -1,0 +1,17 @@
+player_name: DeDeDe
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -202.30000001192093
+  y: 62.0
+  z: 249.30000001192093
+  pitch: 17.100006
+  yaw: 44.549957
+logout_location:
+  world: um
+  x: -202.30000001192093
+  y: 62.0
+  z: 249.30000001192093
+  pitch: 17.100006
+  yaw: 44.549957

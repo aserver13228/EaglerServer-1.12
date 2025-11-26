@@ -1,5 +1,12 @@
-reportstimestamp: '2025-11-17 23:14:18'
-reportsreporter_uuid: b8e46504-274d-3847-ac77-ed94dbe8064b
-reportsreason: hi
+reportstimestamp: '2025-11-25 18:23:31'
+reportsreporter_uuid: 1972da87-7e56-3422-952e-890046f5fb9c
+reportsreason: he is gay
 reportsaccused_uuid: b8e46504-274d-3847-ac77-ed94dbe8064b
 reportstype: REPORT
+warnings:
+  4a089de9-6e98-4e9c-b60e-a728979072c2:
+    timestamp: '2025-11-19 15:39:21'
+    reporter_uuid: 1ac60049-6f05-3e8c-91b8-0ec93922d8db
+    reason: nigger
+    accused_uuid: b8e46504-274d-3847-ac77-ed94dbe8064b
+    type: WARNING

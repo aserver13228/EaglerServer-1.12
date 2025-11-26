@@ -193,6 +193,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-11-25 16:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-11-05 14:56:58 +0000"
@@ -685,6 +691,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-11-03 16:26:48 +0000",
+      "beaches": "2025-11-25 16:33:48 +0000",
       "desert_hills": "2025-11-05 15:15:02 +0000",
       "mesa": "2025-11-06 17:54:24 +0000",
       "forest_hills": "2025-11-17 17:41:29 +0000",

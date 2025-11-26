@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1763579423967
+  login: 1763578764297
+money: '0'
+last-account-name: coolaid
+lastlocation:
+  world: 7243ac88-b92b-4d6a-bc8a-eeac6a9eaa5f
+  world-name: new
+  x: -0.8850808619168957
+  y: 84.0
+  z: 7.252257916485249
+  yaw: 63.899810791015625
+  pitch: 11.399991035461426
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -91.69999998807906
+  y: 72.0
+  z: 103.17682185785543
+  yaw: 95.25030517578125
+  pitch: -27.74999237060547

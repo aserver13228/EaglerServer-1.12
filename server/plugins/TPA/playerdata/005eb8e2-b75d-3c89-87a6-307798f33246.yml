@@ -1,0 +1,17 @@
+player_name: icetofight
+language: el_GR
+setlang: false
+last_location:
+  world: um
+  x: 350.175666841778
+  y: 81.0
+  z: 1021.6999999880791
+  pitch: 27.750044
+  yaw: 63.29895
+logout_location:
+  world: um
+  x: 350.175666841778
+  y: 81.0
+  z: 1021.6999999880791
+  pitch: 27.750044
+  yaw: 63.29895

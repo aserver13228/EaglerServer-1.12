@@ -1,0 +1,17 @@
+player_name: Creeper180
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -168.6702833948962
+  y: 65.0
+  z: 306.30000001192093
+  pitch: 16.950003
+  yaw: 37.649387
+logout_location:
+  world: um
+  x: -188.80011913265676
+  y: 65.0
+  z: 262.3178278998848
+  pitch: 12.750036
+  yaw: 77.400085

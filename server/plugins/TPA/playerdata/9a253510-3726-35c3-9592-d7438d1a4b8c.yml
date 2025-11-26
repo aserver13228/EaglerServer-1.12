@@ -1,0 +1,17 @@
+player_name: hola
+language: en_US
+setlang: false
+last_location:
+  world: new
+  x: 0.01409106357097123
+  y: 85.0
+  z: 0.5241514891859105
+  pitch: 49.350006
+  yaw: -16.65
+logout_location:
+  world: new
+  x: 11.056691363222576
+  y: 86.0
+  z: -31.699999988079078
+  pitch: 39.75005
+  yaw: 243.6002

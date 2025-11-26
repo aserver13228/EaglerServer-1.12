@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1764098822463
+  login: 1764098807690
+money: '43.46'
+last-account-name: Jetergetbucketsw
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 287.8696933092623
+  y: 68.75271975197224
+  z: 327.76249998807907
+  yaw: 170.84320068359375
+  pitch: 7.049960613250732
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -187.10169698087495
+  y: 66.0
+  z: 256.2371269292119
+  yaw: -259.65069580078125
+  pitch: 14.099990844726562

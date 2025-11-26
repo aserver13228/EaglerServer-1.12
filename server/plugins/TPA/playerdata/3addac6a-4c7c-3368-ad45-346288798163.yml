@@ -2,16 +2,16 @@ player_name: manepear____
 language: en_US
 setlang: false
 last_location:
-  world: new
-  x: 0.21647598165384357
-  y: 84.0
-  z: 9.320508554661048
-  pitch: 27.899994
-  yaw: 62.849983
+  world: um
+  x: 93.09666693733433
+  y: 69.9375
+  z: 292.376456280066
+  pitch: 30.749966
+  yaw: -156.90105
 logout_location:
   world: um
-  x: -200.69999998807907
-  y: 64.0
-  z: 251.00164635714233
-  pitch: 15.4500475
-  yaw: 107.54961
+  x: 98.73047744839418
+  y: 69.0
+  z: 282.3388614075534
+  pitch: 25.949972
+  yaw: -136.501

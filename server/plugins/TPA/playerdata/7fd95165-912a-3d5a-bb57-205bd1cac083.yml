@@ -1,0 +1,17 @@
+player_name: Hamzah
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -204.0413114758819
+  y: 62.0
+  z: 249.8676845885242
+  pitch: 3.9000425
+  yaw: 359.99957
+logout_location:
+  world: new
+  x: 0.5
+  y: 85.0
+  z: 0.5
+  pitch: 0.0
+  yaw: 0.0

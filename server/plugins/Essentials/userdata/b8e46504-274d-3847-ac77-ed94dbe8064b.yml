@@ -11,29 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1763558345727
+  lastteleport: 1764094793703
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763559728164
-  login: 1763559705606
-money: '29489.22000000000004'
+  logout: 1764098040424
+  login: 1764097421233
+money: '27897.44000000000004'
 last-account-name: Wemmbu
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: 69.78198574231138
-  y: 68.0
-  z: 283.07499998807907
-  yaw: 19.00670623779297
-  pitch: 16.505657196044922
+  x: 39791.52899116187
+  y: 146.414669470472
+  z: 20108.033394946633
+  yaw: 9.598090171813965
+  pitch: 42.4499397277832
 logoutlocation:
-  world: c0cbdfbc-cedc-4e57-ae98-3bdbbbdaf64f
-  world-name: portal
-  x: 604.8013682265218
-  y: 2.0
-  z: -1055.300000011921
-  yaw: 241.05003356933594
-  pitch: 11.850013732910156
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -187.43863861047996
+  y: 64.0
+  z: 110.85831653144675
+  yaw: -181.5001983642578
+  pitch: 34.649940490722656
 nickname: Wemmbu

@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-11-24 16:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-11-03 18:33:41 +0000"
@@ -341,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-11-21 16:49:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-11-06 17:42:58 +0000"
@@ -367,6 +379,7 @@
       "potato": "2025-11-05 17:02:33 +0000",
       "golden_apple": "2025-11-06 17:45:40 +0000",
       "bread": "2025-11-10 18:09:30 +0000",
+      "rotten_flesh": "2025-11-19 18:56:42 +0000",
       "cooked_chicken": "2025-11-05 16:52:01 +0000"
     },
     "done": false
@@ -867,8 +880,10 @@
     "criteria": {
       "zombie_pigman": "2025-11-13 14:42:15 +0000",
       "zombie_villager": "2025-11-11 20:42:59 +0000",
+      "vindicator": "2025-11-21 13:17:20 +0000",
       "skeleton": "2025-11-05 14:22:07 +0000",
       "husk": "2025-11-06 16:40:00 +0000",
+      "evoker": "2025-11-21 13:17:25 +0000",
       "zombie": "2025-11-05 14:21:00 +0000",
       "cave_spider": "2025-11-12 17:23:29 +0000",
       "witch": "2025-11-05 17:39:51 +0000",
@@ -1136,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-11-19 18:00:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-11-05 15:04:06 +0000"
@@ -1151,6 +1172,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-11-06 14:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-11-20 14:09:44 +0000"
     },
     "done": true
   },
@@ -1340,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-11-20 14:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-11-05 15:03:15 +0000"
@@ -1451,6 +1484,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-11-05 14:27:09 +0000",
+      "mesa_rock": "2025-11-21 13:50:02 +0000",
       "birch_forest": "2025-11-03 18:31:52 +0000",
       "swampland": "2025-11-12 16:01:22 +0000",
       "deep_ocean": "2025-11-12 18:07:52 +0000",
@@ -1467,6 +1501,7 @@
       "birch_forest_hills": "2025-11-03 18:28:55 +0000",
       "ocean": "2025-11-12 18:07:48 +0000",
       "extreme_hills": "2025-11-12 17:18:31 +0000",
+      "roofed_forest": "2025-11-21 13:17:16 +0000",
       "river": "2025-11-05 14:20:00 +0000",
       "desert": "2025-11-03 18:37:15 +0000",
       "stone_beach": "2025-11-13 15:01:00 +0000"
@@ -1536,6 +1571,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-11-10 15:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-11-20 14:09:44 +0000"
     },
     "done": true
   },
@@ -1653,6 +1694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-11-20 14:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-11-05 15:03:15 +0000"
@@ -1722,6 +1769,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-11-06 14:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-11-19 17:25:02 +0000"
     },
     "done": true
   },

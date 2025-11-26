@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-11-20 13:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-11-12 15:08:35 +0000"
@@ -194,6 +200,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-11-20 13:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-11-14 18:05:05 +0000"
@@ -248,10 +260,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-11-20 14:59:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-11-12 15:08:40 +0000",
-      "golden_apple": "2025-11-17 15:09:13 +0000"
+      "golden_apple": "2025-11-17 15:09:13 +0000",
+      "cooked_chicken": "2025-11-24 17:52:17 +0000"
     },
     "done": false
   },
@@ -294,6 +313,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-11-14 18:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-11-20 13:35:54 +0000"
     },
     "done": true
   },
@@ -390,6 +415,30 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-11-18 14:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-11-20 13:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-11-20 14:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-11-20 13:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-11-20 14:59:02 +0000"
     },
     "done": true
   },
@@ -599,6 +648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-11-20 13:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-11-12 17:38:39 +0000"
@@ -707,6 +762,7 @@
       "skeleton": "2025-11-13 12:34:52 +0000",
       "husk": "2025-11-13 14:25:13 +0000",
       "zombie": "2025-11-13 12:34:44 +0000",
+      "witch": "2025-11-20 13:26:15 +0000",
       "spider": "2025-11-13 12:32:18 +0000",
       "creeper": "2025-11-12 17:51:32 +0000"
     },
@@ -835,6 +891,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-11-18 14:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-11-20 13:39:18 +0000"
     },
     "done": true
   },

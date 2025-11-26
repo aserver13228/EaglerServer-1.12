@@ -11,29 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1763057440194
+  lastteleport: 1763652930751
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763057446019
-  login: 1763057155841
+  logout: 1764078726834
+  login: 1764078642681
 money: '10357.64'
 last-account-name: omni
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: 126.6560293805
-  y: 145.0
-  z: -16.788086716941756
-  yaw: 49.4999885559082
-  pitch: 20.549976348876953
+  x: 709.3000000119209
+  y: 63.0
+  z: 9973.907561144577
+  yaw: 255.4463348388672
+  pitch: 20.400014877319336
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: 117.38628874742011
-  y: 73.0
-  z: -19.502907120718127
-  yaw: -130.35035705566406
-  pitch: 17.100004196166992
+  x: 126.5108755376152
+  y: 145.0
+  z: -25.984859172097664
+  yaw: 20.099992752075195
+  pitch: 8.400001525878906
 nickname: omni

@@ -13,12 +13,12 @@ b8e46504-274d-3847-ac77-ed94dbe8064b:
   highest_score: 0
 1ac60049-6f05-3e8c-91b8-0ec93922d8db:
   playername: ParrotX2
-  next_level_exp: 354
-  level: 1
-  deaths: 2
-  games_played: 3
-  exp: 30
-  highest_score: 390
+  next_level_exp: 0
+  level: 0
+  deaths: 0
+  games_played: 0
+  exp: 0
+  highest_score: 0
 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc:
   playername: Manepear
 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7:
@@ -29,10 +29,10 @@ b8e46504-274d-3847-ac77-ed94dbe8064b:
   playername: _Manepear_
 0a5259b1-2027-3ec5-8cdd-f69064826c82:
   playername: kingrobby102
-  next_level_exp: 354
-  level: 1
-  games_played: 1
-  exp: 10
+  next_level_exp: 0
+  level: 0
+  games_played: 0
+  exp: 0
 6d9d77b6-eac0-369e-90ab-9562b0f35f10:
   playername: ItzRealMe
 8f0653da-eb19-3d19-adad-cbbb9a155655:
@@ -63,11 +63,11 @@ d8f817ca-3bd8-34a4-9283-eaa8c56ebc75:
   wins: 1
 cf082672-3126-352f-bb39-02a47a4b8e5e:
   playername: jose
-  next_level_exp: 354
-  level: 1
-  deaths: 1
-  games_played: 1
-  exp: 10
+  next_level_exp: 0
+  level: 0
+  deaths: 0
+  games_played: 0
+  exp: 0
 b716ba34-656a-3370-99c6-f2522d6b2779:
   playername: Nari
 0f4b3723-306b-33f2-96f1-04ac4a432102:
@@ -83,16 +83,16 @@ b716ba34-656a-3370-99c6-f2522d6b2779:
   playername: Frankie300s
 3e54b472-4830-3bba-86eb-59acffcbc28d:
   playername: rw4
-  next_level_exp: 354
-  contribution_detective: 27
-  level: 1
-  deaths: 6
-  games_played: 11
-  exp: 110
-  highest_score: 615
-  contribution_murderer: 287
-  wins: 4
-  kills: 2
+  next_level_exp: 0
+  contribution_detective: 0
+  level: 0
+  deaths: 0
+  games_played: 0
+  exp: 0
+  highest_score: 0
+  contribution_murderer: 0
+  wins: 0
+  kills: 0
 0ca41977-44f3-3674-ac5f-9a40345a4808:
   playername: flamefrags
   next_level_exp: 354
@@ -204,3 +204,79 @@ a91cd640-181b-3579-9a76-a0779998c54f:
   playername: kingrobby101
 529ccedf-028f-3585-8542-c8f2cc331faa:
   playername: gio
+02517f9c-e12a-38bc-89d1-3f09150d85ba:
+  playername: jose_
+6d5a16d4-f767-3469-8e0e-7c5f4b2dd0bb:
+  playername: That1UchihaYT5
+c5ac6b65-aeae-3786-98d1-60ad333907ec:
+  playername: Vlad
+943c6749-4053-35f7-9a0f-7cad28ce2283:
+  playername: YeelerVigg4481
+e56786a4-c1b1-3d2b-9d3a-4f0f4666afa4:
+  playername: NinjiMan911
+dc04c438-e64e-35b7-a97d-5f9465f103d4:
+  playername: coolaid
+881500fd-6031-3628-af45-431f22d587a8:
+  playername: omni
+63248fa7-2b23-319a-9b0f-0e2749462cb8:
+  playername: kira_
+ad461eb7-2711-3368-8606-dc44f9893b2b:
+  playername: Jetergetbuckets
+a51f5c17-02bd-39c4-ade4-e90244d969da:
+  playername: cris00_
+19b68718-bb49-3cdf-b365-ea79e4458e74:
+  playername: kenziel_
+f7aa332c-51a8-3dc9-90b0-2b9d0af82c11:
+  playername: Jetergetbucketsw
+71c0402a-02ec-350d-944f-f61b71147aaf:
+  playername: Manepear________
+6963900a-71c6-3347-b419-6747b90f3ed1:
+  playername: _Manepear____
+0fcb318d-9e25-3976-aff9-e0c907c77738:
+  playername: monke
+66d266a1-764e-30bf-b2fa-cfe1f67021dd:
+  playername: Pedro
+21385c8a-4c0c-3e20-aaa7-eced23530546:
+  playername: fag
+3ed6911f-7946-38fd-8a95-93ab8769184e:
+  playername: Jeff_
+860da231-b1d8-368d-92f0-6a3cbdcdaf66:
+  playername: Pedromnnjjmnnnnn
+8cecf9dc-8068-3a1e-8763-80e9538370bd:
+  playername: DeDeDe
+f313835e-ff7c-3c06-bd96-c5eff65b381a:
+  playername: Rakarut_P3D
+c8151769-2fe0-3296-832c-50da6390aba0:
+  playername: manepear____33
+2257766c-22b9-3085-a320-9d69a7e4eb86:
+  playername: kamden
+c49cc779-1167-3d72-8af5-6a0951ee9b76:
+  playername: GeorgeWashington
+05105d8e-4b36-394d-ac14-3d4bcf2dd6f2:
+  playername: Pedropedrorom_er
+7323ff8a-ca56-3609-a53c-59fa6f5c4d82:
+  playername: gooner_boy__
+8e1da64a-ff1c-30ea-9707-2d896a458118:
+  playername: gooner_boy
+cb829089-1085-3b34-a546-0685d26b38a9:
+  playername: Creeper180
+503a0362-fad4-3c66-aa06-4d7eefdb0520:
+  playername: Jetergetbucket
+005eb8e2-b75d-3c89-87a6-307798f33246:
+  playername: icetofight
+e48d24bd-513c-3ba5-bcd3-a93413735b08:
+  playername: gooner_boy_bi
+73792f99-2104-3ae0-96cb-346a75f49b54:
+  playername: kingrobby102__
+7cf97c35-d26e-392f-9b80-4637872564f0:
+  playername: cris0
+c3834c47-9ca5-3e23-aa28-50088990b118:
+  playername: jose__
+9a253510-3726-35c3-9592-d7438d1a4b8c:
+  playername: hola
+7fd95165-912a-3d5a-bb57-205bd1cac083:
+  playername: Hamzah
+e1a53dd0-4aa1-39cb-ac77-f1e1d38918dd:
+  playername: GeorgeWashed
+25966168-dc9c-360c-8f32-ed022bfa1070:
+  playername: Herobrine

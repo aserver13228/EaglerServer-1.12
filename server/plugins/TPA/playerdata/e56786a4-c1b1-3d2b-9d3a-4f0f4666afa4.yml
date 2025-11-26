@@ -1,0 +1,17 @@
+player_name: NinjiMan911
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -154.95229633963018
+  y: 69.92159999847412
+  z: 270.31111311060124
+  pitch: 88.65
+  yaw: -68.85037
+logout_location:
+  world: um
+  x: -154.95229633963018
+  y: 70.0
+  z: 270.31111311060124
+  pitch: 80.549995
+  yaw: -91.80035

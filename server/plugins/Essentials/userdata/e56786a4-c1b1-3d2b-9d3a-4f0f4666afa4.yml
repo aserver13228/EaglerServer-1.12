@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1763578614908
+  login: 1763578519166
+money: '0'
+last-account-name: NinjiMan911
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -193.56992304252253
+  y: 64.78608123157454
+  z: 254.57740122410473
+  yaw: -112.34982299804688
+  pitch: 6.150014400482178
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -154.95229633963018
+  y: 70.0
+  z: 270.31111311060124
+  yaw: -91.80034637451172
+  pitch: 80.54999542236328
