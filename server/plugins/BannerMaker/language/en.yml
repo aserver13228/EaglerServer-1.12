@@ -1,5 +1,5 @@
 # English(en)
-# For BannerMaker v2.1.0
+# For BannerMaker v1.8.0
 # Contributor(s): KID
 general:
   prefix: '&6[&aBannerMaker&6]&r '
@@ -51,5 +51,3 @@ gui:
   click:
     left: Left Click
     right: Right Click
-  selected-pattern-color: Selected pattern color
-  toggle-preview-mode: Toggle preview mode

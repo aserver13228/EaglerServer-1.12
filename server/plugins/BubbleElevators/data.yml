@@ -1,2 +1,8 @@
-elevators: []
+elevators:
+- pvp2,60,1,282,up
+- pvp2,60,1,283,up
+- pvp2,59,1,282,up
+- new,-25,59,0,up
+- pvp2,59,1,283,up
+- new,-24,59,0,up
 particle-toggles: {}

@@ -14,3 +14,9 @@ groups:
     - xp
     - health
     - hunger
+  unstable:
+    worlds:
+    - unstable
+    - unstable_nether
+    shares:
+    - all

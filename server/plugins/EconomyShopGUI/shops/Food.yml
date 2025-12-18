@@ -7,11 +7,11 @@ pages:
         sell: 2.5
       '2':
         material: BREAD
-        buy: 15.75
-        sell: 3.94
+        buy: 4.00
+        sell: 3.00
       '3':
         material: CAKE
-        buy: 240.68
+        buy: 80.00
         sell: 60.17
       '4':
         material: COOKIE
@@ -23,7 +23,7 @@ pages:
         sell: 1.32
       '6':
         material: COOKED_BEEF
-        buy: 6.3
+        buy: 2.00
         sell: 1.58
       '7':
         material: COOKED_CHICKEN

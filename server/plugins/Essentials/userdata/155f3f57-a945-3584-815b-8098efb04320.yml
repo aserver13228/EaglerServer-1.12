@@ -11,28 +11,37 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1764616393133
+  lastteleport: 1765983886330
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765570452111
-  login: 1765570766215
-money: '784805.999999999501'
+  logout: 1766085140656
+  login: 1766085082043
+money: '4.52'
 last-account-name: Mapicc_
 lastlocation:
-  world: cbd0d795-cdd0-47af-953c-63ab3eed0e0b
+  world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
   world-name: unstable
-  x: 106.0599493317686
+  x: -1253.2070312552605
   y: 69.0
-  z: -149.5588874625838
-  yaw: -9.2999267578125
-  pitch: 37.4999885559082
+  z: 1385.781506177853
+  yaw: 313.0312194824219
+  pitch: 31.200002670288086
 logoutlocation:
-  world: cbd0d795-cdd0-47af-953c-63ab3eed0e0b
+  world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
   world-name: unstable
-  x: 79.33606993060272
-  y: 66.2431399649544
-  z: -116.87639345539229
-  yaw: -40.349578857421875
-  pitch: 5.24998140335083
+  x: -1251.7075764632395
+  y: 65.0
+  z: 1382.7061933662376
+  yaw: -226.06797790527344
+  pitch: 32.250057220458984
+homes:
+  home:
+    world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
+    world-name: unstable
+    x: -1253.2070312552605
+    y: 69.0
+    z: 1385.781506177853
+    yaw: 282.1312255859375
+    pitch: 36.30000305175781

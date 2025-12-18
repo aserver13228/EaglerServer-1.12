@@ -3,7 +3,7 @@ pages:
     items:
       '1':
         material: ANVIL
-        buy: 713.32
+        buy: 300.99
         sell: 178.33
       '2':
         material: CARROT_ON_A_STICK
@@ -27,7 +27,7 @@ pages:
         sell: 2.53
       '7':
         material: EXPERIENCE_BOTTLE
-        buy: 107.94
+        buy: 5.00
         sell: -1
       '8':
         material: GLOWSTONE_DUST
@@ -55,11 +55,11 @@ pages:
         sell: 25
       '14':
         material: NETHER_STAR
-        buy: 400
+        buy: 1800.99
         sell: 100
       '15':
         material: RED_BED
-        buy: 96.09
+        buy: 40.99
         sell: 24.03
       '16':
         material: SADDLE
@@ -71,11 +71,11 @@ pages:
         sell: 1.75
       '18':
         material: SLIME_BALL
-        buy: 5
+        buy: 3.25
         sell: 1.25
       '19':
         material: SNOW
-        buy: 6.62
+        buy: 2.50
         sell: 1.66
       '20':
         material: SNOWBALL
@@ -87,7 +87,7 @@ pages:
         sell: 131.25
       '22':
         material: TOTEM_OF_UNDYING
-        buy: 100
+        buy: 100.99
         sell: 25
       '23':
         material: WATER_BUCKET
@@ -99,7 +99,7 @@ pages:
         sell: 12.24
       '25':
         material: BEACON
-        buy: 551.52
+        buy: 1900.99
         sell: 137.88
       '26':
         material: END_ROD

@@ -982,6 +982,7 @@
     "criteria": {
       "zombie_pigman": "2025-12-04 15:58:10 +0000",
       "zombie_villager": "2025-11-21 16:27:52 +0000",
+      "slime": "2025-12-18 18:38:27 +0000",
       "skeleton": "2025-11-10 17:57:30 +0000",
       "husk": "2025-11-18 18:19:38 +0000",
       "zombie": "2025-11-13 12:38:48 +0000",
@@ -1497,6 +1498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-12-18 18:38:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-12-01 18:59:39 +0000"
@@ -1683,6 +1690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-12-18 18:38:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-11-17 18:49:21 +0000"
@@ -1697,6 +1710,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2025-12-17 15:20:08 +0000",
       "forest": "2025-11-10 18:55:48 +0000",
       "mesa_rock": "2025-11-20 17:24:18 +0000",
       "birch_forest": "2025-11-17 16:33:57 +0000",
@@ -1710,6 +1724,7 @@
       "plains": "2025-11-10 17:07:18 +0000",
       "savanna": "2025-11-10 17:55:05 +0000",
       "jungle_edge": "2025-11-13 19:08:49 +0000",
+      "jungle_hills": "2025-12-17 15:21:57 +0000",
       "mesa_clear_rock": "2025-11-21 14:07:06 +0000",
       "savanna_rock": "2025-11-10 16:54:17 +0000",
       "taiga": "2025-11-20 15:38:01 +0000",

@@ -380,6 +380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-12-16 18:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-11-11 20:47:55 +0000"
@@ -389,6 +395,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-11-11 20:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_the_recipe": "2025-12-15 14:20:09 +0000"
     },
     "done": true
   },
@@ -445,12 +457,19 @@
       "chicken": "2025-11-13 22:26:05 +0000",
       "cooked_mutton": "2025-12-01 14:41:58 +0000",
       "cooked_beef": "2025-11-11 18:19:05 +0000",
+      "baked_potato": "2025-12-15 17:11:28 +0000",
+      "beef": "2025-12-16 13:15:54 +0000",
+      "potato": "2025-12-15 17:25:30 +0000",
       "melon": "2025-11-11 18:47:08 +0000",
       "bread": "2025-11-11 19:13:42 +0000",
       "golden_apple": "2025-11-13 13:03:04 +0000",
       "rotten_flesh": "2025-11-11 20:11:02 +0000",
+      "raw_cod": "2025-12-15 14:33:43 +0000",
+      "beetroot": "2025-12-16 18:11:44 +0000",
+      "golden_carrot": "2025-12-17 14:58:55 +0000",
       "cooked_chicken": "2025-11-11 19:39:35 +0000",
       "enchanted_golden_apple": "2025-12-02 22:37:35 +0000",
+      "mushroom_stew": "2025-12-15 14:20:12 +0000",
       "carrot": "2025-12-05 14:09:20 +0000"
     },
     "done": false
@@ -659,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_wolf": "2025-12-16 13:16:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-11-11 18:14:43 +0000"
@@ -737,9 +762,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2025-12-16 14:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-12-11 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-12-16 18:11:13 +0000"
     },
     "done": true
   },
@@ -764,6 +801,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-11-12 17:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-12-17 02:30:02 +0000"
     },
     "done": true
   },
@@ -1012,10 +1055,13 @@
       "zombie_pigman": "2025-12-02 14:51:57 +0000",
       "wither_skeleton": "2025-12-03 14:52:23 +0000",
       "zombie_villager": "2025-12-08 14:09:51 +0000",
+      "polar_bear": "2025-12-15 14:33:38 +0000",
       "skeleton": "2025-11-11 18:49:01 +0000",
       "husk": "2025-11-11 18:39:42 +0000",
       "blaze": "2025-12-03 13:34:13 +0000",
       "zombie": "2025-11-11 18:39:10 +0000",
+      "silverfish": "2025-12-17 02:41:27 +0000",
+      "cave_spider": "2025-12-17 14:23:49 +0000",
       "witch": "2025-11-25 12:53:10 +0000",
       "guardian": "2025-12-08 18:47:27 +0000",
       "spider": "2025-11-11 18:38:31 +0000",
@@ -1156,6 +1202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2025-12-17 15:43:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-11-11 18:15:08 +0000"
@@ -1183,6 +1235,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-11-12 17:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-12-17 02:29:50 +0000"
     },
     "done": true
   },
@@ -1243,6 +1301,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-11-11 19:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-12-15 14:57:21 +0000"
     },
     "done": true
   },
@@ -1818,6 +1882,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2025-12-15 14:26:48 +0000",
+      "frozen_river": "2025-12-15 14:32:17 +0000",
       "forest": "2025-11-11 18:55:38 +0000",
       "mesa_rock": "2025-11-25 12:59:12 +0000",
       "birch_forest": "2025-11-13 14:14:54 +0000",
@@ -1834,8 +1900,11 @@
       "jungle_edge": "2025-11-11 18:40:05 +0000",
       "mesa_clear_rock": "2025-11-25 12:58:14 +0000",
       "savanna_rock": "2025-11-11 18:09:39 +0000",
+      "ice_mountains": "2025-12-15 14:28:42 +0000",
       "taiga": "2025-11-13 14:16:49 +0000",
+      "redwood_taiga": "2025-12-17 02:27:28 +0000",
       "taiga_hills": "2025-11-13 14:16:47 +0000",
+      "redwood_taiga_hills": "2025-12-17 02:26:34 +0000",
       "birch_forest_hills": "2025-11-11 18:07:25 +0000",
       "taiga_cold": "2025-11-13 14:16:52 +0000",
       "ocean": "2025-11-13 14:16:33 +0000",
@@ -1935,6 +2004,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-11-11 20:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-12-16 13:22:32 +0000"
     },
     "done": true
   },
@@ -2085,6 +2160,18 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2025-11-11 20:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-12-15 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_wolf": "2025-12-16 13:16:57 +0000"
     },
     "done": true
   },

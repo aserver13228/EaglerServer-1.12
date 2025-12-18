@@ -11,28 +11,37 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1766063855116
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765562088013
-  login: 1765561599147
-money: '91770.48'
+  logout: 1766074851304
+  login: 1766074726668
+money: '8.01'
 last-account-name: cowboy
 lastlocation:
-  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
-  world-name: um
-  x: 16447.426871173622
-  y: 107.0
-  z: 432709.4182922392
-  yaw: 287.1480712890625
-  pitch: 71.5500259399414
+  world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
+  world-name: unstable
+  x: -104.57342400611567
+  y: 77.0
+  z: 174.63705567329575
+  yaw: 127.64759063720703
+  pitch: 24.750024795532227
 logoutlocation:
-  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
-  world-name: um
-  x: 39901.85280579087
-  y: 70.0
-  z: 2867.6531070862184
-  yaw: -9.45001220703125
-  pitch: 12.900014877319336
+  world: 7243ac88-b92b-4d6a-bc8a-eeac6a9eaa5f
+  world-name: new
+  x: -36.69559988156382
+  y: 77.0
+  z: 8.300000011920929
+  yaw: 31.50002670288086
+  pitch: 5.1000075340271
+homes:
+  home:
+    world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
+    world-name: unstable
+    x: -104.57342400611567
+    y: 78.0
+    z: 174.63705567329575
+    yaw: 127.49758911132812
+    pitch: 24.9000244140625

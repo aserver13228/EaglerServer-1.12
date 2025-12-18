@@ -1,0 +1,11 @@
+xp: 0.0
+health: 25.16666603088379
+hunger: 17
+saturation: 0.0
+location:
+  world: pvp2
+  x: 60.0
+  y: 4.0
+  z: 298.0
+logType: WORLD_CHANGE
+version: v1_12_R1

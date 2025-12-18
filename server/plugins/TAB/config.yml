@@ -10,12 +10,9 @@ header-footer:
         - "Test footer in world 'test'"
     default:
       header:
-        - "<#FFFFFF>&m                                                </#FFFF00>"
-        - "&3&lMuichiros LifeSteal SMP!"
-        - "&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
-        - "&r&7Online players: &f%online%"
-        - "&6Online staff: &e%staffonline%"
-        - ""
+        - '%animation:MyAnimation1%'
+        - '%animation:ServerName%'
+        - '%animation:Lifesteal%'
       footer:
         - "%animation:time%"
         - "&2Ping: %ping%"
@@ -218,8 +215,9 @@ primary-group-finding-list:
   - Owner
   - Admin
   - OG
-  - 
+  - Verified
   - Helper
+  - Cheater
   - default
 
 # Refresh interval (in milliseconds) of:

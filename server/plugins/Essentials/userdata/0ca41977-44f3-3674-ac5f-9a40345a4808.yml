@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1765565634696
+  lastteleport: 1765812207266
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765565753459
-  login: 1765564343718
-money: '1000010060333.6599999999999997'
+  logout: 1766075489168
+  login: 1766075328324
+money: '14031.78999999999985'
 last-account-name: flamefrags
 lastlocation:
-  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
-  world-name: um
-  x: -169.76119930775658
-  y: 72.0
-  z: 147.4467776034838
-  yaw: 146.85086059570312
-  pitch: 13.799962997436523
+  world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
+  world-name: unstable
+  x: 237.72041969174413
+  y: 12.0
+  z: 752.6999999880791
+  yaw: 347.3558654785156
+  pitch: 64.94996643066406
 logoutlocation:
-  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
-  world-name: um
-  x: 9327.23619361484
-  y: 91.0
-  z: 1020.1199695089771
-  yaw: 159.87376403808594
-  pitch: 27.149980545043945
+  world: 7243ac88-b92b-4d6a-bc8a-eeac6a9eaa5f
+  world-name: new
+  x: -81.13910224911226
+  y: 69.0
+  z: 11.28709068238195
+  yaw: 286.6501159667969
+  pitch: 0.5999987125396729

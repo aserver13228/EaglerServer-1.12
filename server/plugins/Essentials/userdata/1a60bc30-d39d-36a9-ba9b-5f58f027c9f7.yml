@@ -11,29 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1763744008929
+  lastteleport: 1765821621485
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765571892003
-  login: 1765570900962
-money: '164525.099999999999801'
+  logout: 1765982661733
+  login: 1765981791702
+money: '3808.53999999999998996'
 last-account-name: That1UchihaYT
 lastlocation:
-  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
-  world-name: um
-  x: 9426.862500011921
-  y: 73.0
-  z: 819.3000000119209
-  yaw: -311.70281982421875
-  pitch: 13.799993515014648
+  world: 5fc5dae6-50f2-4275-89f9-86c640030c94
+  world-name: unstable_nether
+  x: 214.3653877255274
+  y: 27.0
+  z: 154.20757562667131
+  yaw: 224.40234375
+  pitch: 44.54998016357422
 logoutlocation:
-  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
-  world-name: um
-  x: 88850.61403333471
-  y: 80.0
-  z: 39113.419962702814
-  yaw: -265.799560546875
-  pitch: 5.550065517425537
+  world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
+  world-name: unstable
+  x: -424.69999998807907
+  y: 77.0
+  z: 116.46912990330073
+  yaw: 87.904296875
+  pitch: 27.900022506713867
 nickname: §4Itachi

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766084067391
+  login: 1766083781855
+money: '0'
+last-account-name: Lomady
+lastlocation:
+  world: 7243ac88-b92b-4d6a-bc8a-eeac6a9eaa5f
+  world-name: new
+  x: 2.5822043954361478
+  y: 91.0
+  z: -5.02423746053878
+  yaw: -175.80003356933594
+  pitch: 66.1500015258789
+logoutlocation:
+  world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
+  world-name: unstable
+  x: -51.79976163441448
+  y: 78.0
+  z: 180.19037034595243
+  yaw: 283.94696044921875
+  pitch: 58.94999313354492

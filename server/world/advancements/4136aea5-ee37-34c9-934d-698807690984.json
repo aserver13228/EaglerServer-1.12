@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-12-15 17:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-10-28 16:52:06 +0000"
@@ -95,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2025-12-15 17:10:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-10-28 11:54:14 +0000"
@@ -104,6 +116,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-11-06 19:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-15 17:01:04 +0000"
     },
     "done": true
   },
@@ -326,6 +344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-12-15 17:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-10-28 17:47:53 +0000"
@@ -383,6 +407,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-11-18 15:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2025-12-15 13:27:40 +0000"
     },
     "done": true
   },
@@ -582,6 +612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-12-15 17:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-10-28 17:47:37 +0000"
@@ -642,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-12-15 17:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-10-28 11:54:14 +0000"
@@ -681,6 +723,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-06 19:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_the_recipe": "2025-12-15 18:28:12 +0000"
     },
     "done": true
   },
@@ -939,10 +987,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-11-13 14:06:33 +0000",
+      "zombie_villager": "2025-12-15 15:22:44 +0000",
+      "magma_cube": "2025-12-15 19:13:57 +0000",
       "skeleton": "2025-10-28 12:38:48 +0000",
       "husk": "2025-11-06 18:28:52 +0000",
       "blaze": "2025-12-11 18:03:24 +0000",
       "zombie": "2025-10-28 11:57:19 +0000",
+      "silverfish": "2025-12-15 15:53:34 +0000",
       "witch": "2025-11-07 13:04:32 +0000",
       "spider": "2025-10-28 12:39:57 +0000",
       "creeper": "2025-11-07 13:28:49 +0000",
@@ -959,6 +1010,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-11-06 19:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-12-15 17:01:04 +0000"
     },
     "done": true
   },
@@ -1067,6 +1124,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-11-06 18:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-12-15 16:56:28 +0000"
     },
     "done": true
   },
@@ -1220,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-12-15 17:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-11-06 13:20:41 +0000"
@@ -1295,6 +1364,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2025-11-10 18:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-12-15 15:25:34 +0000"
     },
     "done": true
   },
@@ -1622,6 +1697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-12-15 17:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-11-06 19:11:37 +0000"
@@ -1645,6 +1726,7 @@
       "forest": "2025-10-28 12:31:22 +0000",
       "birch_forest": "2025-11-25 18:01:30 +0000",
       "beaches": "2025-11-25 14:00:18 +0000",
+      "extreme_hills_with_trees": "2025-12-15 13:21:29 +0000",
       "desert_hills": "2025-11-06 15:26:31 +0000",
       "forest_hills": "2025-10-28 12:31:07 +0000",
       "plains": "2025-10-28 11:54:15 +0000",
@@ -1653,6 +1735,7 @@
       "ice_mountains": "2025-12-12 17:54:13 +0000",
       "birch_forest_hills": "2025-11-25 18:01:45 +0000",
       "ocean": "2025-11-25 14:01:09 +0000",
+      "extreme_hills": "2025-12-15 13:24:01 +0000",
       "roofed_forest": "2025-10-28 12:29:42 +0000",
       "river": "2025-10-28 12:39:07 +0000",
       "desert": "2025-10-28 12:40:20 +0000"
@@ -1680,6 +1763,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-12-11 18:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2025-12-15 17:10:12 +0000"
     },
     "done": true
   },
@@ -1815,6 +1904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-12-15 17:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-10-28 11:54:14 +0000"
@@ -1836,6 +1931,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2025-11-03 18:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2025-12-15 17:10:12 +0000"
     },
     "done": true
   },

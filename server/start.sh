@@ -1,5 +1,5 @@
 #!/bin/bash
-java -server -Xms5G -Xmx6G \
+java -server -Xms4G -Xmx5G \
 -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:+ParallelRefProcEnabled \
 -XX:+DisableExplicitGC -XX:+UseStringDeduplication \
 -XX:G1HeapRegionSize=8M \

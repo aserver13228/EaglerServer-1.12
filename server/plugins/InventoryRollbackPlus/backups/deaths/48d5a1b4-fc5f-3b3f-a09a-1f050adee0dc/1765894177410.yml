@@ -1,0 +1,12 @@
+xp: 201.0
+health: 0.0
+hunger: 6
+saturation: 0.0
+location:
+  world: unstable
+  x: -1232.2
+  y: 71.0
+  z: 1408.3
+logType: DEATH
+version: v1_12_R1
+deathReason: FALL

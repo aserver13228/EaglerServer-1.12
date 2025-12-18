@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765545025862
-  login: 1765544189563
+  logout: 1765974533248
+  login: 1765974524349
 money: '13008.519999999999924'
 last-account-name: Rakarut_P3D
 lastlocation:
@@ -34,5 +34,5 @@ logoutlocation:
   x: 8271.300000011921
   y: 84.0
   z: 11061.300000011921
-  yaw: 269.53619384765625
-  pitch: -90.0
+  yaw: 309.58612060546875
+  pitch: 45.600006103515625

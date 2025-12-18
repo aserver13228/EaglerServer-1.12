@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766085171449
+  login: 1766084640662
+money: '0'
+last-account-name: FerreMC
+lastlocation:
+  world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
+  world-name: unstable
+  x: -42.5
+  y: 78.0
+  z: 173.5
+  yaw: -269.55096435546875
+  pitch: 1.1998810768127441
+logoutlocation:
+  world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
+  world-name: unstable
+  x: -24.679809616080867
+  y: 77.0
+  z: 137.50769314491242
+  yaw: 107.8497314453125
+  pitch: 28.6500244140625

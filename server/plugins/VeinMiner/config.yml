@@ -26,7 +26,7 @@ Tools:
     MaxVeinSize: 38
     UsesDurability: true
   Shovel:
-    MaxVeinSize: 8
+    MaxVeinSize: 80
     UsesDurability: true
   Hoe:
     MaxVeinSize: 64

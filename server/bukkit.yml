@@ -21,7 +21,8 @@ settings:
   connection-throttle: 4000
   query-plugins: true
   deprecated-verbose: default
-  shutdown-message: Server closed nigas:/ for some good reason?:/
+  shutdown-message: Server closed Join Back Im turning back on :/ adding some plugins
+    :/
 spawn-limits:
   monsters: 70
   animals: 15

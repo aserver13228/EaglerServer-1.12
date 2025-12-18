@@ -99,31 +99,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  PH-RH-QY:
-    name: Boat
-    vehicleType: BOAT
-    skinDamage: 1274
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 95.90999999999791
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 200.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.015
-    maxSpeed: 0.5
-    brakingSpeed: 0.02
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 6
-    maxSpeedBackwards: 0.1
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
-    nbtValue: ''
-    riders: []
-    members: []
   SJ-KX-ZU:
     name: Raft
     vehicleType: BOAT
@@ -174,31 +149,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  EG-TB-FK:
-    name: Plane Dragon
-    vehicleType: AIRPLANE
-    skinDamage: 1266
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 100.0
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 400.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.01
-    maxSpeed: 1.1
-    brakingSpeed: 0.04
-    aftrekkenSpeed: 0.01
-    rotateSpeed: 4
-    maxSpeedBackwards: 0.0
-    owner: 155f3f57-a945-3584-815b-8098efb04320
-    nbtValue: ''
-    riders: []
-    members: []
   EF-HQ-KY:
     name: Jeep Gold
     vehicleType: CAR
@@ -220,31 +170,6 @@ vehicle:
     aftrekkenSpeed: 0.005
     rotateSpeed: 8
     maxSpeedBackwards: 0.35
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
-    nbtValue: ''
-    riders: []
-    members: []
-  DP-PA-FG:
-    name: Fiets Vrouw Blueblack
-    vehicleType: CAR
-    skinDamage: 1049
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: false
-    benzine: 100.0
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 150.0
-    kofferbak: false
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.006
-    maxSpeed: 0.45
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.0
     owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
     nbtValue: ''
     riders: []
@@ -291,31 +216,6 @@ vehicle:
     rotateSpeed: 8
     maxSpeedBackwards: 0.35
     owner: 522b1a65-cdd5-348f-bfe3-1448aaffcf22
-  BV-ZW-PS:
-    name: Sedan Sportief Quartz
-    vehicleType: CAR
-    skinDamage: 1023
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 100.0
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.009
-    maxSpeed: 0.65
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 155f3f57-a945-3584-815b-8098efb04320
-    nbtValue: ''
-    riders: []
-    members: []
   XQ-QL-UQ:
     name: SUV Politie
     vehicleType: CAR
@@ -341,32 +241,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  AB-ZW-HX:
-    name: Apache Bordeaux
-    vehicleType: HELICOPTER
-    skinDamage: 1213
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 66.00999999998261
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 400.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.01
-    maxSpeed: 0.7
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.02
-    rotateSpeed: 10
-    maxSpeedBackwards: 0.35
-    owner: 155f3f57-a945-3584-815b-8098efb04320
-    nbtValue: ''
-    riders: []
-    members:
-    - 66d266a1-764e-30bf-b2fa-cfe1f67021dd
   SK-RV-LH:
     name: Plane Blue
     vehicleType: AIRPLANE
@@ -459,99 +333,6 @@ vehicle:
     rotateSpeed: 8
     maxSpeedBackwards: 0.0
     owner: a09d9599-c777-3d52-b647-797cdc1dc256
-  CR-MW-YV:
-    name: Raft
-    vehicleType: BOAT
-    skinDamage: 1276
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: false
-    benzine: 100.0
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 50.0
-    kofferbak: false
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.01
-    maxSpeed: 0.35
-    brakingSpeed: 0.02
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 6
-    maxSpeedBackwards: 0.06
-    owner: 155f3f57-a945-3584-815b-8098efb04320
-    nbtValue: ''
-    riders: []
-    members: []
-  ZY-UE-YV:
-    name: Raket Legend Camo Marine
-    vehicleType: CAR
-    skinDamage: 1260
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 94.20999999999704
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 500.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData:
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    acceleratieSpeed: 0.012
-    maxSpeed: 0.4
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.008
-    rotateSpeed: 6
-    maxSpeedBackwards: 0.17
-    owner: 1ac60049-6f05-3e8c-91b8-0ec93922d8db
-    nbtValue: ''
-    riders: []
-    members: []
-  NL-DU-YP:
-    name: Racecar Red
-    vehicleType: CAR
-    skinDamage: 1166
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 96.089999999998
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData:
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    acceleratieSpeed: 0.021
-    maxSpeed: 0.92
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 522b1a65-cdd5-348f-bfe3-1448aaffcf22
-    nbtValue: ''
-    riders: []
-    members: []
   MJ-DU-BL:
     name: Tank Legend Camo Marine
     vehicleType: TANK
@@ -624,31 +405,6 @@ vehicle:
     rotateSpeed: 8
     maxSpeedBackwards: 0.0
     owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
-    nbtValue: ''
-    riders: []
-    members: []
-  VE-BC-IW:
-    name: Hovercraft Lime
-    vehicleType: HOVER
-    skinDamage: 1121
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 100.0
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 200.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.012
-    maxSpeed: 0.67
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 155f3f57-a945-3584-815b-8098efb04320
     nbtValue: ''
     riders: []
     members: []
@@ -767,52 +523,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  LY-BG-UB:
-    name: Speedboat
-    vehicleType: BOAT
-    skinDamage: 1275
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 100.0
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 200.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.015
-    maxSpeed: 0.5
-    brakingSpeed: 0.02
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 6
-    maxSpeedBackwards: 0.1
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
-    nbtValue: ''
-    riders: []
-    members: []
-  SD-VX-PR:
-    name: SUV Pokémon
-    vehicleType: CAR
-    skinDamage: 1227
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 100.0
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    acceleratieSpeed: 0.009
-    maxSpeed: 0.6
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 1ac60049-6f05-3e8c-91b8-0ec93922d8db
   FO-YZ-RH:
     name: Sedan Sportief President
     vehicleType: CAR
@@ -855,6 +565,56 @@ vehicle:
     rotateSpeed: 8
     maxSpeedBackwards: 0.35
     owner: 522b1a65-cdd5-348f-bfe3-1448aaffcf22
+  DN-MG-QX:
+    name: Tank Legend Green
+    vehicleType: TANK
+    skinDamage: 1255
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 95.58999999999774
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 800.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.4
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.008
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.17
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  VP-HQ-OU:
+    name: Tank Legend Camo Marine
+    vehicleType: TANK
+    skinDamage: 1253
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 96.04999999999798
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 800.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.4
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.008
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.17
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
   LN-LZ-CW:
     name: Hovercraft Purpleyellow
     vehicleType: HOVER
@@ -880,31 +640,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  DL-XB-HP:
-    name: Racecar Black
-    vehicleType: CAR
-    skinDamage: 1165
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 93.43999999999664
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.021
-    maxSpeed: 0.92
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
-    nbtValue: ''
-    riders: []
-    members: []
   KI-OJ-NT:
     name: Hotrod Black
     vehicleType: CAR
@@ -926,37 +661,31 @@ vehicle:
     rotateSpeed: 8
     maxSpeedBackwards: 0.35
     owner: 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7
-  LF-TZ-ZT:
-    name: SUV Blue
-    vehicleType: CAR
-    skinDamage: 1132
+  XS-LP-TB:
+    name: Plane Fighter Oranje
+    vehicleType: AIRPLANE
+    skinDamage: 1268
     skinItem: DIAMOND_HOE
     isOpen: false
     isGlow: false
     benzineEnabled: true
-    benzine: 86.08999999999288
+    benzine: 94.61999999999725
     benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 300.0
+    hornEnabled: false
+    health: 400.0
     kofferbak: true
     kofferbakRows: 1
-    acceleratieSpeed: 0.009
-    maxSpeed: 0.6
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 1ac60049-6f05-3e8c-91b8-0ec93922d8db
-    kofferbakData:
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
+    kofferbakData: []
+    acceleratieSpeed: 0.01
+    maxSpeed: 1.1
+    brakingSpeed: 0.04
+    aftrekkenSpeed: 0.01
+    rotateSpeed: 4
+    maxSpeedBackwards: 0.0
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
   PL-UG-TI:
     name: Boat
     vehicleType: BOAT
@@ -1057,27 +786,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  FD-UQ-GH:
-    name: UFO Blackgold
-    vehicleType: HOVER
-    skinDamage: 1232
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 91.90999999999586
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    acceleratieSpeed: 0.012
-    maxSpeed: 0.67
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7
   WR-CU-HQ:
     name: Plane Blue
     vehicleType: AIRPLANE
@@ -1133,52 +841,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  HV-GV-HZ:
-    name: Hotrod Black
-    vehicleType: CAR
-    skinDamage: 1161
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 97.02999999999848
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 250.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.012
-    maxSpeed: 0.7
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
-    nbtValue: ''
-    riders: []
-    members: []
-  VT-LI-LG:
-    name: Sedan Babyblauw
-    vehicleType: CAR
-    skinDamage: 1109
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 95.02999999999746
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    acceleratieSpeed: 0.009
-    maxSpeed: 0.65
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: a09d9599-c777-3d52-b647-797cdc1dc256
   EF-SW-ZN:
     name: Plane Green
     vehicleType: AIRPLANE
@@ -1201,40 +863,6 @@ vehicle:
     rotateSpeed: 4
     maxSpeedBackwards: 0.0
     owner: 155f3f57-a945-3584-815b-8098efb04320
-    nbtValue: ''
-    riders: []
-    members: []
-  AB-QJ-FQ:
-    name: Sportief Flamegreen
-    vehicleType: CAR
-    skinDamage: 1223
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 94.65999999999727
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 250.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData:
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    acceleratieSpeed: 0.012
-    maxSpeed: 0.67
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
     nbtValue: ''
     riders: []
     members: []
@@ -1263,35 +891,35 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  HP-KQ-IR:
-    name: Hotrod Blue
-    vehicleType: CAR
-    skinDamage: 1159
+  NK-QK-WC:
+    name: Apache Criminalblack
+    vehicleType: HELICOPTER
+    skinDamage: 1214
     skinItem: DIAMOND_HOE
     isOpen: false
     isGlow: false
     benzineEnabled: true
-    benzine: 94.98999999999744
+    benzine: 78.90999999998921
     benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 250.0
+    hornEnabled: false
+    health: 400.0
     kofferbak: true
     kofferbakRows: 1
     kofferbakData: []
-    acceleratieSpeed: 0.012
+    acceleratieSpeed: 0.01
     maxSpeed: 0.7
     brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
+    aftrekkenSpeed: 0.02
+    rotateSpeed: 10
     maxSpeedBackwards: 0.35
     owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
     nbtValue: ''
     riders: []
     members: []
-  MW-EX-UG:
-    name: UFO
-    vehicleType: HOVER
-    skinDamage: 1230
+  US-OJ-BO:
+    name: Tank Legend Sand
+    vehicleType: TANK
+    skinDamage: 1256
     skinItem: DIAMOND_HOE
     isOpen: false
     isGlow: false
@@ -1299,16 +927,20 @@ vehicle:
     benzine: 100.0
     benzineVerbruik: 0.01
     hornEnabled: false
-    health: 300.0
+    health: 800.0
     kofferbak: true
     kofferbakRows: 1
+    kofferbakData: []
     acceleratieSpeed: 0.012
-    maxSpeed: 0.67
+    maxSpeed: 0.4
     brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 522b1a65-cdd5-348f-bfe3-1448aaffcf22
+    aftrekkenSpeed: 0.008
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.17
+    owner: 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7
+    nbtValue: ''
+    riders: []
+    members: []
   DU-DE-RX:
     name: Raft
     vehicleType: BOAT
@@ -1351,56 +983,6 @@ vehicle:
     kofferbakData: []
     acceleratieSpeed: 0.015
     maxSpeed: 0.7
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
-    nbtValue: ''
-    riders: []
-    members: []
-  ZX-RZ-VG:
-    name: Jeep Politie
-    vehicleType: CAR
-    skinDamage: 1005
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 100.0
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 350.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.009
-    maxSpeed: 0.65
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 155f3f57-a945-3584-815b-8098efb04320
-    nbtValue: ''
-    riders: []
-    members: []
-  LJ-FA-MT:
-    name: Jeep Politie
-    vehicleType: CAR
-    skinDamage: 1005
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 99.34999999999967
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 350.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.009
-    maxSpeed: 0.65
     brakingSpeed: 0.03
     aftrekkenSpeed: 0.005
     rotateSpeed: 8
@@ -1490,52 +1072,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  NI-CR-UX:
-    name: Racecar Emerald
-    vehicleType: CAR
-    skinDamage: 1167
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 97.11999999999853
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.021
-    maxSpeed: 0.92
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 155f3f57-a945-3584-815b-8098efb04320
-    nbtValue: ''
-    riders: []
-    members: []
-  JX-YJ-FL:
-    name: Plane Blue
-    vehicleType: AIRPLANE
-    skinDamage: 1265
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 100.0
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 400.0
-    kofferbak: true
-    kofferbakRows: 1
-    acceleratieSpeed: 0.01
-    maxSpeed: 1.1
-    brakingSpeed: 0.04
-    aftrekkenSpeed: 0.01
-    rotateSpeed: 4
-    maxSpeedBackwards: 0.0
-    owner: 4136aea5-ee37-34c9-934d-698807690984
   YC-MQ-MM:
     name: Speedboat
     vehicleType: BOAT
@@ -1586,40 +1122,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  ZA-AX-NS:
-    name: Plane Blue
-    vehicleType: AIRPLANE
-    skinDamage: 1265
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 47.04999999998496
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 400.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData:
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    acceleratieSpeed: 0.01
-    maxSpeed: 1.1
-    brakingSpeed: 0.04
-    aftrekkenSpeed: 0.01
-    rotateSpeed: 4
-    maxSpeedBackwards: 0.0
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
-    nbtValue: ''
-    riders: []
-    members: []
   HB-AH-EP:
     name: Plane Fighter
     vehicleType: AIRPLANE
@@ -1641,6 +1143,31 @@ vehicle:
     aftrekkenSpeed: 0.01
     rotateSpeed: 4
     maxSpeedBackwards: 0.0
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  PF-PJ-GB:
+    name: Tank Legend Green
+    vehicleType: TANK
+    skinDamage: 1255
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 800.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.4
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.008
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.17
     owner: 155f3f57-a945-3584-815b-8098efb04320
     nbtValue: ''
     riders: []
@@ -1712,31 +1239,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  RB-EH-SQ:
-    name: Jeep Blue
-    vehicleType: CAR
-    skinDamage: 1073
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 99.25999999999962
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 350.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.009
-    maxSpeed: 0.65
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
-    nbtValue: ''
-    riders: []
-    members: []
   NP-VL-NN:
     name: SUV Pokémon
     vehicleType: CAR
@@ -1762,31 +1264,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  GG-QA-FK:
-    name: Apache Obsidian
-    vehicleType: HELICOPTER
-    skinDamage: 1181
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 100.0
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 400.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.01
-    maxSpeed: 0.7
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.02
-    rotateSpeed: 10
-    maxSpeedBackwards: 0.35
-    owner: 155f3f57-a945-3584-815b-8098efb04320
-    nbtValue: ''
-    riders: []
-    members: []
   PN-LV-CJ:
     name: Plane Dragon
     vehicleType: AIRPLANE
@@ -1809,31 +1286,6 @@ vehicle:
     rotateSpeed: 4
     maxSpeedBackwards: 0.0
     owner: 1ac60049-6f05-3e8c-91b8-0ec93922d8db
-    nbtValue: ''
-    riders: []
-    members: []
-  PA-PL-RD:
-    name: Racecar Diamond
-    vehicleType: CAR
-    skinDamage: 1170
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 98.6199999999993
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.021
-    maxSpeed: 0.92
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
     nbtValue: ''
     riders: []
     members: []
@@ -1912,31 +1364,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  BE-OS-HV:
-    name: UFO Blackgold
-    vehicleType: HOVER
-    skinDamage: 1232
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 98.56999999999927
-    benzineVerbruik: 0.01
-    hornEnabled: false
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.012
-    maxSpeed: 0.67
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 155f3f57-a945-3584-815b-8098efb04320
-    nbtValue: ''
-    riders: []
-    members: []
   JX-MV-US:
     name: Apache Criminalblack
     vehicleType: HELICOPTER
@@ -2004,87 +1431,6 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  BE-YM-VG:
-    name: SUV Black
-    vehicleType: CAR
-    skinDamage: 1141
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 89.12999999999444
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.009
-    maxSpeed: 0.6
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 155f3f57-a945-3584-815b-8098efb04320
-    nbtValue: ''
-    riders: []
-    members: []
-  UU-XI-IC:
-    name: Jeep Blue
-    vehicleType: CAR
-    skinDamage: 1073
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 99.15999999999957
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 350.0
-    kofferbak: true
-    kofferbakRows: 1
-    kofferbakData: []
-    acceleratieSpeed: 0.009
-    maxSpeed: 0.65
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
-    nbtValue: ''
-    riders: []
-    members: []
-  ST-BV-QU:
-    name: Racecar Red
-    vehicleType: CAR
-    skinDamage: 1166
-    skinItem: DIAMOND_HOE
-    isOpen: false
-    isGlow: false
-    benzineEnabled: true
-    benzine: 99.92999999999996
-    benzineVerbruik: 0.01
-    hornEnabled: true
-    health: 300.0
-    kofferbak: true
-    kofferbakRows: 1
-    acceleratieSpeed: 0.021
-    maxSpeed: 0.92
-    brakingSpeed: 0.03
-    aftrekkenSpeed: 0.005
-    rotateSpeed: 8
-    maxSpeedBackwards: 0.35
-    owner: 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7
-    kofferbakData:
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
-    - null
   VI-NF-SK:
     name: Racecar Black
     vehicleType: CAR
@@ -2110,27 +1456,31 @@ vehicle:
     nbtValue: ''
     riders: []
     members: []
-  YE-SL-RF:
-    name: Apache Orange
+  XY-OV-GU:
+    name: Apache Criminalblack
     vehicleType: HELICOPTER
-    skinDamage: 1183
+    skinDamage: 1214
     skinItem: DIAMOND_HOE
     isOpen: false
     isGlow: false
     benzineEnabled: true
-    benzine: 70.24999999998478
+    benzine: 71.41999999998538
     benzineVerbruik: 0.01
     hornEnabled: false
     health: 400.0
     kofferbak: true
     kofferbakRows: 1
+    kofferbakData: []
     acceleratieSpeed: 0.01
     maxSpeed: 0.7
     brakingSpeed: 0.03
     aftrekkenSpeed: 0.02
     rotateSpeed: 10
     maxSpeedBackwards: 0.35
-    owner: 522b1a65-cdd5-348f-bfe3-1448aaffcf22
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
   LJ-MU-EP:
     name: Apache Blue
     vehicleType: HELICOPTER
@@ -2203,6 +1553,1183 @@ vehicle:
     riders:
     - caf47286-e6c3-3446-af8d-abfff3f0039a
     members: []
+  PH-RH-QY:
+    name: Boat
+    vehicleType: BOAT
+    skinDamage: 1274
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 95.90999999999791
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 200.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.015
+    maxSpeed: 0.5
+    brakingSpeed: 0.02
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.1
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  KE-KP-CK:
+    name: Tank Legend Camo Marine
+    vehicleType: TANK
+    skinDamage: 1253
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 91.30999999999555
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 800.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.4
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.008
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.17
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  OX-IB-VI:
+    name: Racecar Red
+    vehicleType: CAR
+    skinDamage: 1166
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 94.39999999999714
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    acceleratieSpeed: 0.021
+    maxSpeed: 0.92
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  EG-TB-FK:
+    name: Plane Dragon
+    vehicleType: AIRPLANE
+    skinDamage: 1266
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.01
+    maxSpeed: 1.1
+    brakingSpeed: 0.04
+    aftrekkenSpeed: 0.01
+    rotateSpeed: 4
+    maxSpeedBackwards: 0.0
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  DP-PA-FG:
+    name: Fiets Vrouw Blueblack
+    vehicleType: CAR
+    skinDamage: 1049
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: false
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 150.0
+    kofferbak: false
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.006
+    maxSpeed: 0.45
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.0
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  BV-ZW-PS:
+    name: Sedan Sportief Quartz
+    vehicleType: CAR
+    skinDamage: 1023
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.65
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  AB-ZW-HX:
+    name: Apache Bordeaux
+    vehicleType: HELICOPTER
+    skinDamage: 1213
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 66.00999999998261
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.01
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.02
+    rotateSpeed: 10
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members:
+    - 66d266a1-764e-30bf-b2fa-cfe1f67021dd
+  FK-HX-UT:
+    name: Apache Obsidian
+    vehicleType: HELICOPTER
+    skinDamage: 1181
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 61.78999999998203
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.01
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.02
+    rotateSpeed: 10
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  CR-MW-YV:
+    name: Raft
+    vehicleType: BOAT
+    skinDamage: 1276
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: false
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 50.0
+    kofferbak: false
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.01
+    maxSpeed: 0.35
+    brakingSpeed: 0.02
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.06
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  ZY-UE-YV:
+    name: Raket Legend Camo Marine
+    vehicleType: CAR
+    skinDamage: 1260
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 94.20999999999704
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 500.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.4
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.008
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.17
+    owner: 1ac60049-6f05-3e8c-91b8-0ec93922d8db
+    nbtValue: ''
+    riders: []
+    members: []
+  NL-DU-YP:
+    name: Racecar Red
+    vehicleType: CAR
+    skinDamage: 1166
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 96.089999999998
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    acceleratieSpeed: 0.021
+    maxSpeed: 0.92
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 522b1a65-cdd5-348f-bfe3-1448aaffcf22
+    nbtValue: ''
+    riders: []
+    members: []
+  VE-BC-IW:
+    name: Hovercraft Lime
+    vehicleType: HOVER
+    skinDamage: 1121
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 200.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.67
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  LY-BG-UB:
+    name: Speedboat
+    vehicleType: BOAT
+    skinDamage: 1275
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 200.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.015
+    maxSpeed: 0.5
+    brakingSpeed: 0.02
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.1
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  SD-VX-PR:
+    name: SUV Pokémon
+    vehicleType: CAR
+    skinDamage: 1227
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.6
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 1ac60049-6f05-3e8c-91b8-0ec93922d8db
+  CE-AH-EE:
+    name: Speedboat
+    vehicleType: BOAT
+    skinDamage: 1275
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 98.88999999999943
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 200.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.015
+    maxSpeed: 0.5
+    brakingSpeed: 0.02
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.1
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  YP-WE-QO:
+    name: Speedboat
+    vehicleType: BOAT
+    skinDamage: 1275
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 93.78999999999682
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 200.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.015
+    maxSpeed: 0.5
+    brakingSpeed: 0.02
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 6
+    maxSpeedBackwards: 0.1
+    owner: 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7
+    nbtValue: ''
+    riders: []
+    members: []
+  DL-XB-HP:
+    name: Racecar Black
+    vehicleType: CAR
+    skinDamage: 1165
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 93.43999999999664
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.021
+    maxSpeed: 0.92
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  LF-TZ-ZT:
+    name: SUV Blue
+    vehicleType: CAR
+    skinDamage: 1132
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 86.08999999999288
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.6
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 1ac60049-6f05-3e8c-91b8-0ec93922d8db
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+  LP-XD-IS:
+    name: Plane Gray
+    vehicleType: AIRPLANE
+    skinDamage: 1264
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 85.15999999999241
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.01
+    maxSpeed: 1.1
+    brakingSpeed: 0.04
+    aftrekkenSpeed: 0.01
+    rotateSpeed: 4
+    maxSpeedBackwards: 0.0
+    owner: 3e54b472-4830-3bba-86eb-59acffcbc28d
+    nbtValue: ''
+    riders: []
+    members: []
+  FD-UQ-GH:
+    name: UFO Blackgold
+    vehicleType: HOVER
+    skinDamage: 1232
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 91.90999999999586
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.67
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7
+  DQ-ME-KO:
+    name: Apache Blue
+    vehicleType: HELICOPTER
+    skinDamage: 1124
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 79.44999999998949
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    acceleratieSpeed: 0.01
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.02
+    rotateSpeed: 10
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  HV-GV-HZ:
+    name: Hotrod Black
+    vehicleType: CAR
+    skinDamage: 1161
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 97.02999999999848
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 250.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  VT-LI-LG:
+    name: Sedan Babyblauw
+    vehicleType: CAR
+    skinDamage: 1109
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 95.02999999999746
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.65
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: a09d9599-c777-3d52-b647-797cdc1dc256
+  AB-QJ-FQ:
+    name: Sportief Flamegreen
+    vehicleType: CAR
+    skinDamage: 1223
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 94.65999999999727
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 250.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.67
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  HP-KQ-IR:
+    name: Hotrod Blue
+    vehicleType: CAR
+    skinDamage: 1159
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 94.98999999999744
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 250.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  MW-EX-UG:
+    name: UFO
+    vehicleType: HOVER
+    skinDamage: 1230
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.67
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 522b1a65-cdd5-348f-bfe3-1448aaffcf22
+  JS-IB-SY:
+    name: UFO Blackgold
+    vehicleType: HOVER
+    skinDamage: 1232
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 98.50999999999924
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.67
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 3e54b472-4830-3bba-86eb-59acffcbc28d
+    nbtValue: ''
+    riders: []
+    members: []
+  ZX-RZ-VG:
+    name: Jeep Politie
+    vehicleType: CAR
+    skinDamage: 1005
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 350.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.65
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  LJ-FA-MT:
+    name: Jeep Politie
+    vehicleType: CAR
+    skinDamage: 1005
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 99.34999999999967
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 350.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.65
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  SL-FT-PO:
+    name: Apache Criminalblack
+    vehicleType: HELICOPTER
+    skinDamage: 1214
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 0.0
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.01
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.02
+    rotateSpeed: 10
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  NI-CR-UX:
+    name: Racecar Emerald
+    vehicleType: CAR
+    skinDamage: 1167
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 97.11999999999853
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.021
+    maxSpeed: 0.92
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  JX-YJ-FL:
+    name: Plane Blue
+    vehicleType: AIRPLANE
+    skinDamage: 1265
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    acceleratieSpeed: 0.01
+    maxSpeed: 1.1
+    brakingSpeed: 0.04
+    aftrekkenSpeed: 0.01
+    rotateSpeed: 4
+    maxSpeedBackwards: 0.0
+    owner: 4136aea5-ee37-34c9-934d-698807690984
+  ZA-AX-NS:
+    name: Plane Blue
+    vehicleType: AIRPLANE
+    skinDamage: 1265
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 47.04999999998496
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    acceleratieSpeed: 0.01
+    maxSpeed: 1.1
+    brakingSpeed: 0.04
+    aftrekkenSpeed: 0.01
+    rotateSpeed: 4
+    maxSpeedBackwards: 0.0
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  NR-VL-EN:
+    name: Jeep Blue
+    vehicleType: CAR
+    skinDamage: 1073
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 79.97999999998976
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 350.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.65
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  RB-EH-SQ:
+    name: Jeep Blue
+    vehicleType: CAR
+    skinDamage: 1073
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 99.25999999999962
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 350.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.65
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  GG-QA-FK:
+    name: Apache Obsidian
+    vehicleType: HELICOPTER
+    skinDamage: 1181
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 100.0
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.01
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.02
+    rotateSpeed: 10
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  PA-PL-RD:
+    name: Racecar Diamond
+    vehicleType: CAR
+    skinDamage: 1170
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 98.6199999999993
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.021
+    maxSpeed: 0.92
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  EE-CY-JA:
+    name: Jeep Blue
+    vehicleType: CAR
+    skinDamage: 1073
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 95.90999999999791
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 350.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.65
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  BE-OS-HV:
+    name: UFO Blackgold
+    vehicleType: HOVER
+    skinDamage: 1232
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 98.56999999999927
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.012
+    maxSpeed: 0.67
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  BE-YM-VG:
+    name: SUV Black
+    vehicleType: CAR
+    skinDamage: 1141
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 89.12999999999444
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.6
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  UU-XI-IC:
+    name: Jeep Blue
+    vehicleType: CAR
+    skinDamage: 1073
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 99.15999999999957
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 350.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.65
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+    nbtValue: ''
+    riders: []
+    members: []
+  TF-XT-YQ:
+    name: Racecar Rainbow
+    vehicleType: CAR
+    skinDamage: 1210
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 72.96999999998617
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    acceleratieSpeed: 0.021
+    maxSpeed: 0.92
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7
+    nbtValue: ''
+    riders: []
+    members: []
+  LM-PH-XI:
+    name: Apache Criminalblack
+    vehicleType: HELICOPTER
+    skinDamage: 1214
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 0.0
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.01
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.02
+    rotateSpeed: 10
+    maxSpeedBackwards: 0.35
+    owner: 155f3f57-a945-3584-815b-8098efb04320
+    nbtValue: ''
+    riders: []
+    members: []
+  ST-BV-QU:
+    name: Racecar Red
+    vehicleType: CAR
+    skinDamage: 1166
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 99.92999999999996
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    acceleratieSpeed: 0.021
+    maxSpeed: 0.92
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+  YE-SL-RF:
+    name: Apache Orange
+    vehicleType: HELICOPTER
+    skinDamage: 1183
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 70.24999999998478
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    acceleratieSpeed: 0.01
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.02
+    rotateSpeed: 10
+    maxSpeedBackwards: 0.35
+    owner: 522b1a65-cdd5-348f-bfe3-1448aaffcf22
   ZV-WG-TT:
     name: Fiets Vrouw Blueblack
     vehicleType: CAR

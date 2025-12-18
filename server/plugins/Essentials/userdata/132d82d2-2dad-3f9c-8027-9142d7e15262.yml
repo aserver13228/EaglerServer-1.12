@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765393653041
-  login: 1765393535364
-money: '394.1500000000000175'
+  logout: 1766085109478
+  login: 1766084969304
+money: '0'
 last-account-name: SR8K_
 lastlocation:
-  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
-  world-name: um
-  x: -204.11541099561578
-  y: 65.5
-  z: 250.7564041656818
-  yaw: 0.29996076226234436
-  pitch: 1.800009846687317
+  world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
+  world-name: unstable
+  x: -34.76153523505822
+  y: 77.0
+  z: 141.69999998807907
+  yaw: 5.2525634765625
+  pitch: 19.200149536132812
 logoutlocation:
-  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
-  world-name: um
-  x: -230.95594965502113
-  y: 67.0
-  z: 219.04571539115506
-  yaw: -124.79999542236328
-  pitch: 22.500015258789062
+  world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
+  world-name: unstable
+  x: 681.2188410830812
+  y: 68.0
+  z: 679.5449774772563
+  yaw: -217.35061645507812
+  pitch: 15.599875450134277

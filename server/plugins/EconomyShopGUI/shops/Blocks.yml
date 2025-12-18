@@ -3,7 +3,7 @@ pages:
     items:
       '1':
         material: BOOKSHELF
-        buy: 750.12
+        buy: 200.50
         sell: 29.78
       '2':
         material: HAY_BLOCK
@@ -11,7 +11,7 @@ pages:
         sell: 11.82
       '3':
         material: MAGMA_BLOCK
-        buy: 33.63
+        buy: 20.50
         sell: 8.41
       '4':
         material: PACKED_ICE
@@ -35,7 +35,7 @@ pages:
         sell: 0.18
       '9':
         material: TNT
-        buy: 1000.58
+        buy: 300.99
         sell: 26.65
       '10':
         material: GLOWSTONE
@@ -43,7 +43,7 @@ pages:
         sell: 7.35
       '11':
         material: SEA_LANTERN
-        buy: 66.15
+        buy: 20.50
         sell: 16.54
       '12':
         material: ANDESITE
@@ -63,15 +63,15 @@ pages:
         sell: 24.32
       '16':
         material: BRICKS
-        buy: 92.61
+        buy: 40.99
         sell: 23.16
       '17':
         material: COBBLESTONE
-        buy: 0.68
+        buy: 0.48
         sell: 0.17
       '18':
         material: MOSSY_COBBLESTONE
-        buy: 8.07
+        buy: 4.99
         sell: 2.02
       '19':
         material: BLACK_CONCRETE
@@ -107,7 +107,7 @@ pages:
         sell: 1.97
       '27':
         material: LIME_CONCRETE
-        buy: 30.87
+        buy: 10.99
         sell: 7.72
       '28':
         material: MAGENTA_CONCRETE
@@ -217,11 +217,11 @@ pages:
         sell: 2.04
       '54':
         material: OBSIDIAN
-        buy: 31.25
+        buy: 20.99
         sell: 7.82
       '55':
         material: PRISMARINE
-        buy: 29.4
+        buy: 10.00
         sell: 7.35
       '56':
         material: PRISMARINE_BRICKS
@@ -245,11 +245,11 @@ pages:
         sell: 0.87
       '61':
         material: QUARTZ_SLAB
-        buy: 72.94
+        buy: 26.00
         sell: 18.24
       '62':
         material: QUARTZ_STAIRS
-        buy: 145.87
+        buy: 40.00
         sell: 36.47
       '63':
         material: RED_SAND

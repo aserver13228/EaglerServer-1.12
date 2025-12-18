@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2025-12-16 13:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-11-05 15:04:14 +0000"
@@ -424,6 +430,8 @@
       "cooked_porkchop": "2025-11-11 21:19:16 +0000",
       "cooked_mutton": "2025-11-11 20:50:09 +0000",
       "cooked_beef": "2025-11-05 14:22:47 +0000",
+      "beef": "2025-12-16 13:50:33 +0000",
+      "porkchop": "2025-12-15 17:28:33 +0000",
       "potato": "2025-11-05 17:02:33 +0000",
       "golden_apple": "2025-11-06 17:45:40 +0000",
       "bread": "2025-11-10 18:09:30 +0000",
@@ -884,6 +892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-12-16 12:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-11-06 18:25:24 +0000"
@@ -970,6 +984,7 @@
       "vindicator": "2025-11-21 13:17:20 +0000",
       "skeleton": "2025-11-05 14:22:07 +0000",
       "husk": "2025-11-06 16:40:00 +0000",
+      "blaze": "2025-12-16 13:55:15 +0000",
       "evoker": "2025-11-21 13:17:25 +0000",
       "zombie": "2025-11-05 14:21:00 +0000",
       "cave_spider": "2025-11-12 17:23:29 +0000",
@@ -1241,6 +1256,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-10 15:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-12-16 13:53:45 +0000"
     },
     "done": true
   },
@@ -1684,6 +1705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2025-12-16 13:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-11-14 16:46:11 +0000"
@@ -1825,6 +1852,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2025-11-05 14:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2025-12-16 13:53:49 +0000"
     },
     "done": true
   },

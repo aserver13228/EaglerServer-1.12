@@ -2,15 +2,15 @@
 wind:
   launch_vertical: 3.5      # vertical velocity applied on boost
   launch_forward: 1.1       # forward speed when throwing (projectile velocity multiplier)
-  radius: 5.5               # radius of effect on landing
+  radius: 8.5               # radius of effect on landing
   give_amount: 64           # amount per stack when giving wind burst
   prevent_drop: true        # prevent dropping wind burst items
 mace:
-  base_damage: 8.0
+  base_damage: 16.5
   fall_ignore: 4.0          # ignore small falls under this Y distance
-  tnt_radius: 8.0           # visual blast radius for Wind Charge / TNT-like effect
-  elytra_assist_radius: 7.5 # assist radius for hitting gliders
-  thorns_launch: 1.0        # upward push when thorns triggers
+  tnt_radius: 10.0           # visual blast radius for Wind Charge / TNT-like effect
+  elytra_assist_radius: 12.5 # assist radius for hitting gliders
+  thorns_launch: 2.0        # upward push when thorns triggers
 effects:
   particles: true
   tnt_visual: true

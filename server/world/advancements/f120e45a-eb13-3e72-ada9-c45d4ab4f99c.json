@@ -370,6 +370,7 @@
     "criteria": {
       "cooked_porkchop": "2025-11-10 18:36:53 +0000",
       "cooked_beef": "2025-10-30 16:33:13 +0000",
+      "porkchop": "2025-12-15 13:24:32 +0000",
       "bread": "2025-11-05 12:45:43 +0000",
       "golden_apple": "2025-11-05 14:20:45 +0000",
       "cooked_chicken": "2025-11-05 12:29:27 +0000",
@@ -667,6 +668,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-12-15 16:18:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-10-29 13:33:08 +0000"
@@ -875,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-12-15 13:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-11-24 15:10:22 +0000"
@@ -926,6 +939,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-11-24 15:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-12-15 13:21:55 +0000"
     },
     "done": true
   },
@@ -1277,6 +1296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-12-15 13:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-10-29 13:33:08 +0000"
@@ -1292,6 +1317,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-10-30 16:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-15 13:21:55 +0000"
     },
     "done": true
   },
@@ -1435,6 +1466,7 @@
       "savanna_rock": "2025-11-03 15:44:35 +0000",
       "taiga": "2025-11-10 17:17:19 +0000",
       "taiga_hills": "2025-11-10 17:17:34 +0000",
+      "birch_forest_hills": "2025-12-17 13:46:42 +0000",
       "ocean": "2025-10-30 16:19:44 +0000",
       "extreme_hills": "2025-10-30 18:09:05 +0000",
       "river": "2025-10-29 13:39:25 +0000",
@@ -1453,6 +1485,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-11-07 17:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-12-15 13:21:55 +0000"
     },
     "done": true
   },
@@ -1549,6 +1587,12 @@
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-10-30 16:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-15 13:21:55 +0000"
     },
     "done": true
   },

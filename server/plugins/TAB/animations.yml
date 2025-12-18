@@ -1,44 +1,21 @@
 MyAnimation1:
-  change-interval: 100
+  change-interval: 120
   texts:
-    - '&d-&3--------------'
-    - '&3-&d-&3-------------'
-    - '&3--&d-&3------------'
-    - '&3---&d-&3-----------'
-    - '&3----&d-&3----------'
-    - '&3-----&d-&3---------'
-    - '&3------&d-&3--------'
-    - '&3-------&d-&3-------'
-    - '&3--------&d-&3------'
-    - '&3---------&d-&3-----'
-    - '&3----------&d-&3----'
-    - '&3-----------&d-&3---'
-    - '&3------------&d-&3--'
-    - '&3-------------&d-&3-'
-    - '&3--------------&d-'
-    - '&3-------------&d-&3-'
-    - '&3------------&d-&3--'
-    - '&3-----------&d-&3---'
-    - '&3----------&d-&3----'
-    - '&3---------&d-&3-----'
-    - '&3--------&d-&3------'
-    - '&3-------&d-&3-------'
-    - '&3------&d-&3--------'
-    - '&3-----&d-&3---------'
-    - '&3----&d-&3----------'
-    - '&3---&d-&3-----------'
-    - '&3--&d-&3------------'
-    - '&3-&d-&3-------------'
-    - '&d-&3--------------'
+    - '&5&l━━━━━━━━━━━━'
+    - '&d&l━&5&l━━━━━━━━━━━'
+    - '&5&l━━&d&l━&5&l━━━━━━━━━'
+    - '&5&l━━━━&d&l━&5&l━━━━━━━'
+    - '&5&l━━━━━━&d&l━&5&l━━━━━'
+    - '&5&l━━━━━━━━&d&l━&5&l━━━'
+    - '&5&l━━━━━━━━━━&d&l━&5&l━'
+    - '&5&l━━━━━━━━━━━━'
 ServerName:
   change-interval: 300
   texts:
-  - '&c&lServerName'
-  - '&c&n&lServerName'
-  - '&b&lServerName'
-  - '&b&l&nServerName'
-  - '&e&lServerName'
-  - '&e&n&lServerName'
+    - '&5&l☠ &d&lUNSTABLE SMP &5&l☠'
+    - '&d&l☠ &5&lUNSTABLE SMP &d&l☠'
+    - '&5&l⚡ &d&lUNSTABLE SMP &5&l⚡'
+    - '&d&l⚡ &5&lUNSTABLE SMP &d&l⚡'
 web:
   change-interval: 200
   texts:
@@ -76,26 +53,12 @@ vote:
   - '&5vote.domain.com'
   - '&5&nvote.domain.com'
 Welcome:
-  change-interval: 400
+  change-interval: 350
   texts:
-  - '&7&lW_'
-  - '&7&lW_'
-  - '&7&lWe_'
-  - '&7&lWel_'
-  - '&7&lWelc_'
-  - '&7&lWelco_'
-  - '&7&lWelcom_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcom_'
-  - '&7&lWelco_'
-  - '&7&lWelc_'
-  - '&7&lWel_'
-  - '&7&lWe_'
-  - '&7&lW_'
-  - '&7&lW_'
+    - '&7&lEntering...'
+    - '&d&lWelcome'
+    - '&5&lWelcome to'
+    - '&d&lUNSTABLE SMP'
 time:
   change-interval: 3000
   texts:
@@ -108,3 +71,9 @@ barcolors:
     - BLUE
     - GREEN
     - YELLOW
+Lifesteal:
+  change-interval: 600
+  texts:
+    - '&d&lLIFESTEAL &8┃ &7Kill • Steal • Survive'
+    - '&c&lLIFESTEAL &8┃ &7Hearts are power'
+    - '&4&lLIFESTEAL &8┃ &7No mercy'
