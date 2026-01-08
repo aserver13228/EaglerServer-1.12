@@ -1,0 +1,80 @@
+title: "Server Info"
+size: 27
+items:
+  info:
+    material: "LANTERN"
+    displayName: "#00C6F9ExampleSMP"
+    lore:
+      - "&fBuild a base, fight players,"
+      - "&fand become the richest."
+      - ""
+      - "#00C6F9PVP: &cEnabled"
+      - "#00C6F9Difficulty: &cHard"
+      - "#00C6F9keepInventory: &cFalse"
+    slot: 10
+    command: "rules"
+  economy:
+    material: "GOLD_INGOT"
+    displayName: "#00C6F9Economy"
+    lore:
+      - "&fYou can earn server money by selling items in game."
+      - "&fThis allows you to buy better things like armor and pvp gear."
+      - ""
+      - "#00C6F9Commands: &f/sell and /auction"
+    slot: 11
+    command: "economy"
+  rules:
+    material: "BOOK"
+    displayName: "#00C6F9Rules"
+    lore:
+      - "&fTo keep the community safe, everyone must"
+      - "&ffollow the rules or be subject to punishment."
+      - ""
+      - "#00C6F9Command: &f/rules"
+    slot: 12
+    command: "rules"
+  leaderboards:
+    material: "CLOCK"
+    displayName: "#00C6F9Leaderboards"
+    lore:
+      - "&fLook at the top players and"
+      - "&fcompete for the top spots."
+      - ""
+      - "#00C6F9Command: &f/leaderboards"
+    slot: 13
+    command: "leaderboards"
+  shards:
+    material: "AMETHYST_SHARD"
+    displayName: "#00C6F9AFK Shards"
+    lore:
+      - "&fYou can earn shards by sitting idle, then"
+      - "&fbuy things like spawners, keys, and more."
+      - "&fitems in the shard shop."
+      - ""
+      - "#00C6F9Command: &f/afk"
+    slot: 14
+    command: "afk"
+  settings:
+    material: "GRAY_DYE"
+    displayName: "#00C6F9Settings"
+    lore:
+      - "&fYou can change certain settings"
+      - "&fbased on your preferences."
+      - ""
+      - "#00C6F9Command: &f/settings"
+    slot: 15
+    command: "settings"
+  rtp:
+    material: "OAK_SAPLING"
+    displayName: "#00C6F9Random Teleport"
+    lore:
+      - "&fUse the random teleport"
+      - "&fto get far away from spawn"
+      - ""
+      - "#00C6F9Overworld: &f175k x 175k"
+      - "#00C6F9Nether: &f7.5k x 7.5k"
+      - "#00C6F9End: &f225k x 225k"
+      - ""
+      - "#00C6F9Command: &f/rtp"
+    slot: 16
+    command: "rtp"

@@ -1,0 +1,42 @@
+# -----------------------------------------------#
+#         OrderPlugin Main Configuration          #
+# -----------------------------------------------#
+
+# The plugin prefix, used in most messages.
+# Set to "" (empty) for no prefix.
+prefix: ""
+
+# Order Settings
+orders:
+  # How many active orders can one player have at a time.
+  max-active-per-player: 10
+
+  # Minimum price per item. (Prevents orders for $0.0001)
+  min-price-per-item: 0.01
+
+  # A percentage-based tax taken when creating an order.
+  # 0.05 = 5%
+  # 0.0  = 0% (disabled)
+  creation-tax-percent: 0.05
+
+# Titles for the Graphical User Interfaces (GUIs)
+# You can use %page% for page numbers
+gui-titles:
+  main-menu: "ORDERS (Page %page%)"
+  your-orders: "ORDERS -> Your Orders"
+  new-order: "ORDERS -> New Order"
+  item-selector: "Select Item (Page %page%)"
+  deliver-items: "ORDERS -> Deliver Items"
+  confirm-delivery: "ORDERS -> Confirm Delivery"
+  edit-order: "ORDERS -> Edit Order"
+  # The collection GUI title is generated dynamically (e.g., "Collected: Bones")
+
+# Text that appears in the chat
+chat-input:
+  amount-prompt: "&aPlease type the amount you want to order in chat:"
+  price-prompt: "&aPlease type the price per item in chat:"
+
+# Data storage settings
+storage:
+  # Types: MEMORY, SQLITE, MYSQL (Currently, only MEMORY is implemented)
+  type: MEMORY

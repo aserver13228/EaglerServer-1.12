@@ -1,0 +1,67 @@
+settings-gui:
+  title: "&8SETTINGS"
+  size: 27
+  items:
+    player-visibility:
+      slot: 10
+      name: "&ePlayer Visibility"
+      enabled-item: "TOTEM_OF_UNDYING"
+      disabled-item: "TOTEM_OF_UNDYING"
+      lore-enabled:
+        - "&aCurrently: &2✅ Enabled"
+        - "&7Players are visible to you."
+        - ""
+        - "&7Click to &cDisable"
+      lore-disabled:
+        - "&aCurrently: &c❌ Disabled"
+        - "&7Players are hidden from you."
+        - ""
+        - "&7Click to &aEnable"
+    payments:
+      slot: 12
+      name: "&6Payments"
+      enabled-item: "GOLD_INGOT"
+      disabled-item: "GOLD_INGOT"
+      lore-enabled:
+        - "&aCurrently: &2✅ Enabled"
+        - "&7You can receive payments from players."
+        - ""
+        - "&7Click to &cDisable"
+      lore-disabled:
+        - "&aCurrently: &c❌ Disabled"
+        - "&7You cannot receive payments."
+        - ""
+        - "&7Click to &aEnable"
+    chat-messages:
+      slot: 14
+      name: "&fPrivate Messages"
+      enabled-item: "FEATHER"
+      disabled-item: "FEATHER"
+      lore-enabled:
+        - "&aCurrently: &2✅ Enabled"
+        - "&7You can receive private messages."
+        - ""
+        - "&7Click to &cDisable"
+      lore-disabled:
+        - "&aCurrently: &c❌ Disabled"
+        - "&7You cannot receive private messages."
+        - ""
+        - "&7Click to &aEnable"
+    teleport-requests:
+      slot: 16
+      name: "&5Teleport Requests"
+      enabled-item: "ENDER_PEARL"
+      disabled-item: "ENDER_PEARL"
+      lore-enabled:
+        - "&aCurrently: &2✅ Enabled"
+        - "&7You can receive TPA requests."
+        - ""
+        - "&7Click to &cDisable"
+      lore-disabled:
+        - "&aCurrently: &c❌ Disabled"
+        - "&7You cannot receive TPA requests."
+        - ""
+        - "&7Click to &aEnable"
+
+sound:
+  menu-click: "UI_BUTTON_CLICK"

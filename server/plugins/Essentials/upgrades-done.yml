@@ -6,7 +6,6 @@ warnMetrics: true
 updateRandomTeleport: true
 movemotdToFile: true
 moverulesToFile: true
-deleteOldItemsCsv: true
 sanitizeAllUserFilenames: true
 updateUsersPowerToolsFormat: true
 updateUsersHomesFormat: true

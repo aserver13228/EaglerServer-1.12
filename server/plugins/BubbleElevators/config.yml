@@ -1,9 +1,0 @@
-elevator:
-  up-speed: 0.05          # Soul sand speed per tick (max ~0.5 blocks/tick)
-  down-speed: 0.015       # Magma speed per tick (max ~0.1 blocks/tick)
-  max-height: 65           # Maximum water blocks to scan per column
-  particle:
-    enabled: true
-    density: 0.2          # 0 = none, 1 = full vanilla
-debug:
-  enabled: false           # Set true to enable debug messages

@@ -1,0 +1,88 @@
+#############################################
+#             DonutCore                     #
+#         Made by Pikz Studios              #
+#   Support Server: discord.gg/pikzstudios  #
+#############################################
+
+
+#################################
+#    Toggle Features            #
+#################################
+features:
+  media:
+    enabled: true
+  help:
+    enabled: true
+  market:
+    enabled: true
+  ranks:
+    enabled: true
+  rules:
+    enabled: true
+  billford:
+    enabled: true
+  chat:
+    enabled: true
+  spawn:
+    enabled: true
+  afk:
+    enabled: true
+  economy:
+    enabled: true
+  nightvision:
+    enabled: true
+
+
+#################################
+#    Database Configurartion    #
+#################################
+database:
+  type: sqlite # Options: sqlite, mysql
+  sqlite:
+    file: data
+  mysql:
+    host: localhost
+    port: 3306
+    database: donutsmpcore
+    username: root
+    password: password
+
+#################################
+#    Spawn Configurartion    #
+#################################
+spawn-gui: true # Set this to true if you want
+max-players-per-spawn: 50 # The maximum players per spawn
+autojoin: true # If true, new players will be teleported to the first spawn (index 0) and respawn there when they die
+
+#################################
+#    AFK Configurartion    #
+#################################
+afk-gui: true # Set this to true if you want
+max-players-per-afk: 50 # The maximum players per spawn
+
+#################################
+#    Chat Configurartion        #
+#################################
+chat:
+  format: "&b→ &f%player_name%: &7%message%"
+
+#################################
+#    Message Configurartion     #
+#################################
+message:
+  format: "&7[%sender% → %receiver%] &f%message%"
+
+#################################
+#    Teleport Configurartion    #
+#################################
+teleport:
+  teleport-countdown: 5
+
+#################################
+#    Billford Configurartion    #
+#################################
+billford:
+  current-preset: "test"
+  preset-change-interval: 2m
+  last-preset-change: 0 #DO NOT TOUCH IF YOU DO NOT KNOW WHAT YOU ARE DOING!
+  presets: []

@@ -1,31 +1,19 @@
 [
   {
-    "uuid": "e7932b05-a139-3352-9e98-1d856b710e23",
-    "name": "Adam898933333",
+    "uuid": "dd5049a3-7a1d-32be-bde4-45a2290ae4cb",
+    "name": "TuffestTuk",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "522b1a65-cdd5-348f-bfe3-1448aaffcf22",
-    "name": "Adam89893333",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "333e1c98-97df-3a8f-9f46-c6ca3feccc71",
-    "name": "LIFESTEAL_ADMIN",
+    "uuid": "84b551a9-e06f-3a00-a2ed-b4ce4bbbb888",
+    "name": "TuffectTuk",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
     "uuid": "b8e46504-274d-3847-ac77-ed94dbe8064b",
     "name": "Wemmbu",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "e2e33647-4212-36d0-8355-dcb1a8af2fda",
-    "name": "Life_or_Death",
     "level": 4,
     "bypassesPlayerLimit": false
   }

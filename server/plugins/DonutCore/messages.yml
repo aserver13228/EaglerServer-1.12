@@ -1,0 +1,208 @@
+only-players:
+  message: "&cThis command can only be executed by players."
+  enabled: true
+  type: CHAT
+reload:
+  message: "&aPlugin reloaded. Took %time%ms."
+  enabled: true
+  type: CHAT
+no-permission:
+  message: "&cYou do not have permission to execute this command. &7Permission needed: %permission%"
+  enabled: true
+  type: CHAT
+player-not-found:
+  message: "&cPlayer %player% not found."
+  enabled: true
+  type: CHAT
+msg-format-to:
+  message: "#00A4FBYOU &7->&r #00A4FB%receiver%: &f%message%"
+  enabled: true
+  type: CHAT
+msg-format-from:
+  message: "#00A4FB%sender% &7->&r #00A4FBYOU: &f%message%"
+  enabled: true
+  type: CHAT
+msg-disabled:
+  message: "&c%player% has their messages disabled."
+  enabled: true
+  type: CHAT
+spawn-not-set:
+  message: "&cSpawn not set."
+  enabled: true
+  type: CHAT
+afk-not-set:
+  message: "&cAFK not set."
+  enabled: true
+  type: CHAT
+spawn-is-full:
+  message: "&cSpawn is full."
+  enabled: true
+  type: CHAT
+afk-is-full:
+  message: "&cAFK is full."
+  enabled: true
+  type: CHAT
+teleport-countdown:
+  message: "&aTeleporting in %countdown% seconds..."
+  enabled: true
+  type: BOTH
+teleport-complete:
+  message: "&aTeleporting."
+  enabled: true
+  type: BOTH
+teleport-cancelled:
+  message: "&cTeleport cancelled."
+  enabled: true
+  type: BOTH
+balance-message:
+  message: "#37BFF9%player% &7has #00FC00$%amount%."
+  enabled: true
+  type: BOTH
+payment-disabled-other:
+  message: "&c%player% has payments disabled!"
+  enabled: true
+  type: CHAT
+invalid-amount:
+  message: "&cInvalid amount. Please enter a number greater than 0."
+  enabled: true
+  type: CHAT
+not-enough-money:
+  message: "&cYou do not have enough money."
+  enabled: true
+  type: CHAT
+payment-success:
+  message: "&7You payed #37BFF9%player% #00FC00$%amount%&7."
+  enabled: true
+  type: BOTH
+payment-received:
+  message: "#37BFF9%player% &7payed you #00FC00$%amount%&7."
+  enabled: true
+  type: BOTH
+payment-enabled:
+  message: "&aPayments enabled."
+  enabled: true
+  type: CHAT
+payment-disabled:
+  message: "&cPayments disabled."
+  enabled: true
+  type: CHAT
+discord-message:
+  message: "#00A4FCᴊᴏɪɴ ᴛʜᴇ sᴇʀᴠᴇʀ ɴᴀᴍᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ\n#00A4FC&l•&r &f&ndiscord.gg/example"
+  enabled: true
+  type: CHAT
+messages-disabled-other:
+  message: "&c%player% has messages disabled!"
+  enabled: true
+  type: CHAT
+messages-enabled:
+  message: "&aMessages have been enabled."
+  enabled: true
+  type: CHAT
+messages-disabled:
+  message: "&cMessages have been disabled."
+  enabled: true
+  type: CHAT
+night-vision-enabled:
+  message: "&aNight vision enabled."
+  enabled: true
+  type: CHAT
+night-vision-disabled:
+  message: "&cNight vision disabled."
+  enabled: true
+  type: CHAT
+
+no-one-to-reply:
+  message: "&cNo one to reply to."
+  enabled: true
+  type: CHAT
+
+player-is-ignoring:
+  message: "&cThis player is ignoring you."
+  enabled: true
+  type: CHAT
+
+cannot-message-yourself:
+  message: "&cYou cannot message yourself."
+  enabled: true
+  type: CHAT
+
+private-message-sender:
+  message: "#00A4FBYOU &7->&r #00A4FB%target%: &f%message%"
+  enabled: true
+  type: CHAT
+
+private-message-receiver:
+  message: "#00A4FB%sender% &7->&r #00A4FBYOU: &f%message%"
+  enabled: true
+  type: CHAT
+
+store-message:
+  message: "#00A4FCᴠɪsɪᴛ ᴛʜᴇ sᴇʀᴠᴇʀ ɴᴀᴍᴇ sᴛᴏʀᴇ\n#00A4FC&l•&r &f&nhttps://store.example.com"
+  enabled: true
+  type: CHAT
+
+first-join-welcome:
+  message: "&aWelcome to the server! You have been teleported to spawn."
+  enabled: true
+  type: BOTH
+
+autojoin-no-spawn:
+  message: "&cWelcome! No spawn location is configured yet."
+  enabled: true
+  type: CHAT
+
+do-not-have-required-items:
+  message: "&cYou don't have the required items for this trade!"
+  enabled: true
+  type: CHAT
+
+trade-success:
+  message: "&aTrade completed successfully!"
+  enabled: true
+  type: BOTH
+
+no-preset-configured:
+  message: "&cNo active Billford preset is configured!"
+  enabled: true
+  type: CHAT
+
+preset-not-found:
+  message: "&cThe active preset could not be found!"
+  enabled: true
+  type: CHAT
+
+no-required-items:
+  message: "&cThis preset has no required items configured!"
+  enabled: true
+  type: CHAT
+
+no-trade-item:
+  message: "&cThis preset has no trade item configured!"
+  enabled: true
+  type: CHAT
+
+inventory-full:
+  message: "&cYour inventory is full! Make some space first."
+  enabled: true
+  type: CHAT
+
+# Warp system messages
+warp-not-found:
+  message: "&cWarp '%warp%' not found!"
+  enabled: true
+  type: CHAT
+
+warp-invalid-location:
+  message: "&cWarp '%warp%' location is invalid!"
+  enabled: true
+  type: CHAT
+
+warp-teleporting:
+  message: "&aTeleporting to warp '%warp%'..."
+  enabled: true
+  type: BOTH
+
+no-warps-available:
+  message: "&cNo warps available! Contact an administrator to set up warps."
+  enabled: true
+  type: CHAT

@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1766636460881
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766781683199
+  login: 1766781469460
+money: '0'
+last-account-name: Wemmbu
+logoutlocation:
+  world: c1ce3bba-a903-4788-93c5-057b0bbc5f55
+  world-name: world
+  x: -40.16788697058632
+  y: 72.0
+  z: -36.430716668565715
+  yaw: 104.39966583251953
+  pitch: 14.849934577941895
+lastlocation:
+  world: c1ce3bba-a903-4788-93c5-057b0bbc5f55
+  world-name: world
+  x: 15.952701732727068
+  y: 88.0
+  z: 6.670902425814051
+  yaw: 91.94937133789062
+  pitch: 11.249983787536621
+confirm-clear: false

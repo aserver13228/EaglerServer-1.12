@@ -1,8 +1,0 @@
-bounceback: true
-worlds:
-  um:
-    portalgoesto:
-      NETHER: um_nether
-  unstable:
-    portalgoesto:
-      NETHER: unstable_nether

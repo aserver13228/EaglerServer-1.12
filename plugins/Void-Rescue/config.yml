@@ -1,0 +1,33 @@
+# VoidRescue Configuration
+# Prevents players from dying to the void by teleporting them high above safe ground
+
+voidrescue:
+  # Global toggle for the rescue feature
+  enabled: true
+
+  # If player absolute Y is strictly less than this value, and the dimension is enabled, rescue triggers
+  trigger_y: 1
+
+  # Toggle rescue per dimension
+  dimensions:
+    overworld: true
+    nether: true
+    the_end: true
+
+  # Teleport placement height relative to ground at the chosen safe spot
+  # Players will be teleported to a random height between min and max above the ground
+  # Height is clamped to world max height for safety
+  rescue_height_min: 200
+  rescue_height_max: 1000
+
+  # Slow Falling duration in seconds
+  # Should comfortably cover the max drop from rescue_height_max
+  slow_fall_seconds: 45
+
+  # Quality-of-life toggles
+  # Cancel fall damage from rescue descent
+  cancel_fall_damage: true
+
+  # Cooldown in seconds before the same player can be rescued again
+  # Prevents infinite rescue loops
+  cooldown_seconds: 2
