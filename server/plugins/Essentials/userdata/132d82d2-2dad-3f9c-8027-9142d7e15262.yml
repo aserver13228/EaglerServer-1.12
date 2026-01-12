@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767964027246
+  login: 1767963977908
+money: '0'
+last-account-name: SR8K_
+lastlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: 10.5
+  y: 82.0
+  z: -9.5
+  yaw: -75.0
+  pitch: -9.000006675720215
+logoutlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: 32.30000001192093
+  y: 74.0
+  z: 11.300000011920929
+  yaw: 51.900596618652344
+  pitch: 17.70001983642578

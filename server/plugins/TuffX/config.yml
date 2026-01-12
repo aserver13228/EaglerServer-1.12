@@ -4,6 +4,8 @@ debug-mode: false
 #worlds for y0 to be enabled in
 enabled-worlds:
     - 'world'
+    - 'flat'
+    - 'unstable'
 
 #the amount of threads for the chunk processor to use - using more threads processes chunks faster, but increases CPU usage
 #-1 is automatic

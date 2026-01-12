@@ -1,0 +1,11 @@
+xp: 0.0
+health: 18.0
+hunger: 20
+saturation: 5.0
+location:
+  world: world
+  x: 1.6
+  y: 85.0
+  z: 1.6
+logType: QUIT
+version: v1_21_R5

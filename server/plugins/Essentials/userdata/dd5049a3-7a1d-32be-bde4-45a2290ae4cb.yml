@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1767838757062
-  login: 1767838574470
+  logout: 1767904543137
+  login: 1767904207192
 money: '0'
 last-account-name: TuffestTuk
 logoutlocation:
   world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
   world-name: world
-  x: -49.62764638719032
-  y: 176.49284033149192
-  z: -363.26707319131174
-  yaw: 1.7987060546875
-  pitch: 20.100032806396484
+  x: -0.20555587381821153
+  y: 84.0
+  z: 11.699999988079071
+  yaw: 13.650003433227539
+  pitch: 47.84999084472656
 lastlocation:
   world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
   world-name: world

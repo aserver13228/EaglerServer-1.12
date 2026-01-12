@@ -1,0 +1,144 @@
+#
+# GreatImpostor config
+#
+
+# ########################################################################################
+# THIS IS THE PREWRITTEN CONFIG FOR THE 5-MINUTE SETUP. FEEL FREE TO FURTHER CUSTOMIZE. #
+# ########################################################################################
+
+
+
+
+# Number of ticks a meeting lasts.
+# Default is 2100 ticks (1:45)
+meeting-time-ticks: 1100
+
+# How many ticks you have to fix critical sabotages (reactor meltdown, oxygen depleted) before the crew dies
+# ex. 600 ticks = 30 seconds
+critical-sabotage-fix-ticks: 600
+
+# The maximum number of meetings each player can call per game
+max-meetings-per-player: 2
+
+# Whether the communications sabotage prevents body reporting. It does not in the original game, but I added this option
+# if you want to buff the sabotage slightly.
+comms-sabotage-prevents-reporting: false
+
+# You can customize the impostor cooldowns here, and there's finer control over each scenario (on game start, after
+# actually using it, and after the game resumes after a meeting ends).
+# The defaults are what they are in the main game: 10 second cooldown at the start of the game and 30 seconds after
+# actually using it or a meeting
+impostor-cooldowns:
+  # How long before killing when the game starts (in ticks, default: 200t/10s)
+  kill-game-start: 200
+  # How long before sabotaging when the game starts (default: 200t/10s)
+  sabotage-game-start: 200
+  # How long before killing after killing (default: 600t/30s)
+  kill-after-use: 600
+  # How long before sabotaging after sabotaging (default: 600t/30s)
+  sabotage-after-use: 600
+  # How long before killing after a meeting ends (default: 600t/30s)
+  kill-after-meeting: 600
+  # How long before sabotaging after a meeting ends (default: 600t/30s)
+  sabotage-after-meeting: 600
+
+
+
+# I wouldn't recommend touching anything below.
+
+enable-victory-checks: true
+
+cameras:
+- - 9430.5
+  - 139.5
+  - 9470.5
+  - 0.0
+- - 9456.5
+  - 139.5
+  - 9447.5
+  - 0.0
+- - 9482.5
+  - 139.5
+  - 9473.5
+  - -90.0
+- - 9516.5
+  - 139.5
+  - 9472.5
+  - 135.0
+
+sabotage-fix-coordinates:
+  reactor:
+  - 9418.5
+  - 9461.5
+  oxygen-in-oxygen:
+  - 9504.5
+  - 9461.5
+  oxygen-in-admin:
+  - 9503.5
+  - 9472.5
+
+starting-location:
+  world-name: among
+  x: 9482.5
+  y: 139.0
+  z: 9451.5
+
+vents:
+- - - 9453.5
+    - 139.2
+    - 9477.5
+    - -45.0
+  - - 9451.5
+    - 139.2
+    - 9464.5
+    - -90.0
+  - - 9446.5
+    - 139.2
+    - 9478.5
+    - 135.0
+- - - 9498.5
+    - 139.2
+    - 9451.5
+    - 90.0
+  - - 9489.5
+    - 139.2
+    - 9481.5
+    - -135.0
+  - - 9510.5
+    - 139.2
+    - 9472.5
+    - -45.0
+- - - 9527.5
+    - 139.2
+    - 9462.5
+    - 0.0
+  - - 9511.5
+    - 139.2
+    - 9441.5
+    - 0.0
+- - - 9527.5
+    - 139.2
+    - 9472.5
+    - 180.0
+  - - 9512.5
+    - 139.2
+    - 9503.5
+    - 180.0
+- - - 9416.5
+    - 139.2
+    - 9464.5
+    - 0.0
+  - - 9437.5
+    - 139.2
+    - 9437.5
+    - 0.0
+- - - 9416.5
+    - 139.2
+    - 9476.5
+    - 180.0
+  - - 9437.5
+    - 139.2
+    - 9506.5
+    - 180.0
+
+

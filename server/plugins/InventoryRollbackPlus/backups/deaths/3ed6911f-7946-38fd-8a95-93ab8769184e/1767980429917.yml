@@ -1,0 +1,12 @@
+xp: 0.0
+health: 0.0
+hunger: 20
+saturation: 3.0
+location:
+  world: flat
+  x: 0.5
+  y: -61.5
+  z: 3.0
+logType: DEATH
+version: v1_21_R5
+deathReason: ENTITY_ATTACK (Slime)

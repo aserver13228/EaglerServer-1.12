@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767980786065
+  login: 1767980766963
+money: '0'
+last-account-name: LettuceK
+logoutlocation:
+  world: 4d3cc596-fb86-498d-a082-3cffb86ab0d8
+  world-name: flat
+  x: -1.699999988079071
+  y: -60.424654440509606
+  z: 4.699999988079071
+  yaw: 71.25
+  pitch: 31.499998092651367
+lastlocation:
+  world: 4d3cc596-fb86-498d-a082-3cffb86ab0d8
+  world-name: flat
+  x: -0.15517882131754634
+  y: 40.0
+  z: 31.859996139971848
+  yaw: -159.7498779296875
+  pitch: 54.75

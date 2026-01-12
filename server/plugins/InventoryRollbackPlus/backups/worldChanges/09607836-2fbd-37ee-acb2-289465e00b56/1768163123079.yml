@@ -1,0 +1,11 @@
+xp: 0.0
+health: 18.0
+hunger: 20
+saturation: 5.0
+location:
+  world: among
+  x: 9482.5
+  y: 139.0
+  z: 9451.5
+logType: WORLD_CHANGE
+version: v1_21_R5

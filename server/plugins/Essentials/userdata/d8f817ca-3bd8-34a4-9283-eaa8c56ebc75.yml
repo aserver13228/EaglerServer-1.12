@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767920721543
+  login: 1767919824000
+money: '0'
+last-account-name: thebesttoucher
+logoutlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: 23.139845842188564
+  y: 87.0
+  z: -35.13025487988505
+  yaw: 31.200088500976562
+  pitch: 19.650001525878906
+lastlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: 20184.483419378652
+  y: 70.0
+  z: 2973.300000011921
+  yaw: 133.05015563964844
+  pitch: 56.69999694824219

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767962091794
+  login: 1767961818089
+money: '0'
+last-account-name: Yareth_dude
+lastlocation:
+  world: 24d38b79-5bae-49e0-9b0c-9f3d8bccb664
+  world-name: unstable
+  x: -364.53770507271844
+  y: 73.0
+  z: 139.73662022941204
+  yaw: -130.6498260498047
+  pitch: -0.5999739766120911
+logoutlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: -29.28593877682003
+  y: 91.0
+  z: -115.30000001192093
+  yaw: 16.049591064453125
+  pitch: 9.450003623962402

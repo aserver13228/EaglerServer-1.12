@@ -1,0 +1,11 @@
+xp: 0.0
+health: 19.833332061767578
+hunger: 17
+saturation: 0.0
+location:
+  world: unstable
+  x: -204.5
+  y: 67.0
+  z: 217.5
+logType: WORLD_CHANGE
+version: v1_21_R5

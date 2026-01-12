@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1768164967658
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1767590951502
-  login: 1767590762561
-money: '1000'
+  logout: 1768180337435
+  login: 1768180291487
+money: '2000.0'
 last-account-name: Wemmbu
 logoutlocation:
-  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
-  world-name: world
-  x: -68.06504269154503
-  y: 80.0
-  z: 61.691687111088996
-  yaw: 31.200143814086914
-  pitch: -90.0
+  world: 579fa708-654b-40bc-8da2-c5401e4605a0
+  world-name: unstable
+  x: 34.5
+  y: -23.0
+  z: -104.5
+  yaw: 89.24835205078125
+  pitch: 28.050003051757812
+lastlocation:
+  world: acbc2421-eb3f-4f84-8410-48fc839ac8d3
+  world-name: among
+  x: 52.61802289579668
+  y: 71.0
+  z: 166.28404127445225
+  yaw: -109.49998474121094
+  pitch: 18.449970245361328

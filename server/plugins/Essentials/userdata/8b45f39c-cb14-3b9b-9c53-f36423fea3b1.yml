@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767894173181
+  login: 1767893656134
+money: '0'
+last-account-name: jellybean21
+lastlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: 5.565241268453958
+  y: 79.0
+  z: 1.198725318569827
+  yaw: 108.45000457763672
+  pitch: 15.75
+logoutlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: -12.408893913288804
+  y: 80.0
+  z: -9.948081950662111
+  yaw: 109.19873046875
+  pitch: -31.049999237060547

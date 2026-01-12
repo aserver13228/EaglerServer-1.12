@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1768165829956
+  login: 1768165646459
+money: '0'
+last-account-name: Mapicc
+logoutlocation:
+  world: acbc2421-eb3f-4f84-8410-48fc839ac8d3
+  world-name: among
+  x: 51.0073416756803
+  y: 70.0
+  z: 160.69876300642653
+  yaw: 80.25006103515625
+  pitch: 12.899993896484375
+lastlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: -1.1752564338546345
+  y: 87.0
+  z: 6.189617537260009
+  yaw: -112.94987487792969
+  pitch: 26.999996185302734
